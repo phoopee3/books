@@ -1,4 +1,4 @@
-{ 
+{
     "books": [
         {
             "title": "Infinity Gate",
@@ -14,13 +14,19 @@
             "cover": "https://cdn.jasonlawton.com/books/infinity-gate.jpg",
             "notes": "",
             "tags": [
-                "currently-reading","fiction","science-fiction","adventurous","tense","medium-paced"
+                "currently-reading",
+                "fiction",
+                "science-fiction",
+                "adventurous",
+                "tense",
+                "medium-paced"
             ],
             "links": {
                 "amazon.com": "https://a.co/d/iEk0s3n",
                 "bookshop.org": "https://bookshop.org/p/books/infinity-gate-m-r-carey/19209152?ean=9780316504386"
             }
-        },{
+        },
+        {
             "title": "Buried Deep",
             "subtitle": "",
             "series_name": "",
@@ -31,16 +37,24 @@
             "start_date": "2024-11-03",
             "end_date": "2024-11-03",
             "pages": 0,
-            "cover": "https://cdn.jasonlawton.com/books/",
+            "cover": "https://cdn.jasonlawton.com/books/buried-deep.jpg",
             "notes": "",
             "tags": [
-                "currently-reading","fiction","fantasy","short-stories","challenging","dark","reflective","medium-paced"
+                "currently-reading",
+                "fiction",
+                "fantasy",
+                "short-stories",
+                "challenging",
+                "dark",
+                "reflective",
+                "medium-paced"
             ],
             "links": {
                 "amazon.com": "https://a.co/d/dY6995a",
                 "bookshop.org": "https://bookshop.org/p/books/buried-deep-and-other-stories-naomi-novik/20984713?ean=9780593600351"
             }
-        },{
+        },
+        {
             "title": "Twilight Falls",
             "subtitle": "",
             "series_name": "Shady Hollow",
@@ -54,13 +68,18 @@
             "cover": "https://cdn.jasonlawton.com/books/twilight-falls.jpg",
             "notes": "",
             "tags": [
-                "fiction","mystery","lighthearted","mysterious","medium-paced"
+                "fiction",
+                "mystery",
+                "lighthearted",
+                "mysterious",
+                "medium-paced"
             ],
             "links": {
                 "amazon.com": "https://a.co/d/89cS8Ee",
                 "bookshop.org": "https://bookshop.org/p/books/twilight-falls-juneau-black/17320327?ean=9780593315703"
             }
-        },{
+        },
+        {
             "title": "Children of Ruin",
             "subtitle": "",
             "series_name": "Children of Time",
@@ -74,13 +93,19 @@
             "cover": "https://cdn.jasonlawton.com/books/children-of-ruin.jpg",
             "notes": "Too much, too complicated, too slow. I listened to the second half of it as an audio book and it worked much better for me.",
             "tags": [
-                "fiction","science-fiction","adventurous","challenging","reflective","slow-paced"
+                "fiction",
+                "science-fiction",
+                "adventurous",
+                "challenging",
+                "reflective",
+                "slow-paced"
             ],
             "links": {
                 "amazon.com": "https://a.co/d/gjD4PI1",
-                "bookshop.org":"https://bookshop.org/p/books/children-of-ruin-adrian-tchaikovsky/113390?ean=9780316452533"
+                "bookshop.org": "https://bookshop.org/p/books/children-of-ruin-adrian-tchaikovsky/113390?ean=9780316452533"
             }
-        },{
+        },
+        {
             "title": "Kiki's Delivery Service",
             "subtitle": "",
             "series_name": "",
@@ -94,13 +119,18 @@
             "cover": "https://cdn.jasonlawton.com/books/kikis-delivery-service.jpg",
             "notes": "",
             "tags": [
-                "fiction","fantasy","adventurous","lighthearted","fast-paced"
+                "fiction",
+                "fantasy",
+                "adventurous",
+                "lighthearted",
+                "fast-paced"
             ],
             "links": {
                 "amazon.com": "https://a.co/d/dYJtp42",
-                "bookshop.org":"https://bookshop.org/p/books/kiki-s-delivery-service-eiko-kadono/14191352?ean=9781984896698"
+                "bookshop.org": "https://bookshop.org/p/books/kiki-s-delivery-service-eiko-kadono/14191352?ean=9781984896698"
             }
-        },{
+        },
+        {
             "title": "Saevus Corax Deals With the Dead",
             "subtitle": "",
             "series_name": "The Corax Trilogy",
@@ -114,13 +144,19 @@
             "cover": "https://cdn.jasonlawton.com/books/saevus-corax-deals-with-the-dead.jpg",
             "notes": "",
             "tags": [
- "fiction","fantasy","historical","adventurous","dark","fast-paced"
+                "fiction",
+                "fantasy",
+                "historical",
+                "adventurous",
+                "dark",
+                "fast-paced"
             ],
             "links": {
                 "amazon.com": "https://a.co/d/giulT2z",
-                "bookshop.org":"https://bookshop.org/p/books/new-k-j-parker-novel-1-k-j-parker/18498396?ean=9780316668903"
+                "bookshop.org": "https://bookshop.org/p/books/new-k-j-parker-novel-1-k-j-parker/18498396?ean=9780316668903"
             }
-        },{
+        },
+        {
             "title": "Seeds of Mercury",
             "subtitle": "From Adventures in Space",
             "series_name": "",
@@ -140,7 +176,8 @@
             "links": {
                 "amazon.com": "https://a.co/d/0TuduTC"
             }
-        },{
+        },
+        {
             "title": "Better Living Through Algorithms",
             "subtitle": "",
             "series_name": "",
@@ -162,7 +199,8 @@
             "links": {
                 "clarksworldmagazine.com": "https://clarkesworldmagazine.com/kritzer_05_23/"
             }
-        },{
+        },
+        {
             "title": "Thornhedge",
             "subtitle": "",
             "series_name": "",
@@ -176,13 +214,20 @@
             "cover": "https://cdn.jasonlawton.com/books/thornhedge.jpg",
             "notes": "",
             "tags": [
-                "hugo-nominated","fiction","fantasy","adventurous","dark","emotional","fast-paced"
+                "hugo-nominated",
+                "fiction",
+                "fantasy",
+                "adventurous",
+                "dark",
+                "emotional",
+                "fast-paced"
             ],
             "links": {
                 "bookshop.org": "https://bookshop.org/p/books/thornhedge-t-kingfisher/18750128?ean=9781250244093",
-                "amazon.com":"https://a.co/d/49qCHKs"
+                "amazon.com": "https://a.co/d/49qCHKs"
             }
-        },{
+        },
+        {
             "title": "The Jinn-bot of Shantiport",
             "subtitle": "",
             "series_name": "",
@@ -196,13 +241,18 @@
             "cover": "https://cdn.jasonlawton.com/books/jinn-bot-of-shantiport.jpg",
             "notes": "",
             "tags": [
-                "fiction","science-fiction","adventurous","funny","medium-paced"
+                "fiction",
+                "science-fiction",
+                "adventurous",
+                "funny",
+                "medium-paced"
             ],
             "links": {
                 "bookshop.org": "https://bookshop.org/p/books/the-jinn-bot-of-shantiport-samit-basu/19538554?ean=9781250827517",
-                "amazon.com":"https://a.co/d/36UDxCX"
+                "amazon.com": "https://a.co/d/36UDxCX"
             }
-        },{
+        },
+        {
             "title": "VenCo",
             "subtitle": "",
             "series_name": "",
@@ -216,14 +266,20 @@
             "cover": "https://cdn.jasonlawton.com/books/venco.png",
             "notes": "",
             "tags": [
-                "fiction","contemporary","fantasy","adventurous","dark","medium-paced"
+                "fiction",
+                "contemporary",
+                "fantasy",
+                "adventurous",
+                "dark",
+                "medium-paced"
             ],
             "links": {
-                "openlibrary.org":"https://openlibrary.org/works/OL28123188W/Ven._Co?edition=key:/books/OL38493549M",
+                "openlibrary.org": "https://openlibrary.org/works/OL28123188W/Ven._Co?edition=key:/books/OL38493549M",
                 "bookshop.org": "https://bookshop.org/p/books/venco-cherie-dimaline/18727170?ean=9780063054899",
-                "amazon.com":"https://a.co/d/8ebC4hv"
+                "amazon.com": "https://a.co/d/8ebC4hv"
             }
-        },{
+        },
+        {
             "title": "Emily Wilde's Encyclopaedia of Faeries",
             "subtitle": "",
             "series_name": "Emily Wilde",
@@ -246,11 +302,12 @@
                 "medium-paced"
             ],
             "links": {
-                "openlibrary.org":"https://openlibrary.org/works/OL27411628W/Emily_Wilde%27s_Encyclopaedia_of_Faeries?edition=key:/books/OL38066818M",
+                "openlibrary.org": "https://openlibrary.org/works/OL27411628W/Emily_Wilde%27s_Encyclopaedia_of_Faeries?edition=key:/books/OL38066818M",
                 "bookshop.org": "https://bookshop.org/p/books/emily-wilde-s-encyclopaedia-of-faeries-book-one-of-the-emily-wilde-series-heather-fawcett/18363322?ean=9780593500132",
-                "amazon.com":"https://a.co/d/bfM8A6N"
+                "amazon.com": "https://a.co/d/bfM8A6N"
             }
-        },{
+        },
+        {
             "title": "Mirror Lake",
             "subtitle": "",
             "series_name": "A Shady Hollow Mystery",
@@ -273,11 +330,12 @@
                 "fast-paced"
             ],
             "links": {
-                "openlibrary.org":"https://openlibrary.org/works/OL34959009W/Mirror_Lake?edition=key:/books/OL47320606M",
+                "openlibrary.org": "https://openlibrary.org/works/OL34959009W/Mirror_Lake?edition=key:/books/OL47320606M",
                 "bookshop.org": "https://bookshop.org/p/books/mirror-lake-juneau-black/17374974?ean=9780593466308",
-                "amazon.com":"https://a.co/d/23d6wcN"
+                "amazon.com": "https://a.co/d/23d6wcN"
             }
-        },{
+        },
+        {
             "title": "A Conjuring of Light",
             "subtitle": "",
             "series_name": "Shades of Magic",
@@ -326,11 +384,12 @@
                 "medium-paced"
             ],
             "links": {
-                "openlibrary.org":"https://openlibrary.org/works/OL28800081W/Titanium_Noir?edition=key%3A/books/OL39784055M",
+                "openlibrary.org": "https://openlibrary.org/works/OL28800081W/Titanium_Noir?edition=key%3A/books/OL39784055M",
                 "bookshop.org": "https://bookshop.org/p/books/titanium-noir-nick-harkaway/18754952?ean=9780593535363",
-                "amazon.com":"https://a.co/d/gpq59Au"
+                "amazon.com": "https://a.co/d/gpq59Au"
             }
-        },{
+        },
+        {
             "title": "Service Model",
             "subtitle": "",
             "series_name": "",
@@ -344,14 +403,20 @@
             "cover": "https://cdn.jasonlawton.com/books/service-model.jpg",
             "notes": "",
             "tags": [
-                "fiction","science-fiction","adventurous","funny","reflective","medium-paced"
+                "fiction",
+                "science-fiction",
+                "adventurous",
+                "funny",
+                "reflective",
+                "medium-paced"
             ],
             "links": {
-                "openlibrary.org":"https://openlibrary.org/works/OL37576633W/Service_Model?edition=key:/books/OL51098187M",
+                "openlibrary.org": "https://openlibrary.org/works/OL37576633W/Service_Model?edition=key:/books/OL51098187M",
                 "bookshop.org": "https://bookshop.org/p/books/service-model-adrian-tchaikovsky/20507476?ean=9781250290281",
-                "amazon.com":"https://a.co/d/jaF670k"
+                "amazon.com": "https://a.co/d/jaF670k"
             }
-        },{
+        },
+        {
             "title": "Cold Clay",
             "subtitle": "",
             "series_name": "A Shady Hollow Mystery",
@@ -374,9 +439,9 @@
                 "fast-paced"
             ],
             "links": {
-                "openlibrary.org":"https://openlibrary.org/works/OL25923635W/Cold_Clay?edition=key:/books/OL34990052M",
+                "openlibrary.org": "https://openlibrary.org/works/OL25923635W/Cold_Clay?edition=key:/books/OL34990052M",
                 "bookshop.org": "https://bookshop.org/p/books/cold-clay-juneau-black/17374973?ean=9780593466285",
-                "amazon.com":"https://a.co/d/aI7JEOi"
+                "amazon.com": "https://a.co/d/aI7JEOi"
             }
         },
         {
@@ -402,9 +467,9 @@
                 "fast-paced"
             ],
             "links": {
-                "openlibrary.org":"https://openlibrary.org/works/OL25923631W/Shady_Hollow?edition=key:/books/OL35867200M",
+                "openlibrary.org": "https://openlibrary.org/works/OL25923631W/Shady_Hollow?edition=key:/books/OL35867200M",
                 "bookshop.org": "https://bookshop.org/p/books/shady-hollow-a-murder-mystery-juneau-black/17374823?ean=9780593315712",
-                "amazon.com":"https://www.amazon.com/Shady-Hollow-Mystery/dp/0593315715"
+                "amazon.com": "https://www.amazon.com/Shady-Hollow-Mystery/dp/0593315715"
             }
         },
         {
@@ -430,9 +495,9 @@
                 "medium-paced"
             ],
             "links": {
-                "openlibrary.org":"https://openlibrary.org/books/OL39728247M/Saint_of_Bright_Doors",
+                "openlibrary.org": "https://openlibrary.org/books/OL39728247M/Saint_of_Bright_Doors",
                 "bookshop.org": "https://bookshop.org/p/books/the-saint-of-bright-doors-vajra-chandrasekera/20464402",
-                "amazon.com":"https://www.amazon.com/Saint-Bright-Doors-Vajra-Chandrasekera/dp/1250847389"
+                "amazon.com": "https://www.amazon.com/Saint-Bright-Doors-Vajra-Chandrasekera/dp/1250847389"
             }
         },
         {
@@ -457,7 +522,7 @@
                 "medium-paced"
             ],
             "links": {
-                "openlibrary.org":"https://openlibrary.org/works/OL28851794W/Water_Outlaws?edition=key:/books/OL39660997M",
+                "openlibrary.org": "https://openlibrary.org/works/OL28851794W/Water_Outlaws?edition=key:/books/OL39660997M",
                 "bookshop.org": "https://bookshop.org/p/books/the-water-outlaws-s-l-huang/18749941?ean=9781250847980"
             }
         },
@@ -484,7 +549,7 @@
                 "medium-paced"
             ],
             "links": {
-                "openlibrary.org":"https://openlibrary.org/works/OL28357039W/The_adventures_of_Amina_Al-Sirafi",
+                "openlibrary.org": "https://openlibrary.org/works/OL28357039W/The_adventures_of_Amina_Al-Sirafi",
                 "bookshop.org": "https://bookshop.org/p/books/the-adventures-of-amina-al-sirafi-shannon-chakraborty/18834226?"
             }
         },
@@ -526,7 +591,14 @@
             "end_date": "2024-05-16",
             "cover": "https://jasonlawton.com/assets/books/some-desperate-glory.jpg",
             "notes": "",
-            "tags": [ "fiction","lgbtqia+","science-fiction","adventurous","dark","tense","medium-paced"
+            "tags": [
+                "fiction",
+                "lgbtqia+",
+                "science-fiction",
+                "adventurous",
+                "dark",
+                "tense",
+                "medium-paced"
             ],
             "links": {
                 "amazon": "https://a.co/d/5ZLYi4g",
@@ -576,7 +648,14 @@
             "end_date": "2024-04-07",
             "cover": "https://m.media-amazon.com/images/I/91snwMbqQ3L._SY522_.jpg",
             "notes": "",
-            "tags": ["fiction","lgbtqia+","science-fiction","adventurous","hopeful","medium-paced"],
+            "tags": [
+                "fiction",
+                "lgbtqia+",
+                "science-fiction",
+                "adventurous",
+                "hopeful",
+                "medium-paced"
+            ],
             "links": {
                 "amazon": "https://a.co/d/dD3eQA1",
                 "bookshop.org": "https://bookshop.org/p/books/the-terraformers-annalee-newitz/19537833?ean=9781250228017",
@@ -596,7 +675,14 @@
             "end_date": "2024-04-07",
             "cover": "https://m.media-amazon.com/images/I/81PdWnBmnOL._SY342_.jpg",
             "notes": "",
-            "tags": ["fiction","fantasy","lgbtqia+","adventurous","dark","medium-paced"],
+            "tags": [
+                "fiction",
+                "fantasy",
+                "lgbtqia+",
+                "adventurous",
+                "dark",
+                "medium-paced"
+            ],
             "links": {
                 "amazon": "https://a.co/d/hI30MBm",
                 "bookshop.org": "https://bookshop.org/p/books/saint-death-s-daughter-c-s-e-cooney/18569770?ean=9781786188526",
@@ -616,13 +702,22 @@
             "end_date": "2024-03-12",
             "cover": "https://m.media-amazon.com/images/I/81poMdVhSmL._SY466_.jpg",
             "notes": "",
-            "tags": ["fiction","mystery","science-fiction","adventurous","funny","mysterious","fast-paced"],
+            "tags": [
+                "fiction",
+                "mystery",
+                "science-fiction",
+                "adventurous",
+                "funny",
+                "mysterious",
+                "fast-paced"
+            ],
             "links": {
                 "amazon": "https://a.co/d/7xfOqWC",
-                "bookshop.org":"https://bookshop.org/p/books/chaos-terminal-mur-lafferty/19722926",
-                "storygraph":"https://app.thestorygraph.com/books/ff935edf-3c91-48a4-99d3-50545f595933"
+                "bookshop.org": "https://bookshop.org/p/books/chaos-terminal-mur-lafferty/19722926",
+                "storygraph": "https://app.thestorygraph.com/books/ff935edf-3c91-48a4-99d3-50545f595933"
             }
-        },{
+        },
+        {
             "title": "Starling House",
             "subtitle": "",
             "series_name": "",
@@ -635,13 +730,21 @@
             "end_date": "2024-03-07",
             "cover": "https://m.media-amazon.com/images/I/516CcKOor9L._SY445_SX342_.jpg",
             "notes": "",
-            "tags": ["fiction","fantasy","dark","emotional","mysterious","medium-paced"],
+            "tags": [
+                "fiction",
+                "fantasy",
+                "dark",
+                "emotional",
+                "mysterious",
+                "medium-paced"
+            ],
             "links": {
                 "amazon": "https://a.co/d/gregzgI",
-                "bookshop.org":"https://bookshop.org/p/books/starling-house-alix-e-harrow/20256220?ean=9798885794282",
-                "storygraph":"https://app.thestorygraph.com/books/26082341-b1f0-487d-b1c6-45d152b5ddc5"
+                "bookshop.org": "https://bookshop.org/p/books/starling-house-alix-e-harrow/20256220?ean=9798885794282",
+                "storygraph": "https://app.thestorygraph.com/books/26082341-b1f0-487d-b1c6-45d152b5ddc5"
             }
-        },{
+        },
+        {
             "title": "The Caledonian Gambit",
             "subtitle": "",
             "series_name": "",
@@ -654,13 +757,19 @@
             "end_date": "2024-02-25",
             "cover": "https://cdn.jasonlawton.com/books/caledonian-gambit.jpg",
             "notes": "",
-            "tags": ["fiction","science-fiction","adventurous","fast-paced"],
+            "tags": [
+                "fiction",
+                "science-fiction",
+                "adventurous",
+                "fast-paced"
+            ],
             "links": {
                 "amazon": "https://a.co/d/g7vvHVA",
-                "bookshop.org":"https://bookshop.org/p/books/the-caledonian-gambit-dan-moren/10708292?ean=9781940456843",
-                "storygraph":"https://app.thestorygraph.com/books/f489cb24-7f62-4ff1-b6ed-eb2c5bfb6678"
+                "bookshop.org": "https://bookshop.org/p/books/the-caledonian-gambit-dan-moren/10708292?ean=9781940456843",
+                "storygraph": "https://app.thestorygraph.com/books/f489cb24-7f62-4ff1-b6ed-eb2c5bfb6678"
             }
-        },{
+        },
+        {
             "title": "Children of Time",
             "subtitle": "",
             "series_name": "Children of Time",
@@ -673,11 +782,17 @@
             "end_date": "2024-02-16",
             "cover": "https://cdn.jasonlawton.com/books/children-of-time.jpg",
             "notes": "",
-            "tags": ["fiction","science-fiction","adventurous","tense","medium-paced"],
+            "tags": [
+                "fiction",
+                "science-fiction",
+                "adventurous",
+                "tense",
+                "medium-paced"
+            ],
             "links": {
                 "amazon": "https://a.co/d/jiY9pxF",
-                "bookshop.org":"https://bookshop.org/p/books/children-of-time-adrian-tchaikovsky/113411?ean=9780316452502",
-                "storygraph":"https://app.thestorygraph.com/books/142bc3cb-3aac-49e5-8527-b3cc9675f158"
+                "bookshop.org": "https://bookshop.org/p/books/children-of-time-adrian-tchaikovsky/113411?ean=9780316452502",
+                "storygraph": "https://app.thestorygraph.com/books/142bc3cb-3aac-49e5-8527-b3cc9675f158"
             }
         },
         {
@@ -693,11 +808,20 @@
             "end_date": "2024-01-29",
             "cover": "https://cdn.jasonlawton.com/books/my-murder.jpg",
             "notes": "",
-            "tags": ["science-fiction","fiction","literary","mystery","dark","emotional","mysterious","fast-paced"],
+            "tags": [
+                "science-fiction",
+                "fiction",
+                "literary",
+                "mystery",
+                "dark",
+                "emotional",
+                "mysterious",
+                "fast-paced"
+            ],
             "links": {
                 "amazon": "https://a.co/d/dDxOhCu",
-                "bookshop.org":"https://bookshop.org/p/books/my-murder-katie-williams/18961291?ean=9780593743768",
-                "storygraph":"https://app.thestorygraph.com/books/49b6eb24-e644-4653-a106-fb1e1e3cf2a6"
+                "bookshop.org": "https://bookshop.org/p/books/my-murder-katie-williams/18961291?ean=9780593743768",
+                "storygraph": "https://app.thestorygraph.com/books/49b6eb24-e644-4653-a106-fb1e1e3cf2a6"
             }
         },
         {
@@ -713,13 +837,22 @@
             "end_date": "2024-01-27",
             "cover": "https://m.media-amazon.com/images/I/81gBae3C7bL._SY342_.jpg",
             "notes": "",
-            "tags": ["fiction","fantasy","lgbtqia+","science-fiction","adventurous","emotional","medium-paced"],
+            "tags": [
+                "fiction",
+                "fantasy",
+                "lgbtqia+",
+                "science-fiction",
+                "adventurous",
+                "emotional",
+                "medium-paced"
+            ],
             "links": {
                 "amazon": "https://a.co/d/52BeJp4",
-                "bookshop.org":"https://bookshop.org/p/books/in-the-lives-of-puppets-tj-klune/18484876?ean=9781250217448",
-                "storygraph":"https://app.thestorygraph.com/books/0e5c2112-ae3a-49bb-ba6f-8cd96933091a"
+                "bookshop.org": "https://bookshop.org/p/books/in-the-lives-of-puppets-tj-klune/18484876?ean=9781250217448",
+                "storygraph": "https://app.thestorygraph.com/books/0e5c2112-ae3a-49bb-ba6f-8cd96933091a"
             }
-        },{
+        },
+        {
             "title": "The Language of Power",
             "subtitle": "",
             "series_name": "Steerswoman",
@@ -732,7 +865,14 @@
             "end_date": "2024-01-12",
             "cover": "https://m.media-amazon.com/images/I/51XHnWw5sgL._SY445_SX342_.jpg",
             "notes": "Each book is good, but there's still no resolution, and there are no more books out right now.",
-            "tags": ["fiction","fantasy","science-fiction","adventurous","mysterious","medium-paced"],
+            "tags": [
+                "fiction",
+                "fantasy",
+                "science-fiction",
+                "adventurous",
+                "mysterious",
+                "medium-paced"
+            ],
             "links": {
                 "amazon": "https://www.amazon.com/gp/product/B00JTNDL0A"
             }
@@ -750,7 +890,15 @@
             "end_date": "2024-01-01",
             "cover": "https://m.media-amazon.com/images/I/51hCj19BeoL._SY445_SX342_.jpg",
             "notes": "Not much happens in this book, and a lot of the stuff you want resolved is not.",
-            "tags": ["fiction","fantasy","science-fiction","adventurous","challenging","mysterious","slow-paced"],
+            "tags": [
+                "fiction",
+                "fantasy",
+                "science-fiction",
+                "adventurous",
+                "challenging",
+                "mysterious",
+                "slow-paced"
+            ],
             "links": {
                 "amazon": "https://www.amazon.com/gp/product/B00J8BY6CU/ref=ppx_yo_dt_b_d_asin_title_o00?ie=UTF8&psc=1"
             }
@@ -769,12 +917,19 @@
             "cover": "https://m.media-amazon.com/images/I/51blhEFDCyL._UX300undefined_.jpg",
             "notes": "Not much happened in this book",
             "tags": [
-"fiction","fantasy","science-fiction","adventurous","challenging","mysterious","slow-paced"
+                "fiction",
+                "fantasy",
+                "science-fiction",
+                "adventurous",
+                "challenging",
+                "mysterious",
+                "slow-paced"
             ],
             "links": {
                 "amazon": "https://www.amazon.com/gp/product/B00J89CKQ6?ref_=dbs_m_mng_wit_calw_tkin_1&storeType=ebooks&qid=1703651718&sr=8-1"
             }
-        },{
+        },
+        {
             "title": "The Steerswoman",
             "subtitle": "",
             "series_name": "Steerswoman",
@@ -788,12 +943,19 @@
             "cover": "https://m.media-amazon.com/images/I/51yIR+lSNSL._SY445_SX342_.jpg",
             "notes": "",
             "tags": [
-"fiction","fantasy","science-fiction","adventurous","challenging","mysterious","slow-paced"
+                "fiction",
+                "fantasy",
+                "science-fiction",
+                "adventurous",
+                "challenging",
+                "mysterious",
+                "slow-paced"
             ],
             "links": {
                 "amazon": "https://www.amazon.com/Steerswoman-Book-1-ebook/dp/B00HH1U8Z2/ref=sr_1_1?crid=3TINSNOBCOZ9E&keywords=the+steerswoman&qid=1703348602&sprefix=the+steer%2Caps%2C121&sr=8-1"
             }
-        },{
+        },
+        {
             "title": "Blitz",
             "subtitle": "",
             "series_name": "The Rook Files",
@@ -817,7 +979,8 @@
             "links": {
                 "amazon": "https://www.amazon.com/Blitz-Novel-Rook-Files-Book-ebook/dp/B09HQLMKMZ?keywords=blitz+o'malley&qid=1702878521&sr=8-1"
             }
-        },{
+        },
+        {
             "title": "Early Riser",
             "subtitle": "",
             "series_name": "",
@@ -830,11 +993,20 @@
             "end_date": "2023-11-27",
             "cover": "https://m.media-amazon.com/images/I/51WBtyrHqrL._SY445_SX342_.jpg",
             "notes": "",
-            "tags": ["fiction","fantasy","challenging","funny","lighthearted","mysterious","medium-paced"],
+            "tags": [
+                "fiction",
+                "fantasy",
+                "challenging",
+                "funny",
+                "lighthearted",
+                "mysterious",
+                "medium-paced"
+            ],
             "links": {
-                "amazon":"https://www.amazon.com/Early-Riser-Novel-Jasper-Fforde-ebook/dp/B07D23TLDR?keywords=early+riser&qid=1702878418&sr=8-1"
+                "amazon": "https://www.amazon.com/Early-Riser-Novel-Jasper-Fforde-ebook/dp/B07D23TLDR?keywords=early+riser&qid=1702878418&sr=8-1"
             }
-        },{
+        },
+        {
             "title": "The Atlas Six",
             "subtitle": "",
             "series_name": "Atlas Series",
@@ -847,11 +1019,19 @@
             "end_date": "2023-11-19",
             "cover": "https://m.media-amazon.com/images/I/51LzpTvAR8L._SY445_SX342_.jpg",
             "notes": "",
-            "tags": ["fiction","fantasy","adventurous","dark","mysterious","medium-paced"],
+            "tags": [
+                "fiction",
+                "fantasy",
+                "adventurous",
+                "dark",
+                "mysterious",
+                "medium-paced"
+            ],
             "links": {
-                "amazon":"https://www.amazon.com/Atlas-Six-Olivie-Blake-ebook/dp/B09GXL26SV?keywords=the+atlas+six&qid=1702878329&sr=8-1"
+                "amazon": "https://www.amazon.com/Atlas-Six-Olivie-Blake-ebook/dp/B09GXL26SV?keywords=the+atlas+six&qid=1702878329&sr=8-1"
             }
-        },{
+        },
+        {
             "title": "Bookshops & Bonedust",
             "subtitle": "",
             "series_name": "Legends & Lattes",
@@ -864,11 +1044,19 @@
             "end_date": "2023-11-15",
             "cover": "https://m.media-amazon.com/images/I/81LnJAvh0mL._SY522_.jpg",
             "notes": "",
-            "tags": ["fiction","fantasy","adventurous","funny","hopeful","fast-paced"],
+            "tags": [
+                "fiction",
+                "fantasy",
+                "adventurous",
+                "funny",
+                "hopeful",
+                "fast-paced"
+            ],
             "links": {
-                "amazon":"https://www.amazon.com/Bookshops-Bonedust-Travis-Baldree-ebook/dp/B0BQGGVB4K?keywords=bookshops+and+bonedust&qid=1702878248&sr=8-1"
+                "amazon": "https://www.amazon.com/Bookshops-Bonedust-Travis-Baldree-ebook/dp/B0BQGGVB4K?keywords=bookshops+and+bonedust&qid=1702878248&sr=8-1"
             }
-        },{
+        },
+        {
             "title": "The Land: Founding",
             "subtitle": "",
             "series_name": "Chaos Seeds",
@@ -881,11 +1069,18 @@
             "end_date": "2023-11-11",
             "cover": "https://m.media-amazon.com/images/I/51bOncbOF1L._SY445_SX342_.jpg",
             "notes": "",
-            "tags": ["dnf","fiction","fantasy","adventurous","fast-paced"],
+            "tags": [
+                "dnf",
+                "fiction",
+                "fantasy",
+                "adventurous",
+                "fast-paced"
+            ],
             "links": {
-                "amazon":"https://www.amazon.com/Land-Founding-LitRPG-Chaos-Seeds-ebook/dp/B0172GEB68?keywords=the+land+founding&qid=1702878127&sr=8-1"
+                "amazon": "https://www.amazon.com/Land-Founding-LitRPG-Chaos-Seeds-ebook/dp/B0172GEB68?keywords=the+land+founding&qid=1702878127&sr=8-1"
             }
-        },{
+        },
+        {
             "title": "Where the Drowned Girls Go",
             "subtitle": "",
             "series_name": "Wayward Children",
@@ -898,11 +1093,20 @@
             "end_date": "2023-11-08",
             "cover": "https://m.media-amazon.com/images/I/41hRv2fbm0S._SY445_SX342_.jpg",
             "notes": "",
-            "tags": ["fiction","fantasy","lgbtqia+","adventurous","dark","mysterious","medium-paced"],
+            "tags": [
+                "fiction",
+                "fantasy",
+                "lgbtqia+",
+                "adventurous",
+                "dark",
+                "mysterious",
+                "medium-paced"
+            ],
             "links": {
-                "amazon":"https://www.amazon.com/Where-Drowned-Girls-Wayward-Children-ebook/dp/B092T8CKS8?keywords=where+the+drowned+girls+go&qid=1702877988&sr=8-1"
+                "amazon": "https://www.amazon.com/Where-Drowned-Girls-Wayward-Children-ebook/dp/B092T8CKS8?keywords=where+the+drowned+girls+go&qid=1702877988&sr=8-1"
             }
-        },{
+        },
+        {
             "title": "The Farthest Shore",
             "subtitle": "",
             "series_name": "The Earthsea Cycle",
@@ -915,11 +1119,20 @@
             "end_date": "2023-11-06",
             "cover": "https://m.media-amazon.com/images/I/41TUQacykuL._SY445_SX342_.jpg",
             "notes": "",
-            "tags": ["fiction","fantasy","young-adult","adventurous","mysterious","reflective","medium-paced"],
+            "tags": [
+                "fiction",
+                "fantasy",
+                "young-adult",
+                "adventurous",
+                "mysterious",
+                "reflective",
+                "medium-paced"
+            ],
             "links": {
-                "amazon":"https://www.amazon.com/Farthest-Shore-Earthsea-Cycle-Book-ebook/dp/B008GT7L6I?keywords=the+farthest+shore&qid=1702877883&sr=8-1"
+                "amazon": "https://www.amazon.com/Farthest-Shore-Earthsea-Cycle-Book-ebook/dp/B008GT7L6I?keywords=the+farthest+shore&qid=1702877883&sr=8-1"
             }
-        },{
+        },
+        {
             "title": "The Empress of Salt and Fortune",
             "subtitle": "",
             "series_name": "The Singing Hills Cycle",
@@ -932,11 +1145,20 @@
             "end_date": "2023-10-30",
             "cover": "https://m.media-amazon.com/images/I/51iEjTPtIcL._SY445_SX342_.jpg",
             "notes": "",
-            "tags": ["fiction","fantasy","lgbtqia+","emotional","mysterious","reflective","medium-paced"],
+            "tags": [
+                "fiction",
+                "fantasy",
+                "lgbtqia+",
+                "emotional",
+                "mysterious",
+                "reflective",
+                "medium-paced"
+            ],
             "links": {
-                "amazon":"https://www.amazon.com/Empress-Salt-Fortune-Nghi-Vo-ebook/dp/B07VH6Y4JD?keywords=the+empress+of+salt+and+fortune&qid=1702877751&sr=8-1"
+                "amazon": "https://www.amazon.com/Empress-Salt-Fortune-Nghi-Vo-ebook/dp/B07VH6Y4JD?keywords=the+empress+of+salt+and+fortune&qid=1702877751&sr=8-1"
             }
-        },{
+        },
+        {
             "title": "Dr. No",
             "subtitle": "",
             "series_name": "",
@@ -949,11 +1171,19 @@
             "end_date": "2023-10-27",
             "cover": "https://m.media-amazon.com/images/I/41N66d9Fj1L._SY445_SX342_.jpg",
             "notes": "",
-            "tags": ["fiction","literary","dark","funny","mysterious","medium-paced"],
+            "tags": [
+                "fiction",
+                "literary",
+                "dark",
+                "funny",
+                "mysterious",
+                "medium-paced"
+            ],
             "links": {
-                "amazon":"https://www.amazon.com/Dr-No-Novel-Percival-Everett-ebook/dp/B0BHQTJF8D?crid=25RK55Z16J2QV&keywords=dr+no&qid=1702877646&sprefix=dr+no,aps,101&sr=8-2"
+                "amazon": "https://www.amazon.com/Dr-No-Novel-Percival-Everett-ebook/dp/B0BHQTJF8D?crid=25RK55Z16J2QV&keywords=dr+no&qid=1702877646&sprefix=dr+no,aps,101&sr=8-2"
             }
-        },{
+        },
+        {
             "title": "The Peace War",
             "subtitle": "",
             "series_name": "Across Realtime",
@@ -966,11 +1196,18 @@
             "end_date": "2023-10-24",
             "cover": "https://m.media-amazon.com/images/I/51J1cltYM-L._SY445_SX342_.jpg",
             "notes": "",
-            "tags": ["fiction","science-fiction","adventurous","mysterious","slow-paced"],
+            "tags": [
+                "fiction",
+                "science-fiction",
+                "adventurous",
+                "mysterious",
+                "slow-paced"
+            ],
             "links": {
-                "amazon":"https://www.amazon.com/Peace-War-Vernor-Vinge-ebook/dp/B003E74BSS?keywords=the+peace+war&qid=1702877528&sr=8-1"
+                "amazon": "https://www.amazon.com/Peace-War-Vernor-Vinge-ebook/dp/B003E74BSS?keywords=the+peace+war&qid=1702877528&sr=8-1"
             }
-        },{
+        },
+        {
             "title": "A Mirror Mended",
             "subtitle": "",
             "series_name": "Fractured Fables",
@@ -983,11 +1220,20 @@
             "end_date": "2023-10-17",
             "cover": "https://m.media-amazon.com/images/I/51EGnDox9aL._SY445_SX342_.jpg",
             "notes": "",
-            "tags": ["fiction","fantasy","lgbtqia+","adventurous","emotional","mysterious","medium-paced"],
+            "tags": [
+                "fiction",
+                "fantasy",
+                "lgbtqia+",
+                "adventurous",
+                "emotional",
+                "mysterious",
+                "medium-paced"
+            ],
             "links": {
-                "amazon":"https://www.amazon.com/Mirror-Mended-Fractured-Fables-ebook/dp/B09C4F5X1Q?keywords=a+mirror+mended&qid=1702877436&sr=8-1"
+                "amazon": "https://www.amazon.com/Mirror-Mended-Fractured-Fables-ebook/dp/B09C4F5X1Q?keywords=a+mirror+mended&qid=1702877436&sr=8-1"
             }
-        },{
+        },
+        {
             "title": "Even Though I Knew the End",
             "subtitle": "",
             "series_name": "",
@@ -1000,11 +1246,21 @@
             "end_date": "2023-10-16",
             "cover": "https://m.media-amazon.com/images/I/51nPSKVLNmL._SY445_SX342_.jpg",
             "notes": "",
-            "tags": ["fiction","fantasy","historical","lgbtqia+","dark","emotional","mysterious","fast-paced"],
+            "tags": [
+                "fiction",
+                "fantasy",
+                "historical",
+                "lgbtqia+",
+                "dark",
+                "emotional",
+                "mysterious",
+                "fast-paced"
+            ],
             "links": {
-                "amazon":"https://www.amazon.com/Even-Though-I-Knew-End-ebook/dp/B09NJVMJZH?keywords=even+though+i+knew+the+end&qid=1702877345&sr=8-1"
+                "amazon": "https://www.amazon.com/Even-Though-I-Knew-End-ebook/dp/B09NJVMJZH?keywords=even+though+i+knew+the+end&qid=1702877345&sr=8-1"
             }
-        },{
+        },
+        {
             "title": "Vermilion",
             "subtitle": "The Adventures of Lou Merriwether, Psychopomp",
             "series_name": "",
@@ -1017,11 +1273,19 @@
             "end_date": "2023-10-15",
             "cover": "https://m.media-amazon.com/images/I/51g1HLd8XPL._SY445_SX342_.jpg",
             "notes": "",
-            "tags": ["fiction","fantasy","adventurous","dark","mysterious","medium-paced"],
+            "tags": [
+                "fiction",
+                "fantasy",
+                "adventurous",
+                "dark",
+                "mysterious",
+                "medium-paced"
+            ],
             "links": {
-                "amazon":"https://www.amazon.com/Vermilion-Adventures-Lou-Merriwether-Psychopomp-ebook/dp/B00VN8UZPI?keywords=vermilion&qid=1702877247&sr=8-4"
+                "amazon": "https://www.amazon.com/Vermilion-Adventures-Lou-Merriwether-Psychopomp-ebook/dp/B00VN8UZPI?keywords=vermilion&qid=1702877247&sr=8-4"
             }
-        },{
+        },
+        {
             "title": "The Masked City",
             "subtitle": "",
             "series_name": "The Invisible Library",
@@ -1034,11 +1298,20 @@
             "end_date": "2023-10-08",
             "cover": "https://m.media-amazon.com/images/I/51uk+22Q7UL._SY445_SX342_.jpg",
             "notes": "",
-            "tags": ["fiction","fantasy","mystery","science-fiction","adventurous","mysterious","medium-paced"],
+            "tags": [
+                "fiction",
+                "fantasy",
+                "mystery",
+                "science-fiction",
+                "adventurous",
+                "mysterious",
+                "medium-paced"
+            ],
             "links": {
-                "amazon":"https://www.amazon.com/Masked-City-Invisible-Library-Novel-ebook/dp/B0191ZL5HQ?keywords=the+masked+city&qid=1702877112&sr=8-1"
+                "amazon": "https://www.amazon.com/Masked-City-Invisible-Library-Novel-ebook/dp/B0191ZL5HQ?keywords=the+masked+city&qid=1702877112&sr=8-1"
             }
-        },{
+        },
+        {
             "title": "Ice Hunt",
             "subtitle": "",
             "series_name": "",
@@ -1051,11 +1324,19 @@
             "end_date": "2023-10-03",
             "cover": "https://m.media-amazon.com/images/I/51FZJUs13qL._SY445_SX342_.jpg",
             "notes": "",
-            "tags": ["fiction","thriller","adventurous","mysterious","tense","fast-paced"],
+            "tags": [
+                "fiction",
+                "thriller",
+                "adventurous",
+                "mysterious",
+                "tense",
+                "fast-paced"
+            ],
             "links": {
-                "amazon":"https://www.amazon.com/Ice-Hunt-James-Rollins-ebook/dp/B000FC129G?keywords=ice+hunt&qid=1702877012&sr=8-1"
+                "amazon": "https://www.amazon.com/Ice-Hunt-James-Rollins-ebook/dp/B000FC129G?keywords=ice+hunt&qid=1702877012&sr=8-1"
             }
-        },{
+        },
+        {
             "title": "Witch King",
             "subtitle": "(The Rising World)",
             "series_name": "",
@@ -1068,11 +1349,18 @@
             "end_date": "2023-09-18",
             "cover": "https://m.media-amazon.com/images/I/41uz2SeskCL._SY445_SX342_.jpg",
             "notes": "",
-            "tags": ["fiction","fantasy","adventurous","mysterious","medium-paced"],
+            "tags": [
+                "fiction",
+                "fantasy",
+                "adventurous",
+                "mysterious",
+                "medium-paced"
+            ],
             "links": {
-                "amazon":"https://www.amazon.com/Witch-King-Martha-Wells-ebook/dp/B0B9KVV7JH?keywords=witch+king&qid=1702876902&sr=8-1"
+                "amazon": "https://www.amazon.com/Witch-King-Martha-Wells-ebook/dp/B0B9KVV7JH?keywords=witch+king&qid=1702876902&sr=8-1"
             }
-        },{
+        },
+        {
             "title": "The House in the Cerulean Sea",
             "subtitle": "",
             "series_name": "The House in the Cerulean Sea",
@@ -1085,11 +1373,20 @@
             "end_date": "2023-08-23",
             "cover": "https://m.media-amazon.com/images/I/51faF8gs0NL._SY445_SX342_.jpg",
             "notes": "",
-            "tags": ["fiction","fantasy","lgbtqia+","emotional","hopeful","lighthearted","medium-paced"],
+            "tags": [
+                "fiction",
+                "fantasy",
+                "lgbtqia+",
+                "emotional",
+                "hopeful",
+                "lighthearted",
+                "medium-paced"
+            ],
             "links": {
-                "amazon":"https://www.amazon.com/House-Cerulean-Sea-TJ-Klune-ebook/dp/B07QPHT8CB?keywords=the+house+in+the+cerulean+sea&qid=1702876764&sr=8-1"
+                "amazon": "https://www.amazon.com/House-Cerulean-Sea-TJ-Klune-ebook/dp/B07QPHT8CB?keywords=the+house+in+the+cerulean+sea&qid=1702876764&sr=8-1"
             }
-        },{
+        },
+        {
             "title": "The Kaiju Preservation Society",
             "subtitle": "",
             "series_name": "",
@@ -1102,11 +1399,19 @@
             "end_date": "2023-08-19",
             "cover": "https://m.media-amazon.com/images/I/51O9e2PaOyL._SY445_SX342_.jpg",
             "notes": "",
-            "tags": ["fiction","science-fiction","adventurous","funny","lighthearted","fast-paced"],
+            "tags": [
+                "fiction",
+                "science-fiction",
+                "adventurous",
+                "funny",
+                "lighthearted",
+                "fast-paced"
+            ],
             "links": {
-                "amazon":"https://www.amazon.com/Kaiju-Preservation-Society-John-Scalzi-ebook/dp/B0927B1P8L?crid=QI3WJILVYT65&keywords=The+Kaiju+Preservation+Society&qid=1702876659&sprefix=the+kaiju+preservation+society,aps,100&sr=8-1"
+                "amazon": "https://www.amazon.com/Kaiju-Preservation-Society-John-Scalzi-ebook/dp/B0927B1P8L?crid=QI3WJILVYT65&keywords=The+Kaiju+Preservation+Society&qid=1702876659&sprefix=the+kaiju+preservation+society,aps,100&sr=8-1"
             }
-        },{
+        },
+        {
             "title": "Dreamer's Pool",
             "subtitle": "",
             "series_name": "Blackthorn & Grim",
@@ -1119,11 +1424,19 @@
             "end_date": "2023-08-16",
             "cover": "https://m.media-amazon.com/images/I/512XhD6Cv2L._SY445_SX342_.jpg",
             "notes": "",
-            "tags": ["fiction","fantasy","romance","adventurous","mysterious","slow-paced"],
+            "tags": [
+                "fiction",
+                "fantasy",
+                "romance",
+                "adventurous",
+                "mysterious",
+                "slow-paced"
+            ],
             "links": {
-                "amazon":"https://www.amazon.com/Dreamers-Pool-Blackthorn-Grim-Book-ebook/dp/B00INIJKKC?crid=2RUYUIRXXA1W1&keywords=dreamers+pool+juliet+marillier&qid=1702876465&sprefix=dreamers+pool,aps,86&sr=8-1"
+                "amazon": "https://www.amazon.com/Dreamers-Pool-Blackthorn-Grim-Book-ebook/dp/B00INIJKKC?crid=2RUYUIRXXA1W1&keywords=dreamers+pool+juliet+marillier&qid=1702876465&sprefix=dreamers+pool,aps,86&sr=8-1"
             }
-        },{
+        },
+        {
             "title": "The Daughter of Doctor Moreau",
             "subtitle": "",
             "series_name": "",
@@ -1136,11 +1449,20 @@
             "end_date": "2023-08-11",
             "cover": "https://m.media-amazon.com/images/I/51wJtzkBZsL._SY445_SX342_.jpg",
             "notes": "",
-            "tags": ["fiction","historical","science-fiction","adventurous","dark","mysterious","medium-paced"],
+            "tags": [
+                "fiction",
+                "historical",
+                "science-fiction",
+                "adventurous",
+                "dark",
+                "mysterious",
+                "medium-paced"
+            ],
             "links": {
-                "amazon":"https://www.amazon.com/Daughter-Doctor-Moreau-Silvia-Moreno-Garcia-ebook/dp/B09JVQ6DHK?crid=VHFO4HVVU3HC&keywords=the+daughter+of+doctor+moreau&qid=1702831599&s=digital-text&sprefix=the+daughter+of+doc,digital-text,92&sr=1-1"
+                "amazon": "https://www.amazon.com/Daughter-Doctor-Moreau-Silvia-Moreno-Garcia-ebook/dp/B09JVQ6DHK?crid=VHFO4HVVU3HC&keywords=the+daughter+of+doctor+moreau&qid=1702831599&s=digital-text&sprefix=the+daughter+of+doc,digital-text,92&sr=1-1"
             }
-        },{
+        },
+        {
             "title": "The Spare Man",
             "subtitle": "",
             "series_name": "",
@@ -1153,11 +1475,19 @@
             "end_date": "2023-07-13",
             "cover": "https://m.media-amazon.com/images/I/41lxNMgXV8L._SY445_SX342_.jpg",
             "notes": "",
-            "tags": ["fiction","mystery","science-fiction","adventurous","mysterious","medium-paced"],
+            "tags": [
+                "fiction",
+                "mystery",
+                "science-fiction",
+                "adventurous",
+                "mysterious",
+                "medium-paced"
+            ],
             "links": {
-                "amazon":"https://www.amazon.com/Spare-Man-Mary-Robinette-Kowal-ebook/dp/B09CNDXYW3?crid=11KU71TCJEBD&keywords=the+spare+man&qid=1702787192&s=digital-text&sprefix=the+spare+man,digital-text,94&sr=1-1"
+                "amazon": "https://www.amazon.com/Spare-Man-Mary-Robinette-Kowal-ebook/dp/B09CNDXYW3?crid=11KU71TCJEBD&keywords=the+spare+man&qid=1702787192&s=digital-text&sprefix=the+spare+man,digital-text,94&sr=1-1"
             }
-        },{
+        },
+        {
             "title": "Nona the Ninth",
             "subtitle": "",
             "series_name": "The Locked Tomb",
@@ -1170,11 +1500,21 @@
             "end_date": "2023-07-07",
             "cover": "https://m.media-amazon.com/images/I/41mWSU9+BhL._SY445_SX342_.jpg",
             "notes": "So bad",
-            "tags": ["fiction","fantasy","lgbtqia+","science-fiction","adventurous","dark","mysterious","medium-paced"],
+            "tags": [
+                "fiction",
+                "fantasy",
+                "lgbtqia+",
+                "science-fiction",
+                "adventurous",
+                "dark",
+                "mysterious",
+                "medium-paced"
+            ],
             "links": {
-                "amazon":"https://www.amazon.com/Nona-Ninth-Locked-Tomb-Book-ebook/dp/B09G14BQMM?crid=LGBJSDHSPNQF&keywords=nona+the+ninth&qid=1702786803&s=digital-text&sprefix=nona,digital-text,95&sr=1-1"
+                "amazon": "https://www.amazon.com/Nona-Ninth-Locked-Tomb-Book-ebook/dp/B09G14BQMM?crid=LGBJSDHSPNQF&keywords=nona+the+ninth&qid=1702786803&s=digital-text&sprefix=nona,digital-text,95&sr=1-1"
             }
-        },{
+        },
+        {
             "title": "Nettle & Bone",
             "subtitle": "",
             "series_name": "",
@@ -1187,11 +1527,20 @@
             "end_date": "2023-06-28",
             "cover": "https://m.media-amazon.com/images/I/417ijsqzErL._SY445_SX342_.jpg",
             "notes": "",
-            "tags": ["fiction","fantasy","horror","adventurous","dark","funny","medium-paced"],
+            "tags": [
+                "fiction",
+                "fantasy",
+                "horror",
+                "adventurous",
+                "dark",
+                "funny",
+                "medium-paced"
+            ],
             "links": {
-                "amazon":"https://www.amazon.com/Nettle-Bone-T-Kingfisher-ebook/dp/B08QGL9BZD?crid=15ZTU5MDOEJK5&keywords=nettle+and+bone&qid=1702786655&s=digital-text&sprefix=nettle,digital-text,93&sr=1-1"
+                "amazon": "https://www.amazon.com/Nettle-Bone-T-Kingfisher-ebook/dp/B08QGL9BZD?crid=15ZTU5MDOEJK5&keywords=nettle+and+bone&qid=1702786655&s=digital-text&sprefix=nettle,digital-text,93&sr=1-1"
             }
-        },{
+        },
+        {
             "title": "Legends & Lattes",
             "subtitle": "A Novel of High Fantasy and Low Stakes",
             "series_name": "Legends & Lattes",
@@ -1204,11 +1553,19 @@
             "end_date": "2023-06-19",
             "cover": "https://m.media-amazon.com/images/I/51OazXen1ZL._SY445_SX342_.jpg",
             "notes": "",
-            "tags": ["fiction","fantasy","hopeful","lighthearted","relaxing","medium-paced"],
+            "tags": [
+                "fiction",
+                "fantasy",
+                "hopeful",
+                "lighthearted",
+                "relaxing",
+                "medium-paced"
+            ],
             "links": {
-                "amazon":"https://www.amazon.com/Legends-Lattes-Novel-Fantasy-Stakes-ebook/dp/B0B3755RV9?crid=1UYYDB6JQSW3E&keywords=legends+and+lattes&qid=1702786479&s=digital-text&sprefix=legends,digital-text,95&sr=1-1"
+                "amazon": "https://www.amazon.com/Legends-Lattes-Novel-Fantasy-Stakes-ebook/dp/B0B3755RV9?crid=1UYYDB6JQSW3E&keywords=legends+and+lattes&qid=1702786479&s=digital-text&sprefix=legends,digital-text,95&sr=1-1"
             }
-        },{
+        },
+        {
             "title": "Frankenstein",
             "subtitle": "",
             "series_name": "",
@@ -1221,11 +1578,22 @@
             "end_date": "2023-06-17",
             "cover": "https://m.media-amazon.com/images/I/41YhhqC7CbL._SY445_SX342_.jpg",
             "notes": "",
-            "tags": ["fiction","classics","horror","literary","science-fiction","dark","mysterious","reflective","slow-paced"],
+            "tags": [
+                "fiction",
+                "classics",
+                "horror",
+                "literary",
+                "science-fiction",
+                "dark",
+                "mysterious",
+                "reflective",
+                "slow-paced"
+            ],
             "links": {
-                "amazon":"https://www.amazon.com/Frankenstein-Mary-Shelley-ebook/dp/B0892SCBDD?crid=2P0NB7HJ1JYS9&keywords=frankenstein+mary+shelley&qid=1702786251&s=digital-text&sprefix=fran,digital-text,94&sr=1-1"
+                "amazon": "https://www.amazon.com/Frankenstein-Mary-Shelley-ebook/dp/B0892SCBDD?crid=2P0NB7HJ1JYS9&keywords=frankenstein+mary+shelley&qid=1702786251&s=digital-text&sprefix=fran,digital-text,94&sr=1-1"
             }
-        },{
+        },
+        {
             "title": "The Mountain in the Sea",
             "subtitle": "",
             "series_name": "",
@@ -1238,11 +1606,20 @@
             "end_date": "2023-04-05",
             "cover": "https://m.media-amazon.com/images/I/51cx5ng9ojL._SY445_SX342_.jpg",
             "notes": "",
-            "tags": ["fiction","science-fiction","thriller","challenging","mysterious","reflective","medium-paced"],
+            "tags": [
+                "fiction",
+                "science-fiction",
+                "thriller",
+                "challenging",
+                "mysterious",
+                "reflective",
+                "medium-paced"
+            ],
             "links": {
-                "amazon":"https://www.amazon.com/Mountain-Sea-Novel-Ray-Nayler-ebook/dp/B09NTKMJ1K?crid=EVKOPFQG7YML&keywords=the+mountain+in+the+sea&qid=1702786119&s=digital-text&sprefix=the+moun,digital-text,107&sr=1-1"
+                "amazon": "https://www.amazon.com/Mountain-Sea-Novel-Ray-Nayler-ebook/dp/B09NTKMJ1K?crid=EVKOPFQG7YML&keywords=the+mountain+in+the+sea&qid=1702786119&s=digital-text&sprefix=the+moun,digital-text,107&sr=1-1"
             }
-        },{
+        },
+        {
             "title": "Spear",
             "subtitle": "",
             "series_name": "",
@@ -1255,11 +1632,18 @@
             "end_date": "2023-03-31",
             "cover": "https://m.media-amazon.com/images/I/51wXYDKIXTS._SY445_SX342_.jpg",
             "notes": "",
-            "tags": ["fiction","fantasy","lgbtqia+","adventurous","medium-paced"],
+            "tags": [
+                "fiction",
+                "fantasy",
+                "lgbtqia+",
+                "adventurous",
+                "medium-paced"
+            ],
             "links": {
-                "amazon":"https://www.amazon.com/Spear-Nicola-Griffith-ebook/dp/B0927D3CHF?crid=2VFCX8XH9OX5K&keywords=spear&qid=1702785591&s=digital-text&sprefix=spear,digital-text,88&sr=1-1"
+                "amazon": "https://www.amazon.com/Spear-Nicola-Griffith-ebook/dp/B0927D3CHF?crid=2VFCX8XH9OX5K&keywords=spear&qid=1702785591&s=digital-text&sprefix=spear,digital-text,88&sr=1-1"
             }
-        },{
+        },
+        {
             "title": "Assassin's Apprentice",
             "subtitle": "",
             "series_name": "The Farseer Trilogy",
@@ -1272,11 +1656,18 @@
             "end_date": "2019-01-31",
             "cover": "https://m.media-amazon.com/images/I/51yezT3xTNL._SY445_SX342_.jpg",
             "notes": "",
-            "tags": ["fiction","fantasy","adventurous","emotional","slow-paced"],
+            "tags": [
+                "fiction",
+                "fantasy",
+                "adventurous",
+                "emotional",
+                "slow-paced"
+            ],
             "links": {
-                "amazon":"https://www.amazon.com/gp/product/B000FBFMG6?storeType=ebooks&qid=1702784769&sr=8-1"
+                "amazon": "https://www.amazon.com/gp/product/B000FBFMG6?storeType=ebooks&qid=1702784769&sr=8-1"
             }
-        },{
+        },
+        {
             "title": "Royal Assassin",
             "subtitle": "",
             "series_name": "The Farseer Trilogy",
@@ -1289,12 +1680,19 @@
             "end_date": "2021-11-15",
             "cover": "https://cdn.jasonlawton.com/books/royal-assassin.jpg",
             "notes": "",
-            "tags": ["fiction","fantasy","adventurous","emotional","slow-paced"],
+            "tags": [
+                "fiction",
+                "fantasy",
+                "adventurous",
+                "emotional",
+                "slow-paced"
+            ],
             "links": {
-                "bookshop.org":"https://bookshop.org/p/books/royal-assassin-robin-hobb/15279917?ean=9780553573411",
-                "amazon":"https://www.amazon.com/gp/product/B000FBFMFW?storeType=ebooks&qid=1702784769&sr=8-1"
+                "bookshop.org": "https://bookshop.org/p/books/royal-assassin-robin-hobb/15279917?ean=9780553573411",
+                "amazon": "https://www.amazon.com/gp/product/B000FBFMFW?storeType=ebooks&qid=1702784769&sr=8-1"
             }
-        },{
+        },
+        {
             "title": "Assassin's Quest",
             "subtitle": "",
             "series_name": "The Farseer Trilogy",
@@ -1307,11 +1705,18 @@
             "end_date": "2023-03-26",
             "cover": "https://m.media-amazon.com/images/I/51alt7GpvNL._SY445_SX342_.jpg",
             "notes": "",
-            "tags": ["fiction","fantasy","adventurous","emotional","slow-paced"],
+            "tags": [
+                "fiction",
+                "fantasy",
+                "adventurous",
+                "emotional",
+                "slow-paced"
+            ],
             "links": {
-                "amazon":"https://www.amazon.com/Assassins-Quest-Farseer-Trilogy-Book-ebook/dp/B000FBFMFM?crid=10PEJO13TIVRT&keywords=assassin's+quest+robin+hobb&qid=1702784769&sprefix=assassins+quest,aps,91&sr=8-1"
+                "amazon": "https://www.amazon.com/Assassins-Quest-Farseer-Trilogy-Book-ebook/dp/B000FBFMFM?crid=10PEJO13TIVRT&keywords=assassin's+quest+robin+hobb&qid=1702784769&sprefix=assassins+quest,aps,91&sr=8-1"
             }
-        },{
+        },
+        {
             "title": "Mr. Penumbra's 24-Hour Bookstore",
             "subtitle": "",
             "series_name": "",
@@ -1324,9 +1729,17 @@
             "end_date": "2023-03-13",
             "cover": "https://m.media-amazon.com/images/I/5129teC08VL._SY445_SX342_.jpg",
             "notes": "",
-            "tags": ["fiction","literary","adventurous","lighthearted","mysterious","medium-paced"],
+            "tags": [
+                "fiction",
+                "literary",
+                "adventurous",
+                "lighthearted",
+                "mysterious",
+                "medium-paced"
+            ],
             "links": {}
-        },{
+        },
+        {
             "title": "The Crossing Places",
             "subtitle": "",
             "series_name": "Ruth Galloway",
@@ -1339,11 +1752,19 @@
             "end_date": "2023-03-08",
             "cover": "https://m.media-amazon.com/images/I/5168Vc5EKNL._SY445_SX342_.jpg",
             "notes": "",
-            "tags": ["fiction","crime","mystery","thriller","mysterious","medium-paced"],
+            "tags": [
+                "fiction",
+                "crime",
+                "mystery",
+                "thriller",
+                "mysterious",
+                "medium-paced"
+            ],
             "links": {
-                "amazon":"https://www.amazon.com/Crossing-Places-Ruth-Galloway-Book-ebook/dp/B003UV90G6?crid=2CHL98FESI3O8&keywords=the+crossing+places+by+elly+griffiths&qid=1702783483&sprefix=the+crossing+places,aps,102&sr=8-1"
+                "amazon": "https://www.amazon.com/Crossing-Places-Ruth-Galloway-Book-ebook/dp/B003UV90G6?crid=2CHL98FESI3O8&keywords=the+crossing+places+by+elly+griffiths&qid=1702783483&sprefix=the+crossing+places,aps,102&sr=8-1"
             }
-        },{
+        },
+        {
             "title": "The Glass Hotel",
             "subtitle": "",
             "series_name": "",
@@ -1356,11 +1777,19 @@
             "end_date": "2023-03-06",
             "cover": "https://m.media-amazon.com/images/I/41FAPO417YL._SY445_SX342_.jpg",
             "notes": "",
-            "tags": ["fiction","literary","challenging","mysterious","reflective","slow-paced"],
+            "tags": [
+                "fiction",
+                "literary",
+                "challenging",
+                "mysterious",
+                "reflective",
+                "slow-paced"
+            ],
             "links": {
-                "amazon":"https://www.amazon.com/Glass-Hotel-Emily-John-Mandel-ebook/dp/B07RL58ZDG?crid=3KZL5ZH5J3JG9&keywords=the+glass+hotel+emily+st.+john+mandel+book&qid=1702783175&sprefix=the+glass+ho,aps,108&sr=8-1"
+                "amazon": "https://www.amazon.com/Glass-Hotel-Emily-John-Mandel-ebook/dp/B07RL58ZDG?crid=3KZL5ZH5J3JG9&keywords=the+glass+hotel+emily+st.+john+mandel+book&qid=1702783175&sprefix=the+glass+ho,aps,108&sr=8-1"
             }
-        },{
+        },
+        {
             "title": "Tress of the Emerald Sea",
             "subtitle": "A Cosmere Novel",
             "series_name": "Secret Projects",
@@ -1382,9 +1811,10 @@
                 "medium-paced"
             ],
             "links": {
-                "amazon":"https://a.co/d/6Q54qSg"
+                "amazon": "https://a.co/d/6Q54qSg"
             }
-        },{
+        },
+        {
             "title": "Star Mother",
             "subtitle": "",
             "series_name": "Star Mother",
@@ -1407,7 +1837,8 @@
                 "medium-paced"
             ],
             "links": []
-        },{
+        },
+        {
             "title": "The Golden Enclaves",
             "subtitle": "",
             "series_name": "The Scholomance",
@@ -1457,100 +1888,146 @@
             "links": []
         },
         {
-            "title":"Station Eternity",
-            "subtitle":"",
-            "series_name":"The Midsolar Murders",
-            "series_order":1,
-            "series_total": 2,
-            "author":"Mur Lafferty",
-            "pages":456,
-            "rating":4,
-            "start_date":"2023-01-01",
-            "end_date":"2023-01-06",
-            "cover":"https://m.media-amazon.com/images/I/41eqVNFXPEL._SY445_SX342_.jpg",
-            "notes":"",
-            "tags":["fiction","mystery","science-fiction","funny"],
-            "links":[]
-        },
-        {
-            "title":"Meru",
-            "subtitle":"",
-            "series_name":"The Alloy Era",
+            "title": "Station Eternity",
+            "subtitle": "",
+            "series_name": "The Midsolar Murders",
             "series_order": 1,
             "series_total": 2,
-            "author":"S.B. Divya",
-            "pages":443,
-            "rating":0,
-            "start_date":"2023-01-15",
-            "end_date":"2023-01-21",
-            "cover":"https://m.media-amazon.com/images/I/51P+bIPRDOL._SY445_SX342_.jpg",
-            "notes":"DNF",
-            "tags":["dnf","fiction","lgbtqia+","science-fiction","adventurous","emotional","hopeful","medium-paced"],
-            "links":[]
+            "author": "Mur Lafferty",
+            "pages": 456,
+            "rating": 4,
+            "start_date": "2023-01-01",
+            "end_date": "2023-01-06",
+            "cover": "https://m.media-amazon.com/images/I/41eqVNFXPEL._SY445_SX342_.jpg",
+            "notes": "",
+            "tags": [
+                "fiction",
+                "mystery",
+                "science-fiction",
+                "funny"
+            ],
+            "links": []
         },
         {
-            "title":"Babel: An Arcane History",
-            "subtitle":"Babel: Or the Necessity of Violence: An Arcane History of the Oxford Translators' Revolution",
-            "series_name":"",
+            "title": "Meru",
+            "subtitle": "",
+            "series_name": "The Alloy Era",
+            "series_order": 1,
+            "series_total": 2,
+            "author": "S.B. Divya",
+            "pages": 443,
+            "rating": 0,
+            "start_date": "2023-01-15",
+            "end_date": "2023-01-21",
+            "cover": "https://m.media-amazon.com/images/I/51P+bIPRDOL._SY445_SX342_.jpg",
+            "notes": "DNF",
+            "tags": [
+                "dnf",
+                "fiction",
+                "lgbtqia+",
+                "science-fiction",
+                "adventurous",
+                "emotional",
+                "hopeful",
+                "medium-paced"
+            ],
+            "links": []
+        },
+        {
+            "title": "Babel: An Arcane History",
+            "subtitle": "Babel: Or the Necessity of Violence: An Arcane History of the Oxford Translators' Revolution",
+            "series_name": "",
             "series_order": 0,
             "series_total": 0,
-            "author":"R.F. Kuang",
-            "pages":544,
-            "rating":4,
-            "start_date":"2023-01-23",
-            "end_date":"2023-02-04",
-            "cover":"https://m.media-amazon.com/images/I/51016lbT2fL._SY445_SX342_.jpg",
-            "notes":"",
-            "tags":["fiction", "fantasy", "historical", "literary", "challenging", "dark", "emotional", "medium-paced"],
-            "links":[]
+            "author": "R.F. Kuang",
+            "pages": 544,
+            "rating": 4,
+            "start_date": "2023-01-23",
+            "end_date": "2023-02-04",
+            "cover": "https://m.media-amazon.com/images/I/51016lbT2fL._SY445_SX342_.jpg",
+            "notes": "",
+            "tags": [
+                "fiction",
+                "fantasy",
+                "historical",
+                "literary",
+                "challenging",
+                "dark",
+                "emotional",
+                "medium-paced"
+            ],
+            "links": []
         },
         {
-            "title":"Sea of Tranquility",
-            "subtitle":"",
-            "series_name":"",
+            "title": "Sea of Tranquility",
+            "subtitle": "",
+            "series_name": "",
             "series_order": 0,
             "series_total": 0,
-            "author":"Emily St. John Mandel",
-            "pages":255,
-            "rating":4,
-            "start_date":"2023-02-04",
-            "end_date":"2023-02-06",
-            "cover":"https://cdn.thestorygraph.com/42tqnmom6annfymob6rzpnyydliz",
-            "notes":"",
-            "tags":["fiction", "literary", "science-fiction", "adventurous", "mysterious", "reflective", "medium-paced"],
-            "links":[]
+            "author": "Emily St. John Mandel",
+            "pages": 255,
+            "rating": 4,
+            "start_date": "2023-02-04",
+            "end_date": "2023-02-06",
+            "cover": "https://cdn.thestorygraph.com/42tqnmom6annfymob6rzpnyydliz",
+            "notes": "",
+            "tags": [
+                "fiction",
+                "literary",
+                "science-fiction",
+                "adventurous",
+                "mysterious",
+                "reflective",
+                "medium-paced"
+            ],
+            "links": []
         },
         {
-            "title":"A Darker Shade of Magic",
-            "subtitle":"",
-            "series_name":"Shades of Magic",
+            "title": "A Darker Shade of Magic",
+            "subtitle": "",
+            "series_name": "Shades of Magic",
             "series_order": 1,
             "series_total": 3,
-            "author":"V.E. Schwab",
-            "pages":400,
-            "rating":4,
-            "start_date":"2023-02-06",
-            "end_date":"2023-02-23",
-            "cover":"https://cdn.thestorygraph.com/ah4sgajdpparrnf1cynuqywuavrr",
-            "notes":"",
-            "tags":["fiction","fantasy","adventurous","dark","mysterious","medium-paced"],
-            "links":[]
+            "author": "V.E. Schwab",
+            "pages": 400,
+            "rating": 4,
+            "start_date": "2023-02-06",
+            "end_date": "2023-02-23",
+            "cover": "https://cdn.thestorygraph.com/ah4sgajdpparrnf1cynuqywuavrr",
+            "notes": "",
+            "tags": [
+                "fiction",
+                "fantasy",
+                "adventurous",
+                "dark",
+                "mysterious",
+                "medium-paced"
+            ],
+            "links": []
         },
         {
-            "title":"The Echo Wife",
-            "subtitle":"",
-            "series_name":"",
+            "title": "The Echo Wife",
+            "subtitle": "",
+            "series_name": "",
             "series_order": 0,
             "series_total": 0,
-            "author":"Sarah Gailey",
-            "pages":256,
-            "rating":3.5,
-            "start_date":"2023-02-23",
-            "end_date":"2023-03-01",
-            "cover":"https://m.media-amazon.com/images/I/41yYIA+MulL._SY445_SX342_.jpg",
-            "notes":"",
-            "tags":["fiction","science-fiction","thriller","dark","mysterious","tense","medium-paced"],
-            "links":[]
+            "author": "Sarah Gailey",
+            "pages": 256,
+            "rating": 3.5,
+            "start_date": "2023-02-23",
+            "end_date": "2023-03-01",
+            "cover": "https://m.media-amazon.com/images/I/41yYIA+MulL._SY445_SX342_.jpg",
+            "notes": "",
+            "tags": [
+                "fiction",
+                "science-fiction",
+                "thriller",
+                "dark",
+                "mysterious",
+                "tense",
+                "medium-paced"
+            ],
+            "links": []
         },
         {
             "title": "The Man Who Died Twice",
@@ -1575,9 +2052,10 @@
                 "medium-paced"
             ],
             "links": {
-                "amazon":"https://a.co/d/4le5eXC"
+                "amazon": "https://a.co/d/4le5eXC"
             }
-        },{
+        },
+        {
             "title": "Elder Race",
             "subtitle": "",
             "series_name": "",
@@ -1598,9 +2076,10 @@
                 "medium-paced"
             ],
             "links": {
-                "storygraph":"https://app.thestorygraph.com/books/19981172-bb5c-48bb-bbcb-16a1df99e436"
+                "storygraph": "https://app.thestorygraph.com/books/19981172-bb5c-48bb-bbcb-16a1df99e436"
             }
-        },{
+        },
+        {
             "title": "Upgrade",
             "subtitle": "",
             "series_name": "",
@@ -1622,9 +2101,10 @@
                 "medium-paced"
             ],
             "links": {
-                "amazon":"https://a.co/d/25IhP1j"
+                "amazon": "https://a.co/d/25IhP1j"
             }
-        },{
+        },
+        {
             "title": "Winter",
             "subtitle": "",
             "series_name": "The Lunar Chronicles",
@@ -1648,9 +2128,10 @@
                 "medium-paced"
             ],
             "links": {
-                "storygraph":"https://app.thestorygraph.com/books/81920ad5-1914-4fff-be32-fdf6f6e5c074"
+                "storygraph": "https://app.thestorygraph.com/books/81920ad5-1914-4fff-be32-fdf6f6e5c074"
             }
-        },{
+        },
+        {
             "title": "Parable of the Sower",
             "subtitle": "",
             "series_name": "Parable",
@@ -1675,9 +2156,10 @@
                 "medium-paced"
             ],
             "links": {
-                "storygraph":"https://app.thestorygraph.com/books/0385c0cd-3efa-4037-8635-a9f4a4386942"
+                "storygraph": "https://app.thestorygraph.com/books/0385c0cd-3efa-4037-8635-a9f4a4386942"
             }
-        },{
+        },
+        {
             "title": "The Thursday Murder Club",
             "subtitle": "",
             "series_name": "A Thursday Murder Club Mystery",
@@ -1701,10 +2183,11 @@
                 "medium-paced"
             ],
             "links": {
-                "storygraph":"https://app.thestorygraph.com/books/64d14c8a-8bee-48e9-8024-3026ea8618c4",
-                "amazon":"https://a.co/d/g0boKBa"
+                "storygraph": "https://app.thestorygraph.com/books/64d14c8a-8bee-48e9-8024-3026ea8618c4",
+                "amazon": "https://a.co/d/g0boKBa"
             }
-        },{
+        },
+        {
             "title": "Cress",
             "subtitle": "",
             "series_name": "The Lunar Chronicles",
@@ -1726,9 +2209,10 @@
                 "fast-paced"
             ],
             "links": {
-                "storygraph":"https://app.thestorygraph.com/books/6b9d9d2f-ce52-406c-b951-6d0d29c85ad1"
+                "storygraph": "https://app.thestorygraph.com/books/6b9d9d2f-ce52-406c-b951-6d0d29c85ad1"
             }
-        },{
+        },
+        {
             "title": "Paladin's Grace",
             "subtitle": "",
             "series_name": "The Saint of Steel",
@@ -1752,9 +2236,10 @@
                 "medium-paced"
             ],
             "links": {
-                "storygraph":"https://app.thestorygraph.com/books/38725548-348d-4053-8a69-4844d038e105"
+                "storygraph": "https://app.thestorygraph.com/books/38725548-348d-4053-8a69-4844d038e105"
             }
-        },{
+        },
+        {
             "title": "The Goblin Emperor",
             "subtitle": "",
             "series_name": "The Chronicles of Osreth",
@@ -1775,9 +2260,10 @@
                 "medium-paced"
             ],
             "links": {
-                "storygraph":"https://app.thestorygraph.com/books/470b9b3f-7e00-418b-b05b-1c6943861556"
+                "storygraph": "https://app.thestorygraph.com/books/470b9b3f-7e00-418b-b05b-1c6943861556"
             }
-        },{
+        },
+        {
             "title": "A Wizard's Guide to Defensive Baking",
             "subtitle": "",
             "series_name": "",
@@ -1800,9 +2286,10 @@
                 "fast-paced"
             ],
             "links": {
-                "storygraph":"https://app.thestorygraph.com/books/19718e66-7a11-489d-9fbb-4d74fb3ba5b1"
+                "storygraph": "https://app.thestorygraph.com/books/19718e66-7a11-489d-9fbb-4d74fb3ba5b1"
             }
-        },{
+        },
+        {
             "title": "House of Earth and Blood",
             "subtitle": "",
             "series_name": "Crescent City",
@@ -1825,9 +2312,10 @@
                 "medium-paced"
             ],
             "links": {
-                "storygraph":"https://app.thestorygraph.com/books/f2943be8-e7f3-4d8b-b808-074ff84d4c56"
+                "storygraph": "https://app.thestorygraph.com/books/f2943be8-e7f3-4d8b-b808-074ff84d4c56"
             }
-        },{
+        },
+        {
             "title": "The Haunting of Tram Car 015",
             "subtitle": "",
             "series_name": "The Dead Djinn Universe",
@@ -1848,9 +2336,10 @@
                 "fast-paced"
             ],
             "links": {
-                "storygraph":"https://app.thestorygraph.com/books/b8e47da3-f200-48da-b3dc-105dbba47a95"
+                "storygraph": "https://app.thestorygraph.com/books/b8e47da3-f200-48da-b3dc-105dbba47a95"
             }
-        },{
+        },
+        {
             "title": "A Spindle Splintered",
             "subtitle": "",
             "series_name": "Fractured Fables",
@@ -1873,9 +2362,10 @@
                 "fast-paced"
             ],
             "links": {
-                "storygraph":"https://app.thestorygraph.com/books/23e5663a-cc2f-443d-a462-f16675e5ddb3"
+                "storygraph": "https://app.thestorygraph.com/books/23e5663a-cc2f-443d-a462-f16675e5ddb3"
             }
-        },{
+        },
+        {
             "title": "Defekt",
             "subtitle": "",
             "series_name": "LitenVerse",
@@ -1896,11 +2386,12 @@
                 "fast-paced"
             ],
             "links": {
-                "amazon":"https://a.co/d/d92EMKB",
-                "storygraph":"https://app.thestorygraph.com/books/e6c4abac-420a-4cf3-b119-68b7f05d4099",
-                "bookshop.org":"https://bookshop.org/p/books/defekt-nino-cipri/14661823?ean=9781250787491"
+                "amazon": "https://a.co/d/d92EMKB",
+                "storygraph": "https://app.thestorygraph.com/books/e6c4abac-420a-4cf3-b119-68b7f05d4099",
+                "bookshop.org": "https://bookshop.org/p/books/defekt-nino-cipri/14661823?ean=9781250787491"
             }
-        },{
+        },
+        {
             "title": "A Memory Called Empire",
             "subtitle": "",
             "series_name": "Teixcalaan",
@@ -1923,9 +2414,10 @@
                 "medium-paced"
             ],
             "links": {
-                "storygraph":"https://app.thestorygraph.com/books/0c71db97-044c-4046-9d78-a33a5f46afa4"
+                "storygraph": "https://app.thestorygraph.com/books/0c71db97-044c-4046-9d78-a33a5f46afa4"
             }
-        },{
+        },
+        {
             "title": "A Prayer for the Crown-Shy",
             "subtitle": "",
             "series_name": "Monk & Robot",
@@ -1948,9 +2440,10 @@
                 "medium-paced"
             ],
             "links": {
-                "storygraph":"https://app.thestorygraph.com/books/9b4549ea-24b3-4cb5-913b-e6d8f28119a8"
+                "storygraph": "https://app.thestorygraph.com/books/9b4549ea-24b3-4cb5-913b-e6d8f28119a8"
             }
-        },{
+        },
+        {
             "title": "Strange Practice",
             "subtitle": "",
             "series_name": "Dr. Greta Helsing",
@@ -1971,9 +2464,10 @@
                 "medium-paced"
             ],
             "links": {
-                "storygraph":"https://app.thestorygraph.com/books/83be6bc8-7860-474c-adc1-8e3816fb8f1d"
+                "storygraph": "https://app.thestorygraph.com/books/83be6bc8-7860-474c-adc1-8e3816fb8f1d"
             }
-        },{
+        },
+        {
             "title": "Minor Mage",
             "subtitle": "",
             "series_name": "",
@@ -1995,9 +2489,10 @@
                 "fast-paced"
             ],
             "links": {
-                "storygraph":"https://app.thestorygraph.com/books/31b237d9-2ad9-4bc1-8364-5f94c5251c5f"
+                "storygraph": "https://app.thestorygraph.com/books/31b237d9-2ad9-4bc1-8364-5f94c5251c5f"
             }
-        },{
+        },
+        {
             "title": "She Who Became the Sun",
             "subtitle": "",
             "series_name": "The Radiant Emperor Duology",
@@ -2021,9 +2516,10 @@
                 "medium-paced"
             ],
             "links": {
-                "storygraph":"https://app.thestorygraph.com/books/d355fbcb-5ddf-4604-80a2-5162591ec41f"
+                "storygraph": "https://app.thestorygraph.com/books/d355fbcb-5ddf-4604-80a2-5162591ec41f"
             }
-        },{
+        },
+        {
             "title": "The Unbroken",
             "subtitle": "",
             "series_name": "Magic of the Lost",
@@ -2046,9 +2542,10 @@
                 "medium-paced"
             ],
             "links": {
-                "storygraph":"https://app.thestorygraph.com/books/35301e87-5fcc-4a95-ab94-a64cf97a9c98"
+                "storygraph": "https://app.thestorygraph.com/books/35301e87-5fcc-4a95-ab94-a64cf97a9c98"
             }
-        },{
+        },
+        {
             "title": "Light from Uncommon Stars",
             "subtitle": "",
             "series_name": "",
@@ -2072,9 +2569,10 @@
                 "medium-paced"
             ],
             "links": {
-                "storygraph":"https://app.thestorygraph.com/books/28c7b9e3-8feb-4c27-bdb6-2941040f064b"
+                "storygraph": "https://app.thestorygraph.com/books/28c7b9e3-8feb-4c27-bdb6-2941040f064b"
             }
-        },{
+        },
+        {
             "title": "A Master of Djinn",
             "subtitle": "",
             "series_name": "The Dead Djinn Universe",
@@ -2098,9 +2596,10 @@
                 "medium-paced"
             ],
             "links": {
-                "amazon":"https://a.co/d/cVmcH7z"
+                "amazon": "https://a.co/d/cVmcH7z"
             }
-        },{
+        },
+        {
             "title": "Machinehood",
             "subtitle": "",
             "series_name": "",
@@ -2120,9 +2619,10 @@
                 "fast-paced"
             ],
             "links": {
-                "storygraph":"https://app.thestorygraph.com/books/3b39fe2b-1ba1-4082-8800-533b3b65f049"
+                "storygraph": "https://app.thestorygraph.com/books/3b39fe2b-1ba1-4082-8800-533b3b65f049"
             }
-        },{
+        },
+        {
             "title": "Foundryside",
             "subtitle": "",
             "series_name": "The Founders Trilogy",
@@ -2145,9 +2645,10 @@
                 "medium-paced"
             ],
             "links": {
-                "storygraph":"https://app.thestorygraph.com/books/88e26958-d343-4cd0-97e8-e8611cd24f30"
+                "storygraph": "https://app.thestorygraph.com/books/88e26958-d343-4cd0-97e8-e8611cd24f30"
             }
-        },{
+        },
+        {
             "title": "Project Hail Mary",
             "subtitle": "",
             "series_name": "",
@@ -2169,9 +2670,10 @@
                 "medium-paced"
             ],
             "links": {
-                "storygraph":"https://app.thestorygraph.com/books/8759d7ea-263e-4389-b583-ad303040cb5a"
+                "storygraph": "https://app.thestorygraph.com/books/8759d7ea-263e-4389-b583-ad303040cb5a"
             }
-        },{
+        },
+        {
             "title": "Plague Birds",
             "subtitle": "",
             "series_name": "",
@@ -2192,9 +2694,10 @@
                 "fast-paced"
             ],
             "links": {
-                "storygraph":"https://app.thestorygraph.com/books/4cb5901b-0fa6-4373-bd44-0f4c774d4780"
+                "storygraph": "https://app.thestorygraph.com/books/4cb5901b-0fa6-4373-bd44-0f4c774d4780"
             }
-        },{
+        },
+        {
             "title": "A Dead Djinn in Cairo",
             "subtitle": "",
             "series_name": "The Dead Djinn Universe",
@@ -2218,9 +2721,10 @@
                 "fast-paced"
             ],
             "links": {
-                "storygraph":"https://app.thestorygraph.com/books/194b8597-6c18-4fa8-9172-94b33c5ca0e7"
+                "storygraph": "https://app.thestorygraph.com/books/194b8597-6c18-4fa8-9172-94b33c5ca0e7"
             }
-        },{
+        },
+        {
             "title": "Phantom Pains",
             "subtitle": "",
             "series_name": "The Arcadia Project",
@@ -2242,9 +2746,10 @@
                 "fast-paced"
             ],
             "links": {
-                "bookshop.org":"https://bookshop.org/p/books/phantom-pains-mishell-baker/218521?ean=9781481451925"
+                "bookshop.org": "https://bookshop.org/p/books/phantom-pains-mishell-baker/218521?ean=9781481451925"
             }
-        },{
+        },
+        {
             "title": "The Seven Husbands of Evelyn Hugo",
             "subtitle": "",
             "series_name": "",
@@ -2268,9 +2773,10 @@
                 "medium-paced"
             ],
             "links": {
-                "storygraph":"https://app.thestorygraph.com/books/cd60c31e-9af3-487b-a194-56d87379d637"
+                "storygraph": "https://app.thestorygraph.com/books/cd60c31e-9af3-487b-a194-56d87379d637"
             }
-        },{
+        },
+        {
             "title": "Before the Broken Star",
             "subtitle": "",
             "series_name": "The Evermore Chronicles",
@@ -2293,9 +2799,10 @@
                 "medium-paced"
             ],
             "links": {
-                "storygraph":"https://app.thestorygraph.com/books/8e5a6d79-3f96-44c1-bbd0-bdc4f5a5ea84"
+                "storygraph": "https://app.thestorygraph.com/books/8e5a6d79-3f96-44c1-bbd0-bdc4f5a5ea84"
             }
-        },{
+        },
+        {
             "title": "The Raven Spell",
             "subtitle": "",
             "series_name": "A Conspiracy of Magic",
@@ -2318,9 +2825,10 @@
                 "medium-paced"
             ],
             "links": {
-                "storygraph":"https://app.thestorygraph.com/books/fbca73f2-3b2c-4d62-8b1f-977370feaa4d"
+                "storygraph": "https://app.thestorygraph.com/books/fbca73f2-3b2c-4d62-8b1f-977370feaa4d"
             }
-        },{
+        },
+        {
             "title": "The Last Graduate",
             "subtitle": "",
             "series_name": "The Scholomance",
@@ -2334,13 +2842,19 @@
             "cover": "https://cdn.jasonlawton.com/books/last-graduate.jpg",
             "notes": "",
             "tags": [
-                "fiction","fantasy","adventurous","dark","tense","medium-paced"
+                "fiction",
+                "fantasy",
+                "adventurous",
+                "dark",
+                "tense",
+                "medium-paced"
             ],
             "links": {
-                "storygraph":"https://app.thestorygraph.com/books/532bcb59-86f5-4b08-a2a3-d12800718116",
-                "amazon":"https://a.co/d/4ScXyrQ"
+                "storygraph": "https://app.thestorygraph.com/books/532bcb59-86f5-4b08-a2a3-d12800718116",
+                "amazon": "https://a.co/d/4ScXyrQ"
             }
-        },{
+        },
+        {
             "title": "Midnight Riot",
             "subtitle": "",
             "series_name": "Rivers of London",
@@ -2354,13 +2868,21 @@
             "cover": "https://cdn.jasonlawton.com/books/midnight-riot.jpg",
             "notes": "",
             "tags": [
-                "fiction","crime","fantasy","mystery","adventurous","funny","mysterious","medium-paced"
+                "fiction",
+                "crime",
+                "fantasy",
+                "mystery",
+                "adventurous",
+                "funny",
+                "mysterious",
+                "medium-paced"
             ],
             "links": {
-                "amazon":"https://a.co/d/eouwQEI",
-                "storygraph":"https://app.thestorygraph.com/books/6ae0acda-2c1d-4fa8-b6c8-e823ff9d5b71"
+                "amazon": "https://a.co/d/eouwQEI",
+                "storygraph": "https://app.thestorygraph.com/books/6ae0acda-2c1d-4fa8-b6c8-e823ff9d5b71"
             }
-        },{
+        },
+        {
             "title": "My Real Children",
             "subtitle": "",
             "series_name": "",
@@ -2374,13 +2896,20 @@
             "cover": "https://cdn.jasonlawton.com/books/my-real-children.jpg",
             "notes": "",
             "tags": [
-                "fiction","science-fiction","speculative-fiction","challenging","emotional","reflective","slow-paced"
+                "fiction",
+                "science-fiction",
+                "speculative-fiction",
+                "challenging",
+                "emotional",
+                "reflective",
+                "slow-paced"
             ],
             "links": {
-                "amazon":"https://a.co/d/63wqBBc",
-                "storygraph":"https://app.thestorygraph.com/books/54dda933-c11e-4745-bf1d-51f7ed42c899"
+                "amazon": "https://a.co/d/63wqBBc",
+                "storygraph": "https://app.thestorygraph.com/books/54dda933-c11e-4745-bf1d-51f7ed42c899"
             }
-        },{
+        },
+        {
             "title": "The Angel of the Crows",
             "subtitle": "",
             "series_name": "",
@@ -2394,15 +2923,18 @@
             "cover": "https://cdn.jasonlawton.com/books/angel-of-the-crows.jpg",
             "notes": "",
             "tags": [
-                "fiction","fantasy","historical","lgbtqia+","adventurous","slow-paced"
+                "fiction",
+                "fantasy",
+                "historical",
+                "lgbtqia+",
+                "adventurous",
+                "slow-paced"
             ],
             "links": {
-                "storygraph":"https://app.thestorygraph.com/books/027d55fc-914d-4dd2-9901-9c4d60487a9c",
-                "amazon":"https://a.co/d/3GSomsz"
+                "storygraph": "https://app.thestorygraph.com/books/027d55fc-914d-4dd2-9901-9c4d60487a9c",
+                "amazon": "https://a.co/d/3GSomsz"
             }
         },
-
-
         {
             "title": "Words of Radiance",
             "subtitle": "",
@@ -2581,7 +3113,6 @@
                 "bookshop.org": "https://bookshop.org/p/books/dark-matter-blake-crouch/9316815?ean=9781101904244"
             }
         },
-
         {
             "title": "Constance",
             "subtitle": "",
@@ -2633,13 +3164,6 @@
                 "bookshop.org": "https://bookshop.org/p/books/the-paper-menagerie-and-other-stories-ken-liu/118277?ean=9781481424312"
             }
         },
-
-
-
-
-
-
-
         {
             "title": "Ancillary Justice",
             "series_name": "Imperial Radch",
@@ -2651,8 +3175,12 @@
             "start_date": "2013-12-14",
             "end_date": "2013-12-30",
             "cover": "https://cdn.thestorygraph.com/2pi2vnkubv62az1yjmpquh6933vo",
-            "tags":[
-                "fiction","science-fiction","adventurous","challenging","medium-paced"
+            "tags": [
+                "fiction",
+                "science-fiction",
+                "adventurous",
+                "challenging",
+                "medium-paced"
             ]
         },
         {
@@ -2665,8 +3193,15 @@
             "start_date": "2013-12-14",
             "end_date": "2013-12-15",
             "cover": "https://cdn.thestorygraph.com/89f3hwhznu1idqcsldgf8cisde45",
-            "tags":[
-                "fiction","fantasy","horror","magical-realism","adventurous","dark","mysterious","medium-paced"
+            "tags": [
+                "fiction",
+                "fantasy",
+                "horror",
+                "magical-realism",
+                "adventurous",
+                "dark",
+                "mysterious",
+                "medium-paced"
             ]
         },
         {
@@ -2679,8 +3214,14 @@
             "start_date": "2013-09-05",
             "end_date": "2013-12-14",
             "cover": "https://cdn.thestorygraph.com/6wlaypj1sn29iqaptgm07dpkiu46",
-            "tags":[
-                "fiction","fantasy","magical-realism","adventurous","mysterious","reflective","slow-paced"
+            "tags": [
+                "fiction",
+                "fantasy",
+                "magical-realism",
+                "adventurous",
+                "mysterious",
+                "reflective",
+                "slow-paced"
             ]
         },
         {
@@ -2693,8 +3234,14 @@
             "start_date": "2013-08-05",
             "end_date": "2013-08-14",
             "cover": "https://cdn.thestorygraph.com/zt90bfxntnl2jitmdotghj16d9ue",
-            "tags":[
-                "fiction","fantasy","historical","romance","adventurous","mysterious","slow-paced"
+            "tags": [
+                "fiction",
+                "fantasy",
+                "historical",
+                "romance",
+                "adventurous",
+                "mysterious",
+                "slow-paced"
             ]
         },
         {
@@ -2708,8 +3255,14 @@
             "start_date": "2013-06-24",
             "end_date": "2013-07-02",
             "cover": "https://cdn.thestorygraph.com/48sqrtj9vw83me7f1die1toi3k2b",
-            "tags":[
-                "fiction","dystopian","science-fiction","dark","mysterious","tense","medium-paced"
+            "tags": [
+                "fiction",
+                "dystopian",
+                "science-fiction",
+                "dark",
+                "mysterious",
+                "tense",
+                "medium-paced"
             ]
         },
         {
@@ -2722,8 +3275,16 @@
             "start_date": "2013-06-19",
             "end_date": "2013-06-22",
             "cover": "https://cdn.thestorygraph.com/hqc55gvwa7q9vtau646se3xnb75v",
-            "tags":[
-                "fiction","classics","historical","literary","science-fiction","dark","funny","reflective","medium-paced"
+            "tags": [
+                "fiction",
+                "classics",
+                "historical",
+                "literary",
+                "science-fiction",
+                "dark",
+                "funny",
+                "reflective",
+                "medium-paced"
             ]
         },
         {
@@ -2737,8 +3298,12 @@
             "start_date": "2013-05-10",
             "end_date": "2013-06-15",
             "cover": "https://cdn.thestorygraph.com/mphsfi1lya4mb8cc5ruzffo07yh6",
-            "tags":[
-                "fiction","fantasy","adventurous","mysterious","medium-paced"
+            "tags": [
+                "fiction",
+                "fantasy",
+                "adventurous",
+                "mysterious",
+                "medium-paced"
             ]
         },
         {
@@ -2752,8 +3317,12 @@
             "start_date": "2013-04-11",
             "end_date": "2013-05-10",
             "cover": "https://cdn.thestorygraph.com/3t10zop3gni7eyjxyhhkqv9l33q5",
-            "tags":[
-                "fiction","fantasy","adventurous","mysterious","medium-paced"
+            "tags": [
+                "fiction",
+                "fantasy",
+                "adventurous",
+                "mysterious",
+                "medium-paced"
             ]
         },
         {
@@ -2767,8 +3336,14 @@
             "start_date": "2013-04-08",
             "end_date": "2013-04-11",
             "cover": "https://cdn.thestorygraph.com/z7wbqkjlpw7i9tk347zo00nivi68",
-            "tags":[
-                "fiction","fantasy","middle-grade","science-fiction","adventurous","mysterious","medium-paced"
+            "tags": [
+                "fiction",
+                "fantasy",
+                "middle-grade",
+                "science-fiction",
+                "adventurous",
+                "mysterious",
+                "medium-paced"
             ]
         },
         {
@@ -2782,8 +3357,14 @@
             "start_date": "2013-03-11",
             "end_date": "2013-04-08",
             "cover": "https://cdn.thestorygraph.com/xnl5nq6z580d6lo2xiz5xpqg2pm9",
-            "tags":[
-                "fiction","fantasy","mystery","adventurous","funny","mysterious","fast-paced"
+            "tags": [
+                "fiction",
+                "fantasy",
+                "mystery",
+                "adventurous",
+                "funny",
+                "mysterious",
+                "fast-paced"
             ]
         },
         {
@@ -2797,8 +3378,11 @@
             "start_date": "2013-01-29",
             "end_date": "2013-02-20",
             "cover": "https://cdn.thestorygraph.com/gxfifv4906mgld0vzitpf0c5lige",
-            "tags":[
-                "fiction","science-fiction","adventurous","slow-paced"
+            "tags": [
+                "fiction",
+                "science-fiction",
+                "adventurous",
+                "slow-paced"
             ]
         },
         {
@@ -2812,8 +3396,13 @@
             "start_date": "2013-01-07",
             "end_date": "2013-01-29",
             "cover": "https://cdn.thestorygraph.com/jn7kzux7nv7lnh97jlgd6a7z89rk",
-            "tags":[
-                "fiction","science-fiction","adventurous","dark","tense","medium-paced"
+            "tags": [
+                "fiction",
+                "science-fiction",
+                "adventurous",
+                "dark",
+                "tense",
+                "medium-paced"
             ]
         },
         {
@@ -2828,7 +3417,13 @@
             "end_date": "2012-12-18",
             "cover": "https://cdn.thestorygraph.com/s8uhso6cghcbxivo6hderveroja9",
             "tags": [
-                "fiction","fantasy","science-fiction","adventurous","challenging","dark","medium-paced"
+                "fiction",
+                "fantasy",
+                "science-fiction",
+                "adventurous",
+                "challenging",
+                "dark",
+                "medium-paced"
             ]
         },
         {
@@ -2841,8 +3436,13 @@
             "start_date": "2012-10-27",
             "end_date": "2012-11-21",
             "cover": "https://cdn.thestorygraph.com/d1blx5b1bywjzkdwnc43mh6lp0n0",
-            "tags":[
-                "fiction","literary","science-fiction","adventurous","reflective","medium-paced"
+            "tags": [
+                "fiction",
+                "literary",
+                "science-fiction",
+                "adventurous",
+                "reflective",
+                "medium-paced"
             ]
         },
         {
@@ -2856,8 +3456,14 @@
             "start_date": "2012-10-06",
             "end_date": "2012-10-27",
             "cover": "https://cdn.thestorygraph.com/4rd4kvlzln9we5nxsltyt7abp5x8",
-            "tags":[
-                "fiction","historical","mystery","speculative-fiction","dark","mysterious","slow-paced"
+            "tags": [
+                "fiction",
+                "historical",
+                "mystery",
+                "speculative-fiction",
+                "dark",
+                "mysterious",
+                "slow-paced"
             ]
         },
         {
@@ -2871,8 +3477,14 @@
             "start_date": "2012-09-17",
             "end_date": "2012-10-06",
             "cover": "https://cdn.thestorygraph.com/9m9l6qnwn3xx6bjsovd6gdlnxklc",
-            "tags":[
-                "fiction","historical","mystery","speculative-fiction","dark","mysterious","slow-paced"
+            "tags": [
+                "fiction",
+                "historical",
+                "mystery",
+                "speculative-fiction",
+                "dark",
+                "mysterious",
+                "slow-paced"
             ]
         },
         {
@@ -2886,8 +3498,14 @@
             "start_date": "2012-08-10",
             "end_date": "2012-09-17",
             "cover": "https://cdn.thestorygraph.com/7c2qqfr9ke51uco38zyfkbfrc4fh",
-            "tags":[
-                "fiction","historical","mystery","speculative-fiction","dark","mysterious","slow-paced"
+            "tags": [
+                "fiction",
+                "historical",
+                "mystery",
+                "speculative-fiction",
+                "dark",
+                "mysterious",
+                "slow-paced"
             ]
         },
         {
