@@ -1,6 +1,46 @@
 { 
     "books": [
         {
+            "title": "Infinity Gate",
+            "subtitle": "",
+            "series_name": "",
+            "series_order": 1,
+            "series_total": 2,
+            "author": "M. R. Carey",
+            "rating": 0,
+            "start_date": "2024-11-03",
+            "end_date": "2024-11-03",
+            "pages": 545,
+            "cover": "https://cdn.jasonlawton.com/books/infinity-gate.jpg",
+            "notes": "",
+            "tags": [
+                "currently-reading","fiction","science-fiction","adventurous","tense","medium-paced"
+            ],
+            "links": {
+                "amazon.com": "https://a.co/d/iEk0s3n",
+                "bookshop.org": "https://bookshop.org/p/books/infinity-gate-m-r-carey/19209152?ean=9780316504386"
+            }
+        },{
+            "title": "Buried Deep",
+            "subtitle": "",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author": "Naomi Novak",
+            "rating": 0,
+            "start_date": "2024-11-03",
+            "end_date": "2024-11-03",
+            "pages": 0,
+            "cover": "https://cdn.jasonlawton.com/books/",
+            "notes": "",
+            "tags": [
+                "currently-reading","fiction","fantasy","short-stories","challenging","dark","reflective","medium-paced"
+            ],
+            "links": {
+                "amazon.com": "https://a.co/d/dY6995a",
+                "bookshop.org": "https://bookshop.org/p/books/buried-deep-and-other-stories-naomi-novik/20984713?ean=9780593600351"
+            }
+        },{
             "title": "Twilight Falls",
             "subtitle": "",
             "series_name": "Shady Hollow",
