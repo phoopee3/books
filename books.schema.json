@@ -1,0 +1,58 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "books": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "title": { "type": "string" },
+          "subtitle": { "type": "string" },
+          "series_name": { "type": "string" },
+          "series_order": { "type": "integer" },
+          "series_total": { "type": "integer" },
+          "author": { "type": "string" },
+          "pages": { "type": "integer" },
+          "rating": { "type": "number" },
+          "start_date": { "type": "string", "format": "date" },
+          "end_date": { "type": "string", "format": "date" },
+          "cover": { "type": "string", "format": "uri" },
+          "notes": { "type": "string" },
+          "tags": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "links": {
+            "type": "object",
+            "properties": {
+              "amazon": { "type": "string", "format": "uri" },
+              "bookshop.org": { "type": "string", "format": "uri" }
+            },
+            "required": ["amazon", "bookshop.org"],
+            "additionalProperties": false
+          }
+        },
+        "required": [
+          "title",
+          "subtitle",
+          "series_name",
+          "series_order",
+          "series_total",
+          "author",
+          "pages",
+          "rating",
+          "start_date",
+          "end_date",
+          "cover",
+          "notes",
+          "tags",
+          "links"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": ["books"],
+  "additionalProperties": false
+}
