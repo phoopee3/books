@@ -1,45 +1,808 @@
 {
     "books": [
         {
-            "title": "Infinity Gate",
+            "title": "Infinite Archive",
             "subtitle": "",
-            "series_name": "",
-            "series_order": 1,
-            "series_total": 2,
-            "author": "M. R. Carey",
-            "rating": 4,
-            "start_date": "2024-11-03",
-            "end_date": "2024-11-24",
-            "pages": 545,
-            "cover": "https://cdn.jasonlawton.com/books/infinity-gate.jpg",
-            "notes": "It would have been 5 stars, except that it ended on an annoying cliffhanger.",
+            "series_name": "The Midsolar Murders",
+            "series_order": 3,
+            "series_total": 3,
+            "author": "Mur Lafferty",
+            "pages": 352,
+            "rating": 0,
+            "start_date": "2025-07-20",
+            "end_date": "2025-07-20",
+            "cover": "https://cdn.jasonlawton.com/books/infinite-archive.jpg",
+            "notes": "",
             "tags": [
-                "fiction",
-                "science-fiction",
-                "adventurous",
-                "tense",
-                "medium-paced"
+                "currently-reading",
+                "fiction","mystery","science- fiction","adventurous","funny","mysterious","fast-paced"
             ],
             "links": {
-                "amazon.com": "https://a.co/d/iEk0s3n",
-                "bookshop.org": "https://bookshop.org/p/books/infinity-gate-m-r-carey/19209152?ean=9780316504386"
+                "amazon": "https://a.co/d/6jRhwia",
+                "bookshop.org": "https://bookshop.org/p/books/infinite-archive-mur-lafferty/21234758?ean=9780593098158&next=t"
+            }
+        },{
+            "title": "We are Legion (We are Bob)",
+            "subtitle": "",
+            "series_name": "Bobiverse",
+            "series_order": 1,
+            "series_total": 5,
+            "author": "Dennis E. Taylor",
+            "pages": 383,
+            "rating": 2,
+            "start_date": "2025-07-15",
+            "end_date": "2025-07-20",
+            "cover": "https://cdn.jasonlawton.com/books/we-are-legion.jpg",
+            "notes": "Kind of a military themed book, but with only one character, and literally no female characters.",
+            "tags": [
+                "fiction","science-fiction","adventurous","funny","lighthearted","medium-paced"
+            ],
+            "links": {
+                "amazon": "https://a.co/d/dzXHDdK",
+                "bookshop.org":"https://bookshop.org/p/books/we-are-legion-we-are-bob-bobiverse-book-1-dennis-e-taylor/530a93bc8591e7c9?ean=9781668221570&next=t"
+            }
+        },{
+            "title": "Dungeon Crawler Carl",
+            "subtitle": "",
+            "series_name": "Dungeon Crawler Carl",
+            "series_order": 1,
+            "series_total": 8,
+            "author": "",
+            "pages": 450,
+            "rating": 4,
+            "start_date": "2025-07-13",
+            "end_date": "2025-07-14",
+            "cover": "https://cdn.jasonlawton.com/books/dungeon-crawler-carl-01.jpg",
+            "notes": "Somehow even though it's 450 pages long, I read this in two days. Super easy, fast paced, read.",
+            "tags": [
+                "fiction","litrpg","fantasy","science-fiction","adventurous","funny","fast-paced"
+            ],
+            "links": {
+                "amazon": "https://a.co/d/eHGIxCs",
+                "bookshop.org":"https://bookshop.org/p/books/dungeon-crawler-carl-matt-dinniman/21385367?ean=9780593820247&next=t"
+            }
+        },{
+            "title": "The Body Keeps the Score: Mind, Brain and Body in the Transformation of Trauma",
+            "subtitle": "",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author": "Bessel A. van der Kolk",
+            "pages": 464,
+            "rating": 3,
+            "start_date": "2025-06-11",
+            "end_date": "2025-07-12",
+            "cover": "https://cdn.jasonlawton.com/books/body-keeps-the-score.jpg",
+            "notes": "Heavy in its examples, but a good book overall.",
+            "tags": [
+                "nonfiction","health","psychology","challenging","informative","reflective","slow-paced"
+            ],
+            "links": {
+                "amazon": "https://a.co/d/0luWipp",
+                "bookshop.org":"https://bookshop.org/p/books/the-body-keeps-the-score-brain-mind-and-body-in-the-healing-of-trauma-bessel-van-der-kolk/6679040?ean=9780143127741&next=t"
+            }
+        },{
+            "title": "Once Was Willem",
+            "subtitle": "",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author": "M.R. Carey",
+            "pages": 310,
+            "rating": 2,
+            "start_date": "2025-06-28",
+            "end_date": "2025-06-28",
+            "cover": "https://cdn.jasonlawton.com/books/once-was-willem.jpg",
+            "notes": "When the narrator says things like, the journey was long, so I'll skip describing it, it strikes me as annoying and lazy story telling. And that happened multiple times in this book.",
+            "tags": [
+                "dark","fiction","fantasy","adventurous","medium-paced"
+            ],
+            "links": {
+                "amazon": "https://a.co/d/fUWcWgL",
+                "bookshop.org":"https://bookshop.org/p/books/once-was-willem-m-r-carey/21452095?ean=9780316505024&next=t"
+            }
+        },{
+            "title": "Asunder",
+            "subtitle": "",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author": "Kerstin Hall",
+            "pages": 432,
+            "rating": 3,
+            "start_date": "2025-06-11",
+            "end_date": "2025-06-27",
+            "cover": "https://cdn.jasonlawton.com/books/asunder.png",
+            "notes": "The romance angle was unnecessary and not believable. It also went on a little long. Overall a good book.",
+            "tags": [
+                "nebula-nominated","fiction","fantasy","adventurous","dark","tense","medium-paced"
+            ],
+            "links": {
+                "amazon": "https://a.co/d/2dzVUMW",
+                "bookshop.org":"https://bookshop.org/p/books/asunder-kerstin-hall/20507664?ean=9781250625427&digital=t"
+            }
+        },{
+            "title": "The Ministry of Time",
+            "subtitle": "",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author": "Kaliane Bradley",
+            "pages": 368,
+            "rating": 3,
+            "start_date": "2025-06-07",
+            "end_date": "2025-06-11",
+            "cover": "https://cdn.jasonlawton.com/books/ministry-of-time.png",
+            "notes": "The chemistry between the two main characters was more unbelievable than the time travel part of this story.",
+            "tags": [
+                "nebula-nominated","fiction","literary","romance","science-fiction","adventurous","emotional","mysterious","medium-paced"
+            ],
+            "links": {
+                "amazon": "https://a.co/d/61eeh5w",
+                "bookshop.org":"https://bookshop.org/p/books/the-ministry-of-time-kaliane-bradley/20696241?ean=9781668045152&next=t"
+            }
+        },{
+            "title": "The Tainted Cup",
+            "subtitle": "",
+            "series_name": "Shadow of the Leviathan",
+            "series_order": 1,
+            "series_total": 2,
+            "author": "Robert Jackson Bennett",
+            "pages": 432,
+            "rating": 5,
+            "start_date": "2025-06-03",
+            "end_date": "2025-06-06",
+            "cover": "https://cdn.jasonlawton.com/books/tainted-cup.jpg",
+            "notes": "",
+            "tags": [
+                "nebula-nominated","fiction","fantasy","lgbtqia+","adventurous","mysterious","mystery","medium-paced"
+            ],
+            "links": {
+                "amazon": "https://a.co/d/36K1lDe",
+                "bookshop.org":"https://bookshop.org/p/books/the-tainted-cup-robert-jackson-bennett/20065357"
+            }
+        },{
+            "title": "Alien Clay",
+            "subtitle": "",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author": "Adrian Tchaikovsky",
+            "pages": 432,
+            "rating": 4,
+            "start_date": "2025-05-27",
+            "end_date": "2025-06-03",
+            "cover": "https://cdn.jasonlawton.com/books/alien-clay.jpg",
+            "notes": "A common theme in Tchaikovsky's books are about an alien landscape making people more empathetic, the first book in Children of Time is a good example. This book also explores that theme. It is a bit repetitive though.",
+            "tags": [
+                "nebula-nominated","fiction","science-fiction","adventurous","mysterious","tense","medium-paced"
+            ],
+            "links": {
+                "amazon": "https://a.co/d/9Px2vtz",
+                "bookshop.org":"https://bookshop.org/p/books/alien-clay-adrian-tchaikovsky/20916295?ean=9780316578974&next=t"
+            }
+        },{
+            "title": "Rakesfall",
+            "subtitle": "",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author": "Vajra Chandrasekera",
+            "pages": 304,
+            "rating": 1,
+            "start_date": "2025-05-22",
+            "end_date": "2025-05-27",
+            "cover": "https://cdn.jasonlawton.com/books/rakesfall.jpg",
+            "notes": "Do you want to read a story that has no story, and seems like flashbacks within flashbacks? Neither did I.",
+            "tags": [
+                "nebula-nominated","dnf","fiction","fantasy","science-fiction","adventurous","dark","mysterious","medium-paced"
+            ],
+            "links": {
+                "amazon": "https://a.co/d/0kdr42v",
+                "bookshop.org":"https://bookshop.org/p/books/rakesfall-vajra-chandrasekera/20464409?ean=9781250847706&next=t"
+            }
+        },{
+            "title": "Someone You can Build a Nest In",
+            "subtitle": "",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author": "John Wiswell",
+            "pages": 336,
+            "rating": 5,
+            "start_date": "2025-05-16",
+            "end_date": "2025-05-21",
+            "cover": "https://cdn.jasonlawton.com/books/someone-you-can-build-a-nest-in.jpg",
+            "notes": "Interesting premise, good story, funny",
+            "tags": [
+                "nebula-nominated","fiction","fantasy","horror","lgbtqia+","romance","adventurous","dark","funny","medium-paced"
+            ],
+            "links": {
+                "amazon": "https://a.co/d/5gvW1r4",
+                "bookshop.org":"https://bookshop.org/p/books/someone-you-can-build-a-nest-in-john-wiswell/20241154?ean=9780756419745&next=t"
+            }
+        },{
+            "title": "Sleeping Worlds Have No Memory",
+            "subtitle": "",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author": "Yaroslav Barsukov",
+            "pages": 382,
+            "rating": 1,
+            "start_date": "2025-05-03",
+            "end_date": "2025-05-16",
+            "cover": "https://cdn.jasonlawton.com/books/sleeping-worlds-have-no-memory.jpg",
+            "notes": "Too much political machinations, too all over the place. Did not enjoy it at all.",
+            "tags": [
+                "nebula-nominated","fiction","fantasy","adventurous","dark","mysterious","medium-paced"
+            ],
+            "links": {
+                "amazon": "https://a.co/d/0KTXTar",
+                "bookshop.org":"https://bookshop.org/p/books/sleeping-worlds-have-no-memory-yaroslav-barsukov/21033310?ean=9781647101367&next=t"
+            }
+        },{
+            "title": "A Sorceress Comes to Call",
+            "subtitle": "",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author": "T. Kingfisher",
+            "pages": 336,
+            "rating": 3,
+            "start_date": "2025-04-24",
+            "end_date": "2025-05-03",
+            "cover": "https://cdn.jasonlawton.com/books/sorceress-comes-to-call.jpg",
+            "notes": "",
+            "tags": [
+                "nebula-nominated","fiction","fantasy","adventurous","dark","mysterious","medium-paced"
+            ],
+            "links": {
+                "amazon": "https://a.co/d/8F6O123",
+                "bookshop.org":"https://bookshop.org/p/books/a-sorceress-comes-to-call-t-kingfisher/20507403?ean=9781250244079&next=t"
             }
         },
         {
+            "title": "System Collapse",
+            "subtitle": "",
+            "series_name": "The Murderbot Diaries",
+            "series_order": 7,
+            "series_total": 7,
+            "author": "Martha wells",
+            "pages": 245,
+            "rating": 3,
+            "start_date": "2025-04-19",
+            "end_date": "2025-04-24",
+            "cover": "https://cdn.jasonlawton.com/books/system-collapse.jpg",
+            "notes": "",
+            "tags": [
+                "fiction","science-fiction","adventurous","emotional","funny","fast-paced"
+            ],
+            "links": {
+                "amazon": "https://a.co/d/gfVSg3m",
+                "bookshop.org":"https://bookshop.org/p/books/the-murderbot-diaries-vol-3-martha-wells/21717576?ean=9781250389848&next=t"
+            }
+        },
+        {
+            "title": "The Book of Love",
+            "subtitle": "",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author": "Kelly Link",
+            "pages": 628,
+            "rating": 3,
+            "start_date": "2025-04-01",
+            "end_date": "2025-04-18",
+            "cover": "https://cdn.jasonlawton.com/books/book-of-love.jpg",
+            "notes": "",
+            "tags": [
+                "nebula-nominated","fiction","contemporary","fantasy","adventurous","dark","mysterious","slow-paced"
+            ],
+            "links": {
+                "amazon": "https://a.co/d/8rtl6vT",
+                "bookshop.org":"https://bookshop.org/p/books/the-book-of-love-kelly-link/20099222?ean=9780812986501&next=t"
+            }
+        },{
+            "title": "Future's Edge",
+            "subtitle": "",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author": "Gareth L. Powell",
+            "pages": 319,
+            "rating": 4,
+            "start_date": "2025-03-26",
+            "end_date": "2025-03-31",
+            "cover": "https://cdn.jasonlawton.com/books/futures-edge.jpg",
+            "notes": "",
+            "tags": [
+                "fiction","horror","science-fiction","medium-paced"
+            ],
+            "links": {
+                "amazon": "https://a.co/d/4tNDMzG",
+                "bookshop.org":"https://bookshop.org/p/books/future-s-edge-gareth-l-powell/21536482?ean=9781803368634&next=t"
+            }
+        },{
+            "title": "A Grim Reaper's Guide to Catching a Killer",
+            "subtitle": "",
+            "series_name": "A SCYTHE Mystery",
+            "series_order": 1,
+            "series_total": "?",
+            "author": "Maxie Dara",
+            "pages": 351,
+            "rating": 3,
+            "start_date": "2025-03-19",
+            "end_date": "2025-03-26",
+            "cover": "https://cdn.jasonlawton.com/books/grim-reapers-guide-to-catching-a-killer.jpg",
+            "notes": "",
+            "tags": [
+                "fiction","fantasy","mystery","adventurous","emotional","mysterious","medium-paced"
+            ],
+            "links": {
+                "amazon": "https://a.co/d/7qMLfmI",
+                "bookshop.org":"https://bookshop.org/p/books/a-grim-reaper-s-guide-to-catching-a-killer-maxie-dara/21035311?ean=9780593815793&next=t"
+            }
+        },{
+            "title": "Livesuit",
+            "subtitle": "",
+            "series_name": "The Captive's War",
+            "series_order": 1.5,
+            "series_total": 2,
+            "author": "James S.A. Corey",
+            "pages": 90,
+            "rating": 3,
+            "start_date": "2025-03-16",
+            "end_date": "2025-03-18",
+            "cover": "https://cdn.jasonlawton.com/books/livesuit.jpg",
+            "notes": "",
+            "tags": [
+                "fiction","science","fiction","adventurous","dark","fast-paced"
+            ],
+            "links": {
+                "amazon": "https://a.co/d/i1dwINV",
+                "bookshop.org":"https://bookshop.org/p/books/livesuit-james-s-a-corey/6cbfabe5088fe467?ean=9780316575348&next=t"
+            }
+        },{
+            "title": "Moonbound",
+            "subtitle": "",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author": "Robin Sloan",
+            "pages": 432,
+            "rating": 4,
+            "start_date": "2025-03-05",
+            "end_date": "2025-03-15",
+            "cover": "https://cdn.jasonlawton.com/books/moonbound.jpg",
+            "notes": "",
+            "tags": [
+                "fiction","fantasy","science-fiction","adventurous","funny","inspiring","medium-paced"
+            ],
+            "links": {
+                "amazon": "https://a.co/d/dj90hEZ",
+                "bookshop.org":"https://bookshop.org/p/books/wizard-s-design-robin-sloan/20374751?ean=9780374610609&next=t"
+            }
+        },{
+            "title": "Home: Habitat, Range, Niche, Territory",
+            "subtitle": "",
+            "series_name": "The Murderbot Diaries",
+            "series_order": 4.5,
+            "series_total": 7,
+            "author": "Martha Wells",
+            "pages": 20,
+            "rating": 3,
+            "start_date": "2025-03-04",
+            "end_date": "2025-03-05",
+            "cover": "https://cdn.jasonlawton.com/books/home-habitat.jpg",
+            "notes": "",
+            "tags": [
+                "fiction","science-fiction","short-stories","emotional","reflective","fast-paced"
+            ],
+            "links": {
+                "amazon": "https://a.co/d/it99Riy",
+                "bookshop.org":"https://bookshop.org/p/books/home-habitat-range-niche-territory-a-tor-com-original-murderbot-diaries-short-story-martha-wells/bf26d8d881884fc2?ean=9781250838865&next=t"
+            }
+        },{
+            "title": "Dreadful Company",
+            "subtitle": "",
+            "series_name": "Dr. Greta Helsing",
+            "series_order": 2,
+            "series_total": 3,
+            "author": "Vivian Shaw",
+            "pages": 432,
+            "rating": 4,
+            "start_date": "2025-02-23",
+            "end_date": "2025-03-04",
+            "cover": "https://cdn.jasonlawton.com/books/dreadful-company.jpg",
+            "notes": "",
+            "tags": [
+                "fiction","fantasy","adventurous","mysterious","fast-paced"
+            ],
+            "links": {
+                "amazon": "https://a.co/d/bM0wu8c",
+                "bookshop.org":"https://bookshop.org/p/books/dreadful-company-vivian-shaw/113155?ean=9780316434638&next=t&next=t"
+            }
+        },{
+            "title": "Yumi and the Nightmare Painter",
+            "subtitle": "",
+            "series_name": "Secret Projects",
+            "series_order": 3,
+            "series_total": 4,
+            "author": "Brandon Sanderson",
+            "pages": 384,
+            "rating": 3,
+            "start_date": "2025-02-12",
+            "end_date": "2025-02-12",
+            "cover": "https://cdn.jasonlawton.com/books/yumi-and-the-nightmare-painter.jpg",
+            "notes": "",
+            "tags": [
+                "fiction","fantasy","adventurous","emotional","mysterious","medium-paced"
+            ],
+            "links": {
+                "amazon": "https://a.co/d/6ndrzLg",
+                "bookshop.org":"https://bookshop.org/p/books/fall-2023-tor-title-to-be-announced-announced/19018163?ean=9781250899699&next=t&next=t"
+            }
+        },{
+            "title": "The Burning Page",
+            "subtitle": "",
+            "series_name": "The Invisible Library",
+            "series_order": 3,
+            "series_total": 8,
+            "author": "Genevieve Cogman",
+            "pages": 368,
+            "rating": 4,
+            "start_date": "2025-02-05",
+            "end_date": "2025-02-12",
+            "cover": "https://cdn.jasonlawton.com/books/burning-page.jpg",
+            "notes": "",
+            "tags": [
+                "fiction","fantasy","mystery","adventurous","mysterious","medium-paced"
+            ],
+            "links": {
+                "amazon": "https://a.co/d/3Nz3Ny7",
+                "bookshop.org":"https://bookshop.org/p/books/the-burning-page-genevieve-cogman/7380173?ean=9781101988688&next=t&next=t"
+            }
+        },{
+            "title": "The Invisible Life of Addie Larue",
+            "subtitle": "",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author": "V. E. Schwab",
+            "pages": 448,
+            "rating": 4,
+            "start_date": "2025-01-29",
+            "end_date": "2025-02-04",
+            "cover": "https://cdn.jasonlawton.com/books/invisible-life-of-addie-larue.jpg",
+            "notes": "",
+            "tags": [
+"fiction","historical","literary","magical-realism","adventurous","emotional","mysterious","medium-paced"
+            ],
+            "links": {
+                "amazon": "https://a.co/d/7FZqVTG",
+                "bookshop.org":"https://bookshop.org/p/books/the-invisible-life-of-addie-larue-v-e-schwab/18413009?ean=9780765387578&next=t&next=t"
+            }
+        },{
+            "title": "Tower of Thorns",
+            "subtitle": "",
+            "series_name": "Blackthorn & Grim",
+            "series_order": 2,
+            "series_total": 3,
+            "author": "Juliet Marillier",
+            "pages": 416,
+            "rating": 5,
+            "start_date": "2025-01-21",
+            "end_date": "2025-01-29",
+            "cover": "https://cdn.jasonlawton.com/books/tower-of-thorns.jpg",
+            "notes": "",
+            "tags": [
+                "fiction",
+                "fantasy",
+                "historical",
+                "adventurous",
+                "dark",
+                "mysterious",
+                "slow-paced"
+            ],
+            "links": {
+                "amazon": "https://a.co/d/g059rQa",
+                "bookshop.org":"https://bookshop.org/p/books/tower-of-thorns-juliet-marillier/7419166?ean=9780451467027"
+            }
+        },{
+            "title": "The Expert System's Champion",
+            "subtitle": "",
+            "series_name": "Expert Systems",
+            "series_order": 2,
+            "series_total": 2,
+            "author": "Adrian Tchaikovsky",
+            "rating": 4,
+            "start_date": "2025-01-19",
+            "end_date": "2025-01-21",
+            "pages": 194,
+            "cover": "https://cdn.jasonlawton.com/books/expert-systems-champion.jpg",
+            "notes": "",
+            "tags": [
+                "reread","fiction","fantasy","science-fiction","adventurous","mysterious","medium-paced"
+            ],
+            "links": {
+                "amazon.com": "https://a.co/d/aU5pje8",
+                "bookshop.org": "https://bookshop.org/p/books/the-expert-system-s-champion-adrian-tchaikovsky/18430057?ean=9781250766397"
+            }
+        },{
+            "title": "The Expert System's Brother",
+            "subtitle": "",
+            "series_name": "Expert Systems",
+            "series_order": 1,
+            "series_total": 2,
+            "author": "Adrian Tchaikovsky",
+            "rating": 4,
+            "start_date": "2025-01-18",
+            "end_date": "2025-01-19",
+            "pages": 176,
+            "cover": "https://cdn.jasonlawton.com/books/expert-systems-brother.jpg",
+            "notes": "",
+            "tags": [
+                "reread","fiction","fantasy","science-fiction","adventurous","mysterious","medium-paced"
+            ],
+            "links": {
+                "amazon.com": "https://a.co/d/b9HpeLc",
+                "bookshop.org": "https://bookshop.org/p/books/expert-system-s-brother-adrian-tchaikovsky/9866859?ean=9781250197566"
+            }
+        },{
+            "title": "The Liar's Dictionary",
+            "subtitle": "",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author": "Eley Williams",
+            "rating": 5,
+            "start_date": "2025-01-15",
+            "end_date": "2025-01-17",
+            "pages": 288,
+            "cover": "https://cdn.jasonlawton.com/books/liars-dictionary.jpg",
+            "notes": "",
+            "tags": [
+                "fiction","contemporary","historical","lgbtqia+","literary","adventurous","lighthearted","medium-paced"
+            ],
+            "links": {
+                "amazon.com": "https://a.co/d/bbBS4ZU",
+                "bookshop.org": "https://bookshop.org/p/books/the-liar-s-dictionary-eley-williams/21489218?ean=9780593311868"
+            }
+        },{
+            "title": "The Frugal Wizard's Handbook for Surviving Medieval England",
+            "subtitle": "",
+            "series_name": "Secret Projects",
+            "series_order": 2,
+            "series_total": 4,
+            "author": " Brandon Sanderson",
+            "rating": 4,
+            "start_date": "2025-01-12",
+            "end_date": "2025-01-15",
+            "pages": 366,
+            "cover": "https://cdn.jasonlawton.com/books/frugal-wizards-handbook.jpg",
+            "notes": "",
+            "tags": [
+                "fiction","fantasy","science-fiction","adventurous","funny","lighthearted","fast-paced"
+            ],
+            "links": {
+                "amazon.com": "https://a.co/d/fy4o11s",
+                "bookshop.org": "https://bookshop.org/p/books/spring-2023-tor-title-to-be-announced-announced/19018160?ean=9781250899682"
+            }
+        },{
+            "title": "The Raven Tower",
+            "subtitle": "",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author": "Ann Leckie",
+            "rating": 2,
+            "start_date": "2025-01-04",
+            "end_date": "2025-01-12",
+            "pages": 416,
+            "cover": "https://cdn.jasonlawton.com/books/raven-tower.jpg",
+            "notes": "",
+            "tags": [
+                "fiction","fantasy","lgbtqia+","adventurous","mysterious","slow-paced"
+            ],
+            "links": {
+                "amazon.com": "https://a.co/d/aalx2xl",
+                "bookshop.org": "https://bookshop.org/p/books/the-raven-tower-ann-leckie/112514?ean=9780316388702"
+            }
+        },{
+            "title": "Grave Expectations",
+            "subtitle": "",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author": "Alice Bell",
+            "rating": 4,
+            "start_date": "2025-01-01",
+            "end_date": "2025-01-03",
+            "pages": 352,
+            "cover": "https://cdn.jasonlawton.com/books/grave-expectations.jpg",
+            "notes": "",
+            "tags": [
+                "fiction","fantasy","mystery","adventurous","funny","mysterious","medium-paced"
+            ],
+            "links": {
+                "amazon.com": "https://a.co/d/ibX2DxT",
+                "bookshop.org": "https://bookshop.org/p/books/grave-expectations-alice-bell/19433466?ean=9780593470633"
+            }
+        },{
+            "title": "Echo of Worlds",
+            "subtitle": "",
+            "series_name": "The Pandominion",
+            "series_order": 2,
+            "series_total": 2,
+            "author": "M. R. Carey",
+            "rating": 3,
+            "start_date": "2024-12-26",
+            "end_date": "2024-12-31",
+            "pages": 512,
+            "cover": "https://cdn.jasonlawton.com/books/echo-of-worlds.jpg",
+            "notes": "",
+            "tags": [
+                "fiction","science-fiction","adventurous","tense","medium-paced"
+            ],
+            "links": {
+                "amazon.com": "https://a.co/d/eDZLtzB",
+                "bookshop.org": "https://bookshop.org/p/books/echo-of-worlds-m-r-carey/20663724?ean=9780316504690"
+            }
+        },{
+            "title": "The Mercy of Gods",
+            "subtitle": "",
+            "series_name": "The Captive's War",
+            "series_order": 1,
+            "series_total": "?",
+            "author": "James S.A. Corey",
+            "rating": 4,
+            "start_date": "2024-12-21",
+            "end_date": "2024-12-26",
+            "pages": 422,
+            "cover": "https://cdn.jasonlawton.com/books/mercy-of-gods.jpg",
+            "notes": "",
+            "tags": [
+                "fiction","science-fiction","adventurous","dark","tense","medium-paced"
+            ],
+            "links": {
+                "amazon.com": "https://a.co/d/gvKaF9e",
+                "bookshop.org": "https://bookshop.org/p/books/the-mercy-of-gods-james-s-a-corey/20886313?ean=9780316525572"
+            }
+        },{
+            "title": "The Hollow Places",
+            "subtitle": "",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author": "T. Kingfisher",
+            "rating": 3,
+            "start_date": "2024-12-18",
+            "end_date": "2024-12-21",
+            "pages": 352,
+            "cover": "https://cdn.jasonlawton.com/books/hollow-places.jpg",
+            "notes": "",
+            "tags": [
+                "fiction","horror","dark","mysterious","tense","medium-paced"
+            ],
+            "links": {
+                "amazon.com": "https://a.co/d/2JOY3Qh",
+                "bookshop.org": "https://bookshop.org/p/books/the-hollow-places-t-kingfisher/14391944?ean=9781534451124"
+            }
+        },{
+            "title": "Emily Wilde's Map of the Otherlands",
+            "subtitle": "",
+            "series_name": "Emily Wilde",
+            "series_order": 2,
+            "series_total": 3,
+            "author": "Heather Fawcett",
+            "rating": 4,
+            "start_date": "2024-12-13",
+            "end_date": "2024-12-17",
+            "pages": 352,
+            "cover": "https://cdn.jasonlawton.com/books/map-of-the-otherlands.jpg",
+            "notes": "",
+            "tags": [
+                "fiction","fantasy","historical","adventurous","funny","lighthearted","medium-paced"
+            ],
+            "links": {
+                "amazon.com": "https://a.co/d/ha9OLwp",
+                "bookshop.org": "https://bookshop.org/p/books/emily-wilde-s-map-of-the-otherlands-book-two-of-the-emily-wilde-series-heather-fawcett/20011339?ean=9780593500217"
+            }
+        },{
+            "title": "Moon Over Soho",
+            "subtitle": "",
+            "series_name": "Rivers of London",
+            "series_order": 2,
+            "series_total": 9,
+            "author": "Ben Aaronovitch",
+            "rating": 4,
+            "start_date": "2024-12-08",
+            "end_date": "2024-12-12",
+            "pages": 344,
+            "cover": "https://cdn.jasonlawton.com/books/moon-over-soho.jpg",
+            "notes": "",
+            "tags": [
+                "fiction","crime","fantasy","mystery","adventurous","funny","mysterious","medium-paced"
+            ],
+            "links": {
+                "amazon.com": "https://a.co/d/fgCNuDP",
+                "bookshop.org": "https://bookshop.org/p/books/moon-over-soho-ben-aaronovitch/16604715?ean=9781625676160"
+            }
+        },{
+            "title": "Summers End",
+            "subtitle": "",
+            "series_name": "Shady Hollow",
+            "series_order": 5,
+            "series_total": 5,
+            "author": "Juneau Black",
+            "rating": 4,
+            "start_date": "2024-12-04",
+            "end_date": "2024-12-08",
+            "pages": 303,
+            "cover": "https://cdn.jasonlawton.com/books/summers-end.jpg",
+            "notes": "",
+            "tags": [
+                "fiction","fantasy","mystery","lighthearted","relaxing","medium-paced"
+            ],
+            "links": {
+                "amazon.com": "https://a.co/d/chrOsxI",
+                "bookshop.org": "https://bookshop.org/p/books/summers-end-juneau-black/20695807?ean=9780593470534"
+            }
+        },{
+            "title": "James",
+            "subtitle": "",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author": "Percival Everett",
+            "rating": 5,
+            "start_date": "2024-12-02",
+            "end_date": "2024-12-04",
+            "pages": 303,
+            "cover": "https://cdn.jasonlawton.com/books/james.jpg",
+            "notes": "",
+            "tags": [
+"fiction","historical","literary","adventurous","emotional","tense","fast-paced"
+            ],
+            "links": {
+                "amazon.com": "https://a.co/d/ejKiASq",
+                "bookshop.org": "https://bookshop.org/p/books/james-percival-everett/20246670?ean=9780385550369"
+            }
+        },{
+            "title": "Stardust Grail",
+            "subtitle": "",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author": "Yume Kitasei",
+            "rating": 4,
+            "start_date": "2024-11-28",
+            "end_date": "2024-12-01",
+            "pages": 320,
+            "cover": "https://cdn.jasonlawton.com/books/stardust-grail.jpg",
+            "notes": "",
+            "tags": [
+                "fiction","science-fiction","adventurous","mysterious","medium-paced"
+            ],
+            "links": {
+                "amazon.com": "https://a.co/d/1tQ2x58",
+                "bookshop.org": "https://bookshop.org/p/books/the-stardust-grail-yume-kitasei/20344767?ean=9781250875372"
+            }
+        },{
             "title": "Buried Deep",
             "subtitle": "",
             "series_name": "",
             "series_order": 0,
             "series_total": 0,
             "author": "Naomi Novak",
-            "rating": 0,
+            "rating": 4,
             "start_date": "2024-11-03",
-            "end_date": "2024-11-03",
-            "pages": 0,
+            "end_date": "2024-11-28",
+            "pages": 488,
             "cover": "https://cdn.jasonlawton.com/books/buried-deep.jpg",
             "notes": "",
             "tags": [
-                "currently-reading",
                 "fiction",
                 "fantasy",
                 "short-stories",
@@ -51,6 +814,31 @@
             "links": {
                 "amazon.com": "https://a.co/d/dY6995a",
                 "bookshop.org": "https://bookshop.org/p/books/buried-deep-and-other-stories-naomi-novik/20984713?ean=9780593600351"
+            }
+        },
+        {
+            "title": "Infinity Gate",
+            "subtitle": "",
+            "series_name": "The Pandominion",
+            "series_order": 1,
+            "series_total": 2,
+            "author": "M. R. Carey",
+            "rating": 4,
+            "start_date": "2024-11-03",
+            "end_date": "2024-11-24",
+            "pages": 545,
+            "cover": "https://cdn.jasonlawton.com/books/infinity-gate.jpg",
+            "notes": "I would have given it 5 stars, but the ending was such a dumb clifhanger I couldn't.",
+            "tags": [
+                "fiction",
+                "science-fiction",
+                "adventurous",
+                "tense",
+                "medium-paced"
+            ],
+            "links": {
+                "amazon.com": "https://a.co/d/iEk0s3n",
+                "bookshop.org": "https://bookshop.org/p/books/infinity-gate-m-r-carey/19209152?ean=9780316504386"
             }
         },
         {
@@ -169,7 +957,7 @@
             "cover": "https://cdn.jasonlawton.com/books/adventures-in-space.jpg",
             "notes": "",
             "tags": [
-                "short-story",
+                "short-stories",
                 "science-fiction"
             ],
             "links": {
@@ -192,7 +980,7 @@
             "tags": [
                 "hugo-nominated",
                 "hugo-winner",
-                "short-story",
+                "short-stories",
                 "science-fiction"
             ],
             "links": {
@@ -2714,7 +3502,7 @@
                 "fantasy",
                 "historical",
                 "mystery",
-                "short-story",
+                "short-stories",
                 "adventurous",
                 "mysterious",
                 "fast-paced"
@@ -3151,7 +3939,7 @@
             "cover": "https://cdn.jasonlawton.com/books/paper-menagerie.jpg",
             "notes": "",
             "tags": [
-                "short stories",
+                "short-stories",
                 "fantasy",
                 "science-fiction",
                 "emotional",
