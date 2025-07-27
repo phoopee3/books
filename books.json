@@ -1,6 +1,27 @@
 {
     "books": [
         {
+            "title": "Peter Pan",
+            "subtitle": "",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author": "J. M. Barrie",
+            "pages": 171,
+            "rating": 0,
+            "start_date": "2025-07-26",
+            "end_date": "2025-07-26",
+            "cover": "https://cdn.jasonlawton.com/books/peter-pan.jpg",
+            "notes": "",
+            "tags": [
+                "currently-reading",
+                "fiction","childrens-classics","fantasy","adventurous","lighthearted","medium-paced"
+            ],
+            "links": {
+                "amazon": "https://a.co/d/4AUTNov",
+                "bookshop.org": "https://bookshop.org/p/books/peter-pan/18917302?ean=9780141322575&next=t"
+            }
+        },{
             "title": "Infinite Archive",
             "subtitle": "",
             "series_name": "The Midsolar Murders",
@@ -8,13 +29,12 @@
             "series_total": 3,
             "author": "Mur Lafferty",
             "pages": 352,
-            "rating": 0,
+            "rating": 4,
             "start_date": "2025-07-20",
-            "end_date": "2025-07-20",
+            "end_date": "2025-07-26",
             "cover": "https://cdn.jasonlawton.com/books/infinite-archive.jpg",
             "notes": "",
             "tags": [
-                "currently-reading",
                 "fiction","mystery","science- fiction","adventurous","funny","mysterious","fast-paced"
             ],
             "links": {
