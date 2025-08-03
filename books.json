@@ -1,6 +1,28 @@
 {
     "books": [
         {
+            "title": "Carl's Doomsday Scenario",
+            "subtitle": "",
+            "series_name": "Dungeon Crawler Carl",
+            "series_order": 2,
+            "series_total": 8,
+            "author": "Matt Dinniman",
+            "pages": 388,
+            "rating": 0,
+            "start_date": "2025-08-02",
+            "end_date": "2025-08-02",
+            "cover": "https://cdn.jasonlawton.com/books/carls-doomsday-scenario.jpg",
+            "notes": "",
+            "tags": [
+                "currently-reading",
+                "fiction","litrpg","fantasy","science-fiction","adventurous","funny","fast-paced"
+            ],
+            "links": {
+                "amazon": "https://a.co/d/6NoBl58",
+                "bookshop.org":"https://bookshop.org/p/books/carl-s-doomsday-scenario-matt-dinniman/21413200?ean=9798217287178&next=t"
+            }
+        },
+        {
             "title": "Peter Pan",
             "subtitle": "",
             "series_name": "",
@@ -8,13 +30,12 @@
             "series_total": 0,
             "author": "J. M. Barrie",
             "pages": 171,
-            "rating": 0,
+            "rating": 3,
             "start_date": "2025-07-26",
-            "end_date": "2025-07-26",
+            "end_date": "2025-08-01",
             "cover": "https://cdn.jasonlawton.com/books/peter-pan.jpg",
             "notes": "",
             "tags": [
-                "currently-reading",
                 "fiction","childrens-classics","fantasy","adventurous","lighthearted","medium-paced"
             ],
             "links": {
@@ -67,7 +88,7 @@
             "series_name": "Dungeon Crawler Carl",
             "series_order": 1,
             "series_total": 8,
-            "author": "",
+            "author": "Matt Dinniman",
             "pages": 450,
             "rating": 4,
             "start_date": "2025-07-13",
