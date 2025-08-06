@@ -1,6 +1,36 @@
 {
     "books": [
         {
+            "title": "A Drop of Corruption",
+            "subtitle": "An Ana and Din Mystery",
+            "description": "The eccentric detective Ana Dolabra matches wits with a seemingly omniscient adversary in this brilliant fantasy-mystery from the author of The Tainted Cup. “Wonderfully clever and compulsively readable . . . another winning blend of fantasy and classic detection.”—Publishers Weekly In the canton of Yarrowdale, at the very edge of the Empire’s reach, a Treasury officer has disappeared into thin air—vanishing from a room within a heavily guarded tower, its door and windows locked from the inside. To solve the case, the Empire calls on its most brilliant and mercurial detective, the great Ana Dolabra. At her side, as always, is her bemused assistant Dinios Kol. Ana soon discovers that they are investigating not a disappearance but a murder—and one of surpassing cunning, carried out by an opponent who can pass through warded doors like a ghost. Worse still, the killer may be targeting the high-security compound known as the Shroud, where the Empire harvests fallen titans for the volatile magic found in their blood. Should it fall, the Empire itself will grind to a halt, robbed of the magic that allows its wheels of power to turn. Din has seen his superior solve impossible cases before. But as the death toll grows and their quarry predicts each of Ana’s moves with uncanny foresight, he fears that she has at last met an enemy she can’t defeat.",
+            "series_name": "Shadow of the Leviathan",
+            "series_order": 2,
+            "series_total": 2,
+            "author": "Robert Jackson Bennett",
+            "pages": 481,
+            "rating": 0,
+            "start_date": "2025-08-03",
+            "end_date": "2025-08-06",
+            "cover": "https://cdn.jasonlawton.com/books/drop-of-corruption.jpg",
+            "notes": "",
+            "tags": [
+                "currently-reading",
+                "fiction",
+                "fantasy",
+                "lgbtqia+",
+                "mystery",
+                "adventurous",
+                "dark",
+                "mysterious",
+                "medium-paced"
+            ],
+            "links": {
+                "amazon": "https://www.amazon.com/Drop-Corruption-Mystery-Shadow-Leviathan-ebook/dp/B0D4HRSDSJ/ref=sr_1_1?dib=eyJ2IjoiMSJ9.n9Eqvw-O2B2IQDhv1n-1l2qRfKap8I5OgNVADNbp-uBLbsXOPlPzv8I_snN-qGfKo33-2mrSOoSYzHcJP06chJEqKOVgbst7_YHDb5XmqUk.AWJ9sgGLVJ7KLAjrBdWzsavXzm7W5NmFe9DQ3zhk3KU&dib_tag=se&keywords=A+Drop+of+Corruption+Robert+Jackson+Bennett&qid=1754449469&s=books&sr=1-1",
+                "bookshop.org": "https://bookshop.org/p/books/a-drop-of-corruption-an-ana-and-din-mystery-robert-jackson-bennett/21494573?ean=9780593723821&next=t"
+            }
+        },
+        {
             "title": "Carl's Doomsday Scenario",
             "subtitle": "",
             "series_name": "Dungeon Crawler Carl",
@@ -8,13 +38,12 @@
             "series_total": 8,
             "author": "Matt Dinniman",
             "pages": 388,
-            "rating": 0,
+            "rating": 4,
             "start_date": "2025-08-02",
-            "end_date": "2025-08-02",
+            "end_date": "2025-08-03",
             "cover": "https://cdn.jasonlawton.com/books/carls-doomsday-scenario.jpg",
             "notes": "",
             "tags": [
-                "currently-reading",
                 "fiction","litrpg","fantasy","science-fiction","adventurous","funny","fast-paced"
             ],
             "links": {
