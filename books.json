@@ -1,6 +1,34 @@
 {
     "books": [
         {
+            "title": "The Moons of Barsk",
+            "subtitle": "",
+            "description": "A clairvoyant teenager embarks on a dangerous quest for answers in this weirdly wonderful sequel to Barsk: The Elephants’ Graveyard. Pizlo, the lonely young outcast and physically-challenged Fant, is now a teenager. He still believes he hears voices from the planet’s moons, imparting secret knowledge to him alone. And so embarks on a dangerous voyage to learn the truth behind the messages. His quest will catapult him offworld for second time in his short life, and reveal things the galaxy isn’t yet ready to know. Elsewhere, Barsk’s Senator Jorl, who can speak with the dead, navigates galactic politics as Barsk’s unwelcome representative, and digs even deeper into the past than ever before to discover new truths of his own. “The Moons of Barsk accomplishes what science fiction does at its best. It uses invented technology to push ideas beyond the limitations of the everyday.” —New York Journal of Books “I enjoyed The Moons of Barsk even more than the first book and look forward to what’s coming next.” —BookLoons Reviews",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author": "Lawrence M. Schoen",
+            "pages": 384,
+            "rating": 0,
+            "start_date": "2025-08-09",
+            "end_date": "2025-08-09",
+            "cover": "https://cdn.jasonlawton.com/books/moons-of-barsk.jpg",
+            "notes": "",
+            "tags": [
+                "currently-reading",
+                "fiction",
+                "fantasy",
+                "science fiction",
+                "adventurous",
+                "reflective",
+                "slow-paced"
+            ],
+            "links": {
+                "amazon": "https://a.co/d/bPBFW3t",
+                "bookshop.org": "https://bookshop.org/p/books/the-moons-of-barsk-lawrence-m-schoen/DJmfscjEzWQChubZ?ean=9780765394644&next=t"
+            }
+            },
+        {
             "title": "A Drop of Corruption",
             "subtitle": "An Ana and Din Mystery",
             "description": "The eccentric detective Ana Dolabra matches wits with a seemingly omniscient adversary in this brilliant fantasy-mystery from the author of The Tainted Cup. “Wonderfully clever and compulsively readable . . . another winning blend of fantasy and classic detection.”—Publishers Weekly In the canton of Yarrowdale, at the very edge of the Empire’s reach, a Treasury officer has disappeared into thin air—vanishing from a room within a heavily guarded tower, its door and windows locked from the inside. To solve the case, the Empire calls on its most brilliant and mercurial detective, the great Ana Dolabra. At her side, as always, is her bemused assistant Dinios Kol. Ana soon discovers that they are investigating not a disappearance but a murder—and one of surpassing cunning, carried out by an opponent who can pass through warded doors like a ghost. Worse still, the killer may be targeting the high-security compound known as the Shroud, where the Empire harvests fallen titans for the volatile magic found in their blood. Should it fall, the Empire itself will grind to a halt, robbed of the magic that allows its wheels of power to turn. Din has seen his superior solve impossible cases before. But as the death toll grows and their quarry predicts each of Ana’s moves with uncanny foresight, he fears that she has at last met an enemy she can’t defeat.",
@@ -9,13 +37,12 @@
             "series_total": 2,
             "author": "Robert Jackson Bennett",
             "pages": 481,
-            "rating": 0,
+            "rating": 4,
             "start_date": "2025-08-03",
-            "end_date": "2025-08-06",
+            "end_date": "2025-08-09",
             "cover": "https://cdn.jasonlawton.com/books/drop-of-corruption.jpg",
             "notes": "",
             "tags": [
-                "currently-reading",
                 "fiction",
                 "fantasy",
                 "lgbtqia+",
