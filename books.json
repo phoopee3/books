@@ -1,6 +1,35 @@
 {
     "books": [
         {
+            "title": "Navigational Entanglements",
+            "subtitle": "",
+            "description": "Award-winning author of The Red Scholar’s Wake Aliette de Bodard comes for your heart with a compelling tale of love, duty, and found-family in an exciting new space opera that brings xianxia-style martial arts to the stars. Jockeying navigator clans guide spaceships through the Hollows: an area of space populated by the mysterious but deadly creatures known as Tanglers. When a Tangler escapes the Hollows for the first time in living memory, each clan must send a representative to help capture it—but the mission may be doomed and the hearts of two clan juniors may be in danger too. Việt Nhi is not good with people. Or politics. Which is a problem when the Rooster clan sends her on the mission against her will, forcing her to work with an ill-matched group of squabbling teammates from rival clans, including one who she can’t avoid, and maybe doesn’t want to. Hạc Cúc of the Snake clan has always been better at poisoning and stabbing than at making friends, but she’s drawn to Nhi’s perceptiveness and obliviousness to social conventions—including the ones that really should make Nhi think twice about spending time with her. But when their imperial envoy and nominal leader is poisoned, this crew of expendable apprentices will have to learn to work together—fast—before the invisible Tangler can wreak havoc on a civilian city and destroy the fragile reputation of the clans. Along the way, Nhi and Hạc Cúc will have to learn the hardest lesson of all: to see past their own misconceptions and learn to trust their growing feelings for each other. At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author": "Aliette de Bodard",
+            "pages": 123,
+            "rating": 0,
+            "start_date": "2025-08-24",
+            "end_date": "2025-08-24",
+            "cover": "https://cdn.jasonlawton.com/books/navigational-entanglements.jpg",
+            "notes": "",
+            "tags": [
+                "currently-reading",
+                "fiction",
+                "lgbtqia+",
+                "romance",
+                "science fiction",
+                "adventurous",
+                "emotional",
+                "fast-paced"
+            ],
+            "links": {
+                "amazon": "https://a.co/d/d5esBtc",
+                "bookshop.org": "https://bookshop.org/p/books/navigational-entanglements-aliette-de-bodard/20507539?ean=9781250324887&next=t"
+            }
+        },
+        {
             "title": "The Butcher of the Forest",
             "subtitle": "",
             "description": "A perfect mix of horror and fantasy. - The New York Times “The Butcher of the Forest” shows exactly why Mohamed is one of fantasy’s rising stars.\"—The Washington Post \"The Grimm brothers can’t hold a candle to Premee Mohamed and her fever dream of a fantasy novella.\"—Polygon A world-weary woman races against the clock to survive a deadly forest in this dark, otherworldly fairytale from Nebula and World Fantasy Award-winning author Premee Mohamed. At the northern edge of a land ruled by a merciless foreign tyrant lies a wild, forbidden forest ruled by powerful magic. Veris Thorn—the only one to ever enter the forest and survive—is forced to go back inside to retrieve the tyrant's missing children. Inside await traps and trickery, ancient monsters, and hauntings of the past. One day is all Veris is afforded. One misstep will cost everything. At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.",
@@ -9,13 +38,12 @@
             "series_total": 0,
             "author": "Premee Mohamed",
             "pages": 103,
-            "rating": 0,
+            "rating": 3,
             "start_date": "2025-08-24",
             "end_date": "2025-08-24",
             "cover": "https://cdn.jasonlawton.com/books/butcher-of-the-forest.jpg",
             "notes": "",
             "tags": [
-                "currently-reading",
                 "fiction",
                 "fantasy",
                 "adventurous",
