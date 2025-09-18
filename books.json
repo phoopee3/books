@@ -1,6 +1,35 @@
 {
     "books": [
         {
+            "title": "The Southern Book Club's Guide to Slaying Vampires",
+            "subtitle": "",
+            "description": "“This funny and fresh take on a classic tale manages to comment on gender roles, racial disparities, and white privilege all while creeping me all the way out. So good.”—Zakiya Dalila Harris, author of The Other Black Girl Steel Magnolias meets Dracula in this New York Times best-selling horror novel about a women's book club that must do battle with a mysterious newcomer to their small Southern town. Bonus features: • Reading group guide for book clubs • Hand-drawn map of Mt. Pleasant • Annotated true-crime reading list by Grady Hendrix • And more! Patricia Campbell’s life has never felt smaller. Her husband is a workaholic, her teenage kids have their own lives, her senile mother-in-law needs constant care, and she’s always a step behind on her endless to-do list. The only thing keeping her sane is her book club, a close-knit group of Charleston women united by their love of true crime. At these meetings they’re as likely to talk about the Manson family as they are about their own families. One evening after book club, Patricia is viciously attacked by an elderly neighbor, bringing the neighbor's handsome nephew, James Harris, into her life. James is well traveled and well read, and he makes Patricia feel things she hasn’t felt in years. But when children on the other side of town go missing, their deaths written off by local police, Patricia has reason to believe James Harris is more of a Bundy than a Brad Pitt. The real problem? James is a monster of a different kind—and Patricia has already invited him in. Little by little, James will insinuate himself into Patricia’s life and try to take everything she took for granted—including the book club—but she won’t surrender without a fight in this blood-soaked tale of neighborly kindness gone wrong.",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author": "Grady Hendrix",
+            "pages": 409,
+            "rating": 0,
+            "start_date": "2025-09-17",
+            "end_date": "2025-09-17",
+            "cover": "https://cdn.jasonlawton.com/books/southern-book-club-guide.jpg",
+            "notes": "",
+            "tags": [
+                "currently-reading",
+                "fiction",
+                "horror",
+                "thriller",
+                "dark",
+                "mysterious",
+                "tense",
+                "medium-paced"
+            ],
+            "links": {
+                "amazon": "https://a.co/d/9O7Vt0m",
+                "bookshop.org": "https://bookshop.org/p/books/the-southern-book-club-s-guide-to-slaying-vampires-mr-grady-hendrix/39193ca91e91d0f6?ean=9781683692515&next=t"
+            }
+        },
+        {
             "title": "Shroud",
             "subtitle": "",
             "description": "On a planet shrouded in darkness, a stranded crew must fight for survival. But, the darkness may have plans of its own in this wildly original story from Adrian Tchaikovsky, Hugo and Arthur C. Clarke Award–winning author of Children of Time. They looked into the darkness and the darkness looked back . . . New planets are fair game to asset strippers and interplanetary opportunists – and a commercial mission to a distant star system discovers a moon that is pitch black, but alive with radio activity. Its high-gravity, high-pressure, zero-oxygen environment is anathema to human life, but ripe for exploitation. They named it Shroud. Under no circumstances should a human end up on Shroud’s inhospitable surface. Except a catastrophic accident sees Juna Ceelander and Mai Ste Etienne doing just that. Forced to stage an emergency landing, in a small, barely adequate vehicle, they are unable to contact their ship and are running out of time. What follows is a gruelling journey across land, sea and air. During this time, Juna and Mai begin to understand Shroud’s dominant species. It also begins to understand them . . .",
@@ -11,11 +40,10 @@
             "pages": 374,
             "rating": 0,
             "start_date": "2025-09-05",
-            "end_date": "2025-09-05",
+            "end_date": "2025-09-17",
             "cover": "https://cdn.jasonlawton.com/books/shroud.jpg",
-            "notes": "",
+            "notes": "80% of the book was world building and cardboard characters, the last 20% really picked up and was really good.",
             "tags": [
-                "currently-reading",
                 "fiction",
                 "science fiction",
                 "adventurous",
