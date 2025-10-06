@@ -1,6 +1,115 @@
 {
     "books": [
         {
+            "title": "The Girl Who Could Move Sh*t with Her Mind",
+            "subtitle": "",
+            "description": "Full of imagination, wit, and random sh*t flying through the air, this insane adventure from an irreverent new voice will blow your tiny mind. For Teagan Frost, sh*t just got real. Teagan Frost is having a hard time keeping it together. Sure, she's got telekinetic powers -- a skill that the government is all too happy to make use of, sending her on secret break-in missions that no ordinary human could carry out. But all she really wants to do is kick back, have a beer, and pretend she's normal for once. But then a body turns up at the site of her last job -- murdered in a way that only someone like Teagan could have pulled off. She's got 24 hours to clear her name - and it's not just her life at stake. If she can't unravel the conspiracy in time, her hometown of Los Angeles will be in the crosshairs of an underground battle that's on the brink of exploding . . .",
+            "series_name": "The Frost Files",
+            "series_order": 1,
+            "series_total": 4,
+            "author": "Jackson Ford",
+            "pages": 421,
+            "rating": 0,
+            "start_date": "2025-10-06",
+            "end_date": "2025-10-06",
+            "cover": "https://cdn.jasonlawton.com/books/girl-who-could-move-shit-with-her-mind.jpg",
+            "notes": "",
+            "tags": [
+                "to-read",
+                "fiction",
+                "mystery",
+                "science fiction",
+                "adventurous",
+                "funny",
+                "mysterious",
+                "fast-paced"
+            ],
+            "links": {
+                "amazon": "https://a.co/d/djY09v7",
+                "bookshop.org": "https://bookshop.org/p/books/the-girl-who-could-move-sh-t-with-her-mind-jackson-ford/3fd2a19a1565a028?ean=9780316519151&next=t"
+            }
+        },{
+            "title": "The Apocalypse Seven",
+            "subtitle": "",
+            "description": "For fans of The Wanderers by Chuck Wendig comes an apocalypse story like no other. Seven strangers wake to find they are the only humans left alive. But they are not alone.",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author": "Gene Doucette",
+            "pages": 435,
+            "rating": 0,
+            "start_date": "2025-10-06",
+            "end_date": "2025-10-06",
+            "cover": "https://cdn.jasonlawton.com/books/apocalypse-seven.jpg",
+            "notes": "",
+            "tags": [
+                "to-read",
+                "fiction",
+                "science fiction",
+                "adventurous",
+                "tense",
+                "fast-paced"
+            ],
+            "links": {
+                "amazon": "https://a.co/d/0n9uw0i",
+                "bookshop.org": "https://bookshop.org/p/books/the-apocalypse-seven-gene-doucette/94f3e0e2923e9f4e?ean=9780358418948&next=t"
+            }
+        },{
+            "title": "The Summer War",
+            "subtitle": "",
+            "description": "In this poignant, heartfelt novella from the New York Times bestselling author of Spinning Silver and the Scholomance trilogy, a young witch who has inadvertently cursed her brother to live a life without love must find a way to undo her spell. Celia discovered her talent for magic on the day her beloved oldest brother, Argent, left home. Furious at him for abandoning her in a war-torn land, she lashed out, not realizing her childish, angry words would become imbued with the power of prophecy, dooming him to a life without love. While Argent wanders the world, forced to seek only fame and glory instead of the love and belonging he truly desires, Celia attempts to undo the curse she placed on him. Yet even as she grows from a girl to a woman, she cannot find the solution—until she learns the truth about the centuries-old war between her own people and the summerlings, immortal beings who hold a relentless grudge against their mortal neighbors. Now, with the aid of her unwanted middle brother, Celia may be able to both undo her eldest brother’s curse and heal the lands so long torn apart by the Summer War.",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author": "Naomi Novik",
+            "pages": 145,
+            "rating": 0,
+            "start_date": "2025-10-06",
+            "end_date": "2025-10-06",
+            "cover": "https://cdn.jasonlawton.com/books/summer-war.jpg",
+            "notes": "",
+            "tags": [
+                "to-read",
+                "fiction",
+                "fantasy",
+                "adventurous",
+                "emotional",
+                "hopeful",
+                "fast-paced"
+            ],
+            "links": {
+                "amazon": "https://a.co/d/1JfFVpl",
+                "bookshop.org": "https://bookshop.org/p/books/the-summer-war-naomi-novik/def1d54bc98efa1e?ean=9780593984703&next=t"
+            }
+        },{
+            "title": "Automatic Noodle",
+            "subtitle": "",
+            "description": "A cozy near-future novella about a crew of leftover robots opening their very own noodle shop, from acclaimed sci-fi author Annalee Newitz. You don’t have to eat food to know the way to a city’s heart is through its stomach. So when a group of deactivated robots come back online in an abandoned ghost kitchen, they decide to make their own way doing what they know: making food—the tastiest hand-pulled noodles around—for the humans of San Francisco, who are recovering from a devastating war. But when their robot-run business starts causing a stir, a targeted wave of one-star reviews threatens to boil over into a crisis. To keep their doors open, they’ll have to call on their customers, their community, and each other—and find a way to survive and thrive in a world that wasn’t built for them. At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author": "Annalee Newitz",
+            "pages": 176,
+            "rating": 0,
+            "start_date": "2025-10-06",
+            "end_date": "2025-10-06",
+            "cover": "https://cdn.jasonlawton.com/books/automatic-noodle.jpg",
+            "notes": "",
+            "tags": [
+                "currently-reading",
+                "fiction",
+                "science fiction",
+                "funny",
+                "hopeful",
+                "lighthearted",
+                "fast-paced"
+            ],
+            "links": {
+                "amazon": "https://a.co/d/fAaFWZ0",
+                "bookshop.org": "https://bookshop.org/p/books/automatic-noodle-annalee-newitz/625018d0518991aa?ean=9781250357465&next=t"
+            }
+        },
+        {
             "title": "The Southern Book Club's Guide to Slaying Vampires",
             "subtitle": "",
             "description": "“This funny and fresh take on a classic tale manages to comment on gender roles, racial disparities, and white privilege all while creeping me all the way out. So good.”—Zakiya Dalila Harris, author of The Other Black Girl Steel Magnolias meets Dracula in this New York Times best-selling horror novel about a women's book club that must do battle with a mysterious newcomer to their small Southern town. Bonus features: • Reading group guide for book clubs • Hand-drawn map of Mt. Pleasant • Annotated true-crime reading list by Grady Hendrix • And more! Patricia Campbell’s life has never felt smaller. Her husband is a workaholic, her teenage kids have their own lives, her senile mother-in-law needs constant care, and she’s always a step behind on her endless to-do list. The only thing keeping her sane is her book club, a close-knit group of Charleston women united by their love of true crime. At these meetings they’re as likely to talk about the Manson family as they are about their own families. One evening after book club, Patricia is viciously attacked by an elderly neighbor, bringing the neighbor's handsome nephew, James Harris, into her life. James is well traveled and well read, and he makes Patricia feel things she hasn’t felt in years. But when children on the other side of town go missing, their deaths written off by local police, Patricia has reason to believe James Harris is more of a Bundy than a Brad Pitt. The real problem? James is a monster of a different kind—and Patricia has already invited him in. Little by little, James will insinuate himself into Patricia’s life and try to take everything she took for granted—including the book club—but she won’t surrender without a fight in this blood-soaked tale of neighborly kindness gone wrong.",
@@ -11,11 +120,11 @@
             "pages": 409,
             "rating": 0,
             "start_date": "2025-09-29",
-            "end_date": "2025-09-29",
+            "end_date": "2025-10-06",
             "cover": "https://cdn.jasonlawton.com/books/southern-book-club-guide.jpg",
             "notes": "",
             "tags": [
-                "currently-reading",
+                "dnf",
                 "fiction",
                 "horror",
                 "thriller",
