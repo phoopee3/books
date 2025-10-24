@@ -1,6 +1,29 @@
 {
     "books": [
         {
+            "title": "A Study in Scarlet Women",
+            "subtitle": "",
+            "description": "USA Today bestselling author Sherry Thomas turns the story of the renowned Sherlock Holmes upside down in the first novel in this Victorian mystery series.... With her inquisitive mind, Charlotte Holmes has never felt comfortable with the demureness expected of the fairer sex in upper class society. But even she never thought that she would become a social pariah, an outcast fending for herself on the mean streets of London. When the city is struck by a trio of unexpected deaths and suspicion falls on her sister and her father, Charlotte is desperate to find the true culprits and clear the family name. She’ll have help from friends new and old—a kind-hearted widow, a police inspector, and a man who has long loved her. But in the end, it will be up to Charlotte, under the assumed name Sherlock Holmes, to challenge society’s expectations and match wits against an unseen mastermind. An NPR Best Book of 2016",
+            "series_name": "Lady Sherlock",
+            "series_order": 1,
+            "series_total": 8,
+            "author": "Sherry Thomas",
+            "pages": 338,
+            "rating": 0,
+            "start_date": "2025-10-23",
+            "end_date": "2025-10-23",
+            "cover": "https://cdn.jasonlawton.com/books/study-in-scarlet-women.jpg",
+            "notes": "",
+            "tags": [
+                "currently-reading",
+                "fiction","historical","mystery","adventurous","mysterious","medium-paced"
+            ],
+            "links": {
+                "amazon": "https://a.co/d/4lnMuxL",
+                "bookshop.org": "https://bookshop.org/p/books/a-study-in-scarlet-women-sherry-thomas/019a77e6a77654cf?ean=9780425281406&next=t"
+            }
+        }
+        {
             "title": "The Girl Who Could Move Sh*t with Her Mind",
             "subtitle": "",
             "description": "Full of imagination, wit, and random sh*t flying through the air, this insane adventure from an irreverent new voice will blow your tiny mind. For Teagan Frost, sh*t just got real. Teagan Frost is having a hard time keeping it together. Sure, she's got telekinetic powers -- a skill that the government is all too happy to make use of, sending her on secret break-in missions that no ordinary human could carry out. But all she really wants to do is kick back, have a beer, and pretend she's normal for once. But then a body turns up at the site of her last job -- murdered in a way that only someone like Teagan could have pulled off. She's got 24 hours to clear her name - and it's not just her life at stake. If she can't unravel the conspiracy in time, her hometown of Los Angeles will be in the crosshairs of an underground battle that's on the brink of exploding . . .",
@@ -62,13 +85,12 @@
             "series_total": 0,
             "author": "Naomi Novik",
             "pages": 145,
-            "rating": 0,
+            "rating": 3,
             "start_date": "2025-10-12",
-            "end_date": "2025-10-12",
+            "end_date": "2025-10-23",
             "cover": "https://cdn.jasonlawton.com/books/summer-war.jpg",
-            "notes": "",
+            "notes": "It took far too long to read a book this short, which for me, means that I didn't really enjoy it that much.",
             "tags": [
-                "currently-reading",
                 "fiction",
                 "fantasy",
                 "adventurous",
