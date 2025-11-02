@@ -1,6 +1,33 @@
 {
     "books": [
         {
+            "title": "The Girl With All the Gifts",
+            "subtitle": "",
+            "description": "In the ruins of civilization, a young girl's kindness and capacity for love will either save humanity -- or wipe it out in this USA Today bestselling thriller Joss Whedon calls \"heartfelt, remorseless, and painfully human.\" Melanie is a very special girl. Dr Caldwell calls her \"our little genius.\" Every morning, Melanie waits in her cell to be collected for class. When they come for her, Sergeant keeps his gun pointed at her while two of his people strap her into the wheelchair. She thinks they don't like her. She jokes that she won't bite, but they don't laugh.",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author": "M. R. Carey",
+            "pages": 401,
+            "rating": 0,
+            "start_date": "2025-11-02",
+            "end_date": "2025-11-02",
+            "cover": "https://cdn.jasonlawton.com/books/girl-with-all-the-gifts.jpg",
+            "notes": "",
+            "tags": [
+                "currently-reading",
+                "fiction",
+                "dystopian",
+                "adventurous",
+                "dark",
+                "tense",
+                "medium-paced"
+            ],
+            "links": {
+                "amazon": "https://www.amazon.com/Girl-All-Gifts-M-Carey/dp/0316334758/ref=sr_1_1?dib=eyJ2IjoiMSJ9.9CM0OHAljl9j_Zkv_UUm09hWUxjv7iHWLgNbIv4887BmI--ROXB3oDnUZV2ZHKGF223ULRXW-1f8zNWTU7hFHD9f6fYxaxiMn7pujguXC2BwL0iAfYUT7lApciF5UWe2wRBIbn6qIuWVvhFzjNUPdzUOn8qpU56_NjfTaSVSo05prNjMyLxmafAhrC5wNzg9EZ406CPV_A1N8CkXR40CzMEAIYtb1o89Z9aZirvgNxs.qdnQyHe_ER9OU9TZIvNRBOVFRqhzaaead8O3AZ9UMlk&dib_tag=se&keywords=The+Girl+With+All+the+Gifts+M.+R.+Carey&qid=1762108045&s=books&sr=1-1",
+                "bookshop.org": "https://bookshop.org/p/books/the-girl-with-all-the-gifts-m-r-carey/bf94183568815bd5?ean=9780316334754&next=t"
+            }
+        },{
             "title": "A Study in Scarlet Women",
             "subtitle": "",
             "description": "USA Today bestselling author Sherry Thomas turns the story of the renowned Sherlock Holmes upside down in the first novel in this Victorian mystery series.... With her inquisitive mind, Charlotte Holmes has never felt comfortable with the demureness expected of the fairer sex in upper class society. But even she never thought that she would become a social pariah, an outcast fending for herself on the mean streets of London. When the city is struck by a trio of unexpected deaths and suspicion falls on her sister and her father, Charlotte is desperate to find the true culprits and clear the family name. She’ll have help from friends new and old—a kind-hearted widow, a police inspector, and a man who has long loved her. But in the end, it will be up to Charlotte, under the assumed name Sherlock Holmes, to challenge society’s expectations and match wits against an unseen mastermind. An NPR Best Book of 2016",
@@ -9,13 +36,12 @@
             "series_total": 8,
             "author": "Sherry Thomas",
             "pages": 338,
-            "rating": 0,
+            "rating": 2,
             "start_date": "2025-10-23",
-            "end_date": "2025-10-23",
+            "end_date": "2025-11-01",
             "cover": "https://cdn.jasonlawton.com/books/study-in-scarlet-women.jpg",
-            "notes": "",
+            "notes": "A little confusing to me with all the different characters and who they were.",
             "tags": [
-                "currently-reading",
                 "fiction","historical","mystery","adventurous","mysterious","medium-paced"
             ],
             "links": {
