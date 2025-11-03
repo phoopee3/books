@@ -1,6 +1,120 @@
 {
     "books": [
         {
+            "title": "Fortune Favors the Dead",
+            "subtitle": "A Pentecost and Parker Mystery",
+            "description": "A wildly charming and fast-paced mystery written with all the panache of the hardboiled classics, Fortune Favors the Dead introduces Pentecost and Parker, an audacious new detective duo for the ages. “Razor-sharp style, tons of flair, a snappy sense of humor, and all the most satisfying elements of a really good noir novel, plus plenty of original twists of its own.”—Tana French, bestselling author of The Searcher It's 1942 and Willowjean \"Will\" Parker is a scrappy circus runaway whose knife-throwing skills have just saved the life of New York's best, and most unorthodox, private investigator, Lillian Pentecost. When the dapper detective summons Will a few days later, she doesn't expect to be offered a life-changing proposition: Lillian's multiple sclerosis means she can't keep up with her old case load alone, so she wants to hire Will to be her right-hand woman. In return, Will is to receive a salary, room and board, and training in Lillian's very particular art of investigation. Three years later, Will and Lillian are on the Collins case: Abigail Collins was found bludgeoned to death with a crystal ball following a big, boozy Halloween party at her home—her body slumped in the same chair where her steel magnate husband shot himself the year before. With rumors flying that Abigail was bumped off by the vengeful spirit of her husband (who else could have gotten inside the locked room?), the family has tasked the detectives with finding answers where the police have failed. But that's easier said than done in a case that involves messages from the dead, a seductive spiritualist, and Becca Collins—the beautiful daughter of the deceased, who Will quickly starts falling for. When Will and Becca's relationship dances beyond the professional, Will finds herself in dangerous territory, and discovers she may have become the murderer's next target.",
+            "series_name": "Pentecost and Parker",
+            "series_order": 1,
+            "series_total": 5,
+            "author": "Stephen Spotswood",
+            "pages": 302,
+            "rating": 0,
+            "start_date": "2099-01-01",
+            "end_date": "2099-01-01",
+            "cover": "https://cdn.jasonlawton.com/books/fortune-favors-the-dead.jpg",
+            "notes": "",
+            "tags": [
+                "to-read",
+                "fiction",
+                "historical",
+                "lgbtqia+",
+                "mystery",
+                "adventurous",
+                "mysterious",
+                "fast-paced"
+            ],
+            "links": {
+                "amazon": "https://www.amazon.com/Fortune-Favors-Dead-Stephen-Spotswood-ebook/dp/B084FL7ZD5",
+                "bookshop.org": "https://bookshop.org/p/books/fortune-favors-the-dead-a-pentecost-and-parker-mystery-stephen-spotswood/fdceee8b045d92e9?ean=9780593310755&next=t"
+            }
+        },
+        {
+            "title": "Some Danger Involved",
+            "subtitle": "",
+            "description": "An atmospheric debut novel set on the gritty streets of Victorian London, Some Danger Involved introduces detective Cyrus Barker and his assistant, Thomas Llewelyn, as they work to solve the gruesome murder of a young scholar in London's Jewish ghetto. When the eccentric and enigmatic Cyrus Barker takes on the recent murder case of a young scholar in London's Jewish ghetto, he realizes that he must hire an assistant, and out of all who answer an ad for a position with \"some danger involved,\" he chooses downtrodden Llewelyn, a gutsy young man with a murky past. As they inch ever closer to the shocking truth behind the murder, Llewelyn is drawn deeper and deeper into Barker's peculiar world of vigilante detective work, as well as the heart of London's teeming underworld. Brimming with wit and unforgettable characters and steeped in authentic period detail, Some Danger Involved is a captivating page-turner that introduces an equally captivating duo.",
+            "series_name": "Barker and Llewelyn",
+            "series_order": 1,
+            "series_total": 17,
+            "author": "Will Thomas",
+            "pages": 303,
+            "rating": 0,
+            "start_date": "2099-01-01",
+            "end_date": "2099-01-01",
+            "cover": "https://cdn.jasonlawton.com/books/some-danger-involved.jpg",
+            "notes": "",
+            "tags": [
+                "to-read",
+                "fiction",
+                "historical",
+                "mystery",
+                "adventurous",
+                "mysterious",
+                "fast-paced"
+            ],
+            "links": {
+                "amazon": "https://www.amazon.com/Some-Danger-Involved-Barker-Llewelyn-ebook/dp/B000FC1Q42",
+                "bookshop.org": "https://bookshop.org/p/books/some-danger-involved-a-novel-will-thomas/94cf2b61f2bded3d?ean=9780743256193&next=t"
+            }
+        },
+        {
+            "title": "In The Blink of An Eye",
+            "subtitle": "",
+            "description": "SUNDAY TIMES BESTSELLER • Two detectives: one human, one AI. And a case that will test them both. “Wildly original, heartfelt, funny, and properly thrilling, this is the kind of fresh and fearless debut I just adore.”—Chris Whitaker, author of All the Colors of the Dark, a Read with Jenna Book Club Pick Winner of the Crime Writers’ Association’s John Creasy New Blood Dagger Award and the Theakston Old Peculier Crime Novel of the Year Kat Frank knows all about loss. A widowed single mother, Kat is a cop who trusts her intuition, honed through years of on-the-beat police work. Picked to lead a pilot program that has her paired with Lock, an AIDE (Artificially Intelligent Detective Entity)—a hologram that is activated by a device on Kat’s wrist—Kat’s gut reactions about people and motives come up against Lock’s statistical calculations and data analysis that can be devised in seconds. But as the two missing person’s cold cases they are reviewing suddenly become active, Lock is the only one who can help when the case begins to target Kat personally. AI versus human experience. Logic versus instinct. With lives on the line, can the pair work together to solve the mystery in time? A dazzling debut from an exciting new voice, In the Blink of an Eye asks us what we think it means to be human. NOMINATED: Capital Crime’s Overall Crime Book of the Year; Crimefest’s Specsavers Debut Crime Novel Award",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author": "Jo Callaghan",
+            "pages": 433,
+            "rating": 0,
+            "start_date": "2099-01-01",
+            "end_date": "2099-01-01",
+            "cover": "https://cdn.jasonlawton.com/books/in-the-blink-of-an-eye.jpg",
+            "notes": "",
+            "tags": [
+                "to-read",
+                "fiction",
+                "mystery",
+                "thriller",
+                "dark",
+                "mysterious",
+                "tense",
+                "fast-paced"
+            ],
+            "links": {
+                "amazon": "https://www.amazon.com/Blink-Eye-Novel-Jo-Callaghan-ebook/dp/B0CW9GLNBH",
+                "bookshop.org": "https://bookshop.org/p/books/in-the-blink-of-an-eye-a-novel-jo-callaghan/5bd3f27ad6e84eda?ean=9780593736838&next=t"
+            }
+        },
+        {
+            "title": "Mockingbird Court",
+            "subtitle": "A Shady Hollow Mystery",
+            "description": "In the latest installment in the beloved Shady Hollow series, everyone's favorite vulpine investigator Vera Vixen must contend with a cold-hearted killer—and the ghost of her own past. It's a crisp, cool autumn in Shady Hollow, and preparations are underway for the annual Harvest Festival. Creatures have flocked from far and wide to partake in the seasonal festivities, from pumpkin carving to pie tasting to soup throwing. With all these new faces around town, it’s the perfect time for someone to slip in unnoticed. Unless that someone is Bradley Marvel, the most famous author—and most noticeable personality—in any woodland warren. It seems the wolf is on the lam. Back in the city, a body was found in his penthouse apartment at Mockingbird Court, and Marvel skipped town before the questioning could commence. Marvel claims to be innocent, and it's up to Vera and her friends to piece together what might have happened that fateful night so many miles away in the beating heart of the big city. But things get complicated when Vera learns that she also knows the victim ... and might even be implicated herself.",
+            "series_name": "",
+            "series_order": 6,
+            "series_total": 6,
+            "author": "Juneau Black",
+            "pages": 273,
+            "rating": 0,
+            "start_date": "2099-01-01",
+            "end_date": "2099-01-01",
+            "cover": "https://cdn.jasonlawton.com/books/mockingbird-court.jpg",
+            "notes": "",
+            "tags": [
+                "to-read",
+                "fiction",
+                "crime",
+                "mystery",
+                "lighthearted",
+                "mysterious",
+                "fast-paced"
+            ],
+            "links": {
+                "amazon": "https://www.amazon.com/Mockingbird-Court-Shady-Hollow-Mystery-ebook/dp/B0DSHX55RW",
+                "bookshop.org": "https://bookshop.org/p/books/mockingbird-court-a-shady-hollow-mystery-juneau-black/b0f0b60a9948332c?ean=9780593470558&next=t"
+            }
+        },
+        {
             "title": "The Girl With All the Gifts",
             "subtitle": "",
             "description": "In the ruins of civilization, a young girl's kindness and capacity for love will either save humanity -- or wipe it out in this USA Today bestselling thriller Joss Whedon calls \"heartfelt, remorseless, and painfully human.\" Melanie is a very special girl. Dr Caldwell calls her \"our little genius.\" Every morning, Melanie waits in her cell to be collected for class. When they come for her, Sergeant keeps his gun pointed at her while two of his people strap her into the wheelchair. She thinks they don't like her. She jokes that she won't bite, but they don't laugh.",
@@ -86,8 +200,8 @@
             "author": "Gene Doucette",
             "pages": 435,
             "rating": 0,
-            "start_date": "2025-10-06",
-            "end_date": "2025-10-06",
+            "start_date": "2099-01-01",
+            "end_date": "2099-01-01",
             "cover": "https://cdn.jasonlawton.com/books/apocalypse-seven.jpg",
             "notes": "",
             "tags": [
