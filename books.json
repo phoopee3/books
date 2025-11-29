@@ -1,6 +1,34 @@
 {
     "books": [
         {
+            "title": "Fortune Favors the Dead",
+            "subtitle": "A Pentecost and Parker Mystery",
+            "description": "A wildly charming and fast-paced mystery written with all the panache of the hardboiled classics, Fortune Favors the Dead introduces Pentecost and Parker, an audacious new detective duo for the ages. “Razor-sharp style, tons of flair, a snappy sense of humor, and all the most satisfying elements of a really good noir novel, plus plenty of original twists of its own.”—Tana French, bestselling author of The Searcher It's 1942 and Willowjean \"Will\" Parker is a scrappy circus runaway whose knife-throwing skills have just saved the life of New York's best, and most unorthodox, private investigator, Lillian Pentecost. When the dapper detective summons Will a few days later, she doesn't expect to be offered a life-changing proposition: Lillian's multiple sclerosis means she can't keep up with her old case load alone, so she wants to hire Will to be her right-hand woman. In return, Will is to receive a salary, room and board, and training in Lillian's very particular art of investigation. Three years later, Will and Lillian are on the Collins case: Abigail Collins was found bludgeoned to death with a crystal ball following a big, boozy Halloween party at her home—her body slumped in the same chair where her steel magnate husband shot himself the year before. With rumors flying that Abigail was bumped off by the vengeful spirit of her husband (who else could have gotten inside the locked room?), the family has tasked the detectives with finding answers where the police have failed. But that's easier said than done in a case that involves messages from the dead, a seductive spiritualist, and Becca Collins—the beautiful daughter of the deceased, who Will quickly starts falling for. When Will and Becca's relationship dances beyond the professional, Will finds herself in dangerous territory, and discovers she may have become the murderer's next target.",
+            "series_name": "Pentecost and Parker",
+            "series_order": 1,
+            "series_total": 5,
+            "author": "Stephen Spotswood",
+            "pages": 302,
+            "rating": 0,
+            "start_date": "2025-11-28",
+            "end_date": "2025-11-28",
+            "cover": "https://cdn.jasonlawton.com/books/fortune-favors-the-dead.jpg",
+            "notes": "",
+            "tags": [
+                "currently-reading",
+                "fiction",
+                "historical",
+                "lgbtqia+",
+                "mystery",
+                "adventurous",
+                "mysterious",
+                "fast-paced"
+            ],
+            "links": {
+                "amazon": "https://www.amazon.com/Fortune-Favors-Dead-Stephen-Spotswood-ebook/dp/B084FL7ZD5",
+                "bookshop.org": "https://bookshop.org/p/books/fortune-favors-the-dead-a-pentecost-and-parker-mystery-stephen-spotswood/fdceee8b045d92e9?ean=9780593310755&next=t"
+            }
+        },{
             "title": "Brigands & Breadknives",
             "subtitle": "",
             "description": "Return to the fantasy world of the #1 New York Times bestselling Legends & Lattes series with a new adventure featuring fan-favorite, foul-mouthed bookseller Fern Fern has weathered the stillness and storms of a bookseller’s life for decades, but now, in the face of crippling ennui, transplants herself to the city of Thune to hang out her shingle beside a long-absent friend’s coffee shop. What could be a better pairing? Surely a charming renovation montage will cure what ails her! If only things were so simple... It turns out that fixing your life isn’t a one-time prospect, nor as easy as a change of scenery and a lick of paint. A drunken and desperate night sees the rattkin waking far from home in the company of a legendary warrior, an imprisoned chaos-goblin with a fondness for silverware, and an absolutely thumping hangover. As together they fend off a rogue’s gallery of ne’er-do-wells trying to claim the bounty the goblin represents, Fern may finally reconnect with the person she actually is when nothing seems inevitable. At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.",
@@ -197,35 +225,6 @@
             "links": {
                 "amazon": "https://www.amazon.com/Mona-Lisa-Overdrive-Sprawl-Trilogy-ebook/dp/B009QJMUAY",
                 "bookshop.org": "https://bookshop.org/p/books/mona-lisa-overdrive-dr-william-gibson-dr/50b711c4c61f19fa?ean=9780553281743&next=t"
-            }
-        },
-        {
-            "title": "Fortune Favors the Dead",
-            "subtitle": "A Pentecost and Parker Mystery",
-            "description": "A wildly charming and fast-paced mystery written with all the panache of the hardboiled classics, Fortune Favors the Dead introduces Pentecost and Parker, an audacious new detective duo for the ages. “Razor-sharp style, tons of flair, a snappy sense of humor, and all the most satisfying elements of a really good noir novel, plus plenty of original twists of its own.”—Tana French, bestselling author of The Searcher It's 1942 and Willowjean \"Will\" Parker is a scrappy circus runaway whose knife-throwing skills have just saved the life of New York's best, and most unorthodox, private investigator, Lillian Pentecost. When the dapper detective summons Will a few days later, she doesn't expect to be offered a life-changing proposition: Lillian's multiple sclerosis means she can't keep up with her old case load alone, so she wants to hire Will to be her right-hand woman. In return, Will is to receive a salary, room and board, and training in Lillian's very particular art of investigation. Three years later, Will and Lillian are on the Collins case: Abigail Collins was found bludgeoned to death with a crystal ball following a big, boozy Halloween party at her home—her body slumped in the same chair where her steel magnate husband shot himself the year before. With rumors flying that Abigail was bumped off by the vengeful spirit of her husband (who else could have gotten inside the locked room?), the family has tasked the detectives with finding answers where the police have failed. But that's easier said than done in a case that involves messages from the dead, a seductive spiritualist, and Becca Collins—the beautiful daughter of the deceased, who Will quickly starts falling for. When Will and Becca's relationship dances beyond the professional, Will finds herself in dangerous territory, and discovers she may have become the murderer's next target.",
-            "series_name": "Pentecost and Parker",
-            "series_order": 1,
-            "series_total": 5,
-            "author": "Stephen Spotswood",
-            "pages": 302,
-            "rating": 0,
-            "start_date": "2025-11-28",
-            "end_date": "2025-11-28",
-            "cover": "https://cdn.jasonlawton.com/books/fortune-favors-the-dead.jpg",
-            "notes": "",
-            "tags": [
-                "currently-reading",
-                "fiction",
-                "historical",
-                "lgbtqia+",
-                "mystery",
-                "adventurous",
-                "mysterious",
-                "fast-paced"
-            ],
-            "links": {
-                "amazon": "https://www.amazon.com/Fortune-Favors-Dead-Stephen-Spotswood-ebook/dp/B084FL7ZD5",
-                "bookshop.org": "https://bookshop.org/p/books/fortune-favors-the-dead-a-pentecost-and-parker-mystery-stephen-spotswood/fdceee8b045d92e9?ean=9780593310755&next=t"
             }
         },
         {
