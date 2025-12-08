@@ -1,6 +1,28 @@
 {
     "books": [
         {
+            "title": "The Compound",
+            "subtitle": "",
+            "description": "",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author": "Aisling Rawle",
+            "pages": 292,
+            "rating": 2,
+            "start_date": "2025-12-07",
+            "end_date": "2025-12-08",
+            "cover": "https://cdn.jasonlawton.com/books/the-compound.jpg",
+            "notes": "Bad. The only redeeming fact about this book was that it took two days to read. The characters have no progression, boring, just not good.",
+            "tags": [
+                 "fiction","contemporary","literary","thriller","dark","mysterious","tense","medium-paced"
+            ],
+            "links": {
+                "amazon": "https://www.amazon.com/Compound-Novel-Aisling-Rawle-ebook/dp/B0DFZW73BS",
+                "bookshop.org": "https://bookshop.org/p/books/the-compound-a-novel-aisling-rawle/3b902dc121a9646d?ean=9780593977293&digital=t"
+            }
+        },
+        {
             "title": "Fortune Favors the Dead",
             "subtitle": "A Pentecost and Parker Mystery",
             "description": "A wildly charming and fast-paced mystery written with all the panache of the hardboiled classics, Fortune Favors the Dead introduces Pentecost and Parker, an audacious new detective duo for the ages. “Razor-sharp style, tons of flair, a snappy sense of humor, and all the most satisfying elements of a really good noir novel, plus plenty of original twists of its own.”—Tana French, bestselling author of The Searcher It's 1942 and Willowjean \"Will\" Parker is a scrappy circus runaway whose knife-throwing skills have just saved the life of New York's best, and most unorthodox, private investigator, Lillian Pentecost. When the dapper detective summons Will a few days later, she doesn't expect to be offered a life-changing proposition: Lillian's multiple sclerosis means she can't keep up with her old case load alone, so she wants to hire Will to be her right-hand woman. In return, Will is to receive a salary, room and board, and training in Lillian's very particular art of investigation. Three years later, Will and Lillian are on the Collins case: Abigail Collins was found bludgeoned to death with a crystal ball following a big, boozy Halloween party at her home—her body slumped in the same chair where her steel magnate husband shot himself the year before. With rumors flying that Abigail was bumped off by the vengeful spirit of her husband (who else could have gotten inside the locked room?), the family has tasked the detectives with finding answers where the police have failed. But that's easier said than done in a case that involves messages from the dead, a seductive spiritualist, and Becca Collins—the beautiful daughter of the deceased, who Will quickly starts falling for. When Will and Becca's relationship dances beyond the professional, Will finds herself in dangerous territory, and discovers she may have become the murderer's next target.",
@@ -9,13 +31,12 @@
             "series_total": 5,
             "author": "Stephen Spotswood",
             "pages": 302,
-            "rating": 0,
+            "rating": 4,
             "start_date": "2025-11-28",
-            "end_date": "2025-11-28",
+            "end_date": "2025-12-07",
             "cover": "https://cdn.jasonlawton.com/books/fortune-favors-the-dead.jpg",
             "notes": "",
             "tags": [
-                "currently-reading",
                 "fiction",
                 "historical",
                 "lgbtqia+",
