@@ -1,6 +1,26 @@
 {
     "books": [
         {
+            "title": "The Mimicking of Known Successes",
+            "subtitle": "",
+            "description": "“Every once in a while, a book comes along that is both a comfort read and a rousing, fist-pumping adventure, and The Mimicking of Known Successes absolutely is both of those things. An utter triumph.”—Charlie Jane Anders A Hugo Award nominee for Best Novella A Nebula Award nominee for Best Novella An Ignyte Award nominee for Best Novella A Locus Award nominee for Best Novella A Barnes & Noble Best Science Fiction of the Year Pick A Library Journal Best SF/F of the Year Pick A Book Riot Best Mystery and Science Fiction of the Year Pick An Autostraddle Best Science Fiction of the Year Pick A Most Anticipated in 2023 Pick for Today.com | Buzzfeed | Polygon | Book Riot | Ms. Magazine The Mimicking of Known Successes presents a cozy Holmesian murder mystery and sapphic romance, set on Jupiter, by Malka Older, author of the critically-acclaimed Centenal Cycle. On a remote, gas-wreathed outpost of a human colony on Jupiter, a man goes missing. The enigmatic Investigator Mossa follows his trail to Valdegeld, home to the colony’s erudite university—and Mossa’s former girlfriend, a scholar of Earth’s pre-collapse ecosystems. Pleiti has dedicated her research and her career to aiding the larger effort towards a possible return to Earth. When Mossa unexpectedly arrives and requests Pleiti’s assistance in her latest investigation, the two of them embark on a twisting path in which the future of life on Earth is at stake—and, perhaps, their futures, together. The Centenal Cycle by Malka Older Infomocracy Null States State Tectonics At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.",
+            "series_name": "The Investigations of Mossa and Pleiti",
+            "series_order": 1,
+            "series_total": 5,
+            "author": "Malka Older",
+            "pages": 169,
+            "rating": 0,
+            "start_date": "2025-12-11",
+            "end_date": "2025-12-11",
+            "cover": "https://cdn.jasonlawton.com/books/mimicking-of-known-successes.jpg",
+            "notes": "",
+            "tags": ["fiction","lgbtqia+","mystery","science-fiction","adventurous","mysterious","medium-paced"],
+            "links": {
+                "amazon": "https://www.amazon.com/Mimicking-Known-Successes-Malka-Older-ebook/dp/B09XL6JWZ8",
+                "bookshop.org": "https://bookshop.org/p/books/the-mimicking-of-known-successes-malka-older/596e6da6d4eeacde?ean=9781250860514&digital=t"
+            }
+        },
+        {
             "title": "The Compound",
             "subtitle": "",
             "description": "",
@@ -140,13 +160,12 @@
             "series_total": 3,
             "author": "Alice Bell",
             "pages": 353,
-            "rating": 0,
+            "rating": 4,
             "start_date": "2025-12-08",
-            "end_date": "2025-12-08",
+            "end_date": "2025-12-10",
             "cover": "https://cdn.jasonlawton.com/books/displeasure-island.jpg",
             "notes": "",
             "tags": [
-                "currently-reading",
                 "fiction",
                 "crime",
                 "lgbtqia+",
