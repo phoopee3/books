@@ -1,12 +1,50 @@
 {
     "books": [
         {
+            "title": "summer",
+            "subtitle": "",
+            "description": "Summer is a perfectly ordinary 11 year old girl with a perfectly ordinary, needy, over protective single mother. Summer loves her mother and would never dream of running away, but wonders deep down if it wouldn't be nice to escape for a little while and do something adventurous...maybe? Baba Yaga comes along in her magical walking house and offers Summer her heart's desire. Summer has no idea what this might be, but with the lighting of a frog-shaped beeswax candle she finds herself transported to the strange would of Orcus with nothing but a weasel in her pocket. She's read a lot of fantasy books about people thrust into strange lands; but they usually seemed to have has some idea what they were supposed to do there.",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author": "T. Kingfisher",
+            "pages": 261,
+            "rating": 0,
+            "start_date": "2025-12-21",
+            "end_date": "2025-12-21",
+            "cover": "https://cdn.jasonlawton.com/books/summer-in-orcus.jpg",
+            "notes": "",
+            "tags": [],
+            "links": {
+                "amazon": "https://www.amazon.com/Summer-Orcus-T-Kingfisher-ebook/dp/B01N26G2I0",
+                "bookshop.org": ""
+            }
+        },{
+            "title": "The Imposition of Unnecessary Obstacles",
+            "subtitle": "",
+            "description": "",
+            "series_name": "The Investigations of Mossa and Pleiti",
+            "series_order": 2,
+            "series_total": 3,
+            "author": "Malka Older",
+            "pages": 224,
+            "rating": 3,
+            "start_date": "2025-12-18",
+            "end_date": "2025-12-21",
+            "cover": "https://cdn.jasonlawton.com/books/imposition-of-unnecessary-obstacles.jpg",
+            "notes": "",
+            "tags": ["fiction","lgbtqia+","mystery","science-fiction","adventurous","mysterious","medium-paced"],
+            "links": {
+                "amazon": "https://www.amazon.com/gp/product/1250906792",
+                "bookshop.org": "https://bookshop.org/p/books/the-imposition-of-unnecessary-obstacles-malka-older/e199ba5928eff2f1?ean=9781250906793&next=t"
+            }
+        },{
             "title": "The Mimicking of Known Successes",
             "subtitle": "",
             "description": "“Every once in a while, a book comes along that is both a comfort read and a rousing, fist-pumping adventure, and The Mimicking of Known Successes absolutely is both of those things. An utter triumph.”—Charlie Jane Anders A Hugo Award nominee for Best Novella A Nebula Award nominee for Best Novella An Ignyte Award nominee for Best Novella A Locus Award nominee for Best Novella A Barnes & Noble Best Science Fiction of the Year Pick A Library Journal Best SF/F of the Year Pick A Book Riot Best Mystery and Science Fiction of the Year Pick An Autostraddle Best Science Fiction of the Year Pick A Most Anticipated in 2023 Pick for Today.com | Buzzfeed | Polygon | Book Riot | Ms. Magazine The Mimicking of Known Successes presents a cozy Holmesian murder mystery and sapphic romance, set on Jupiter, by Malka Older, author of the critically-acclaimed Centenal Cycle. On a remote, gas-wreathed outpost of a human colony on Jupiter, a man goes missing. The enigmatic Investigator Mossa follows his trail to Valdegeld, home to the colony’s erudite university—and Mossa’s former girlfriend, a scholar of Earth’s pre-collapse ecosystems. Pleiti has dedicated her research and her career to aiding the larger effort towards a possible return to Earth. When Mossa unexpectedly arrives and requests Pleiti’s assistance in her latest investigation, the two of them embark on a twisting path in which the future of life on Earth is at stake—and, perhaps, their futures, together. The Centenal Cycle by Malka Older Infomocracy Null States State Tectonics At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.",
             "series_name": "The Investigations of Mossa and Pleiti",
             "series_order": 1,
-            "series_total": 5,
+            "series_total": 3,
             "author": "Malka Older",
             "pages": 169,
             "rating": 3,
@@ -490,13 +528,12 @@
             "series_total": 0,
             "author": "Gene Doucette",
             "pages": 435,
-            "rating": 0,
+            "rating": 3,
             "start_date": "2025-12-12",
-            "end_date": "2025-12-12",
+            "end_date": "2025-12-18",
             "cover": "https://cdn.jasonlawton.com/books/apocalypse-seven.jpg",
             "notes": "",
             "tags": [
-                "currently-reading",
                 "fiction",
                 "science-fiction",
                 "adventurous",
