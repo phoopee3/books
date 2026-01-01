@@ -1,7 +1,31 @@
 {
     "books": [
         {
-            "title": "summer",
+            "title": "Piranesi",
+            "subtitle": "",
+            "description": "New York Times Bestseller Winner of the Women's Prize for Fiction World Fantasy Awards Finalist From the New York Times bestselling author of Jonathan Strange & Mr Norrell, an intoxicating, hypnotic new novel set in a dreamlike alternative reality. Piranesi's house is no ordinary building: its rooms are infinite, its corridors endless, its walls are lined with thousands upon thousands of statues, each one different from all the others. Within the labyrinth of halls an ocean is imprisoned; waves thunder up staircases, rooms are flooded in an instant. But Piranesi is not afraid; he understands the tides as he understands the pattern of the labyrinth itself. He lives to explore the house. There is one other person in the house-a man called The Other, who visits Piranesi twice a week and asks for help with research into A Great and Secret Knowledge. But as Piranesi explores, evidence emerges of another person, and a terrible truth begins to unravel, revealing a world beyond the one Piranesi has always known. For readers of Neil Gaiman's The Ocean at the End of the Lane and fans of Madeline Miller's Circe, Piranesi introduces an astonishing new world, an infinite labyrinth, full of startling images and surreal beauty, haunted by the tides and the clouds.",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author": "Susanna Clarke",
+            "pages": 273,
+            "rating": 0,
+            "start_date": "2026-01-01",
+            "end_date": "2026-01-01",
+            "cover": "https://cdn.jasonlawton.com/books/piranesi.jpg",
+            "notes": "",
+            "tags": [
+                "currently-reading",
+                "re-read",
+                "fiction","fantasy","literary","speculative","fiction","adventurous","mysterious","reflective","medium-paced"
+            ],
+            "links": {
+                "amazon": "https://www.amazon.com/Piranesi-Spectacular-Times-Susanna-Clarke-ebook/dp/B0865TSTWM",
+                "bookshop.org": "https://bookshop.org/p/books/piranesi-susanna-clarke/878ecea84a8eca72?ean=9781635577808&next=t"
+            }
+        },
+        {
+            "title": "Summer in Orcus",
             "subtitle": "",
             "description": "Summer is a perfectly ordinary 11 year old girl with a perfectly ordinary, needy, over protective single mother. Summer loves her mother and would never dream of running away, but wonders deep down if it wouldn't be nice to escape for a little while and do something adventurous...maybe? Baba Yaga comes along in her magical walking house and offers Summer her heart's desire. Summer has no idea what this might be, but with the lighting of a frog-shaped beeswax candle she finds herself transported to the strange would of Orcus with nothing but a weasel in her pocket. She's read a lot of fantasy books about people thrust into strange lands; but they usually seemed to have has some idea what they were supposed to do there.",
             "series_name": "",
@@ -9,15 +33,15 @@
             "series_total": 0,
             "author": "T. Kingfisher",
             "pages": 261,
-            "rating": 0,
+            "rating": 4,
             "start_date": "2025-12-21",
-            "end_date": "2025-12-21",
+            "end_date": "2025-12-31",
             "cover": "https://cdn.jasonlawton.com/books/summer-in-orcus.jpg",
             "notes": "",
-            "tags": [],
+            "tags": ["fiction","fantasy","young-adult","adventurous","mysterious","fast-paced"],
             "links": {
                 "amazon": "https://www.amazon.com/Summer-Orcus-T-Kingfisher-ebook/dp/B01N26G2I0",
-                "bookshop.org": ""
+                "bookshop.org": "https://bookshop.org/p/books/summer-in-orcus-t-kingfisher/b1a2aa7d6dfdc917?ean=9781936689590&next=t"
             }
         },{
             "title": "The Imposition of Unnecessary Obstacles",
