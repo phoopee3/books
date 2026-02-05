@@ -1,6 +1,26 @@
 {
     "books": [
         {
+            "title": "Station Eleven",
+            "subtitle": "",
+            "description": "",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author": "Emelity St. John Mandel",
+            "pages": 354,
+            "rating": 0,
+            "start_date": "2026-02-05",
+            "end_date": "2026-02-05",
+            "cover": "https://cdn.jasonlawton.com/books/station-eleven.jpg",
+            "notes": "",
+            "tags": ["currently-reading","book-club","fiction","dystopian","literary","adventurous","dark","reflective","medium-paced"],
+            "links": {
+                "amazon": "https://a.co/d/00MlmYPl",
+                "bookshop.org": "https://bookshop.org/p/books/station-eleven-a-novel-national-book-award-finalist-emily-st-john-mandel/0e96a86b5246b32c?ean=9780804172448&next=t"
+            }
+        },
+        {
             "title": "The Butcher's Masquerade",
             "subtitle": "",
             "description": "",
@@ -9,12 +29,12 @@
             "series_total": 8,
             "author": "Matt Dinneman",
             "pages": 732,
-            "rating": 0,
+            "rating": 3,
             "start_date": "2026-01-25",
-            "end_date": "2026-01-25",
+            "end_date": "2026-02-05",
             "cover": "https://cdn.jasonlawton.com/books/butchers-masquerade.jpg",
             "notes": "",
-            "tags": ["currently-reading","fiction","fantasy","science-fiction","adventurous","dark","funny","fast-paced"],
+            "tags": ["fiction","fantasy","science-fiction","adventurous","dark","funny","fast-paced"],
             "links": {
                 "amazon": "https://a.co/d/aC0cf73",
                 "bookshop.org": "https://bookshop.org/p/books/the-butcher-s-masquerade-matt-dinniman/357cb10d2c4ad06d?ean=9780593955994&next=t"
@@ -33,7 +53,7 @@
             "end_date": "2026-01-18",
             "cover": "https://cdn.jasonlawton.com/books/reader-come-home.jpg",
             "notes": "",
-            "tags": ["nonfiction","education","psychology","science","challenging","informative","reflective","slow-paced"],
+            "tags": ["book-club","nonfiction","education","psychology","science","challenging","informative","reflective","slow-paced"],
             "links": {
                 "amazon": "https://www.amazon.com/Reader-Come-Home-Reading-Digital-ebook/dp/B074DTJ2CT",
                 "bookshop.org": "https://bookshop.org/p/books/reader-come-home-the-reading-brain-in-a-digital-world-maryanne-wolf/d5abab3b519a99ae?ean=9780062388773&next=t"
