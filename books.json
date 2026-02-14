@@ -1,6 +1,26 @@
 {
     "books": [
         {
+            "title": "Boy, With Accidental Dinosaur",
+            "subtitle": "",
+            "description": "A FanFiAddict Most Anticipated Title! How to Train Your Dragon meets Mad Max in this story of an orphan in a fractured Southwest who just wants to ride a dinosaur under the lights. Come one, come all to the dinosaur rodeo! Tif Tamim wants nothing more than to be a dinosaur buckaroo. An orphan in search of a place to rest his head and a job to weigh down his pockets, Tif has bounced from circus to circus, yearning for a chance to ride a prehistoric beauty under the sparkling lights of a big-top. To become a buckaroo, Tif needs to learn the tools of the trade, yet few dino maestros want to take a scrawny nobody from nowhere under their wing. But when Tif frees a dino from an abusive owner and braves the roving gangs of the formerly-American west to bring the dino to safety, he catches someone’s eye. And boy, how those eyes dazzle Tif from the back of a bucking carnotaur. At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author": "Ian McDonald",
+            "pages": 96,
+            "rating": 0,
+            "start_date": "2026-02-11",
+            "end_date": "2026-02-11",
+            "cover": "https://cdn.jasonlawton.com/books/boy-with-accidental-dinosaur.jpg",
+            "notes": "",
+            "tags": ["currently-reading","fiction","science-fiction","fast-paced"],
+            "links": {
+                "amazon": "https://www.amazon.com/Boy-Accidental-Dinosaur-Ian-McDonald-ebook/dp/B0F5PBZL91",
+                "bookshop.org": "https://bookshop.org/p/books/boy-with-accidental-dinosaur-ian-mcdonald/18ba502cb35fbff0?ean=9781250419538&next=t"
+            }
+        }
+        {
             "title": "Station Eleven",
             "subtitle": "",
             "description": "",
@@ -9,11 +29,11 @@
             "series_total": 0,
             "author": "Emelity St. John Mandel",
             "pages": 354,
-            "rating": 0,
+            "rating": 3,
             "start_date": "2026-02-05",
-            "end_date": "2026-02-05",
+            "end_date": "2026-02-11",
             "cover": "https://cdn.jasonlawton.com/books/station-eleven.jpg",
-            "notes": "",
+            "notes": "Well written, but not the most pleasant of topics in a post-covid world.",
             "tags": ["currently-reading","book-club","fiction","dystopian","literary","adventurous","dark","reflective","medium-paced"],
             "links": {
                 "amazon": "https://a.co/d/00MlmYPl",
