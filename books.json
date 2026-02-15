@@ -1,6 +1,26 @@
 {
     "books": [
         {
+            "title": "There is no Antimemetics Division",
+            "subtitle": "A Novel",
+            "description": "Humanity is under assault by malevolent “antimemes”—ideas that attack memory, identity, and the fabric of reality itself—in this whip-smart tale of science-fiction horror, an entirely reimagined and expanded version of the beloved online novel. “The coolest, smartest, mind-blowingest novel to be published this year, and probably for many years to come.”—Blake Crouch, New York Times bestselling author of Dark Matter They’re all around us, hiding in plain sight. One could be in the room with you now, just to your left. You could be seeing it right now—but from this second to the next, you’ll forget that you did. If you managed to jot down a note, the paper would look blank to you afterward. These entities can feed on your most cherished memories, the things that make you you—and you’ll never even know anything changed. They can turn you into a living ghost—make it so you’re standing next to your spouse, screaming in their ear, and they won’t know you’re there. They’re predators equipped with the ultimate camouflage, living black holes for information, able to consume our very memories of their existence. And they aren’t just feeding on us. They’re invading. But how do you fight an enemy when you can never even know that you’re at war? How do you contain something you can’t record or remember? Welcome to the Antimemetics Division. No, this is not your first day.",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author": "qntm",
+            "pages": 289,
+            "rating": 0,
+            "start_date": "2026-02-15",
+            "end_date": "2026-02-15",
+            "cover": "https://cdn.jasonlawton.com/books/there-is-no-antimemetics-division.jpg",
+            "notes": "",
+            "tags": ["currently-reading","fiction","horror","science-fiction","dark","mysterious","tense","fast-paced"],
+            "links": {
+                "amazon": "https://www.amazon.com/There-No-Antimemetics-Division-Novel-ebook/dp/B0DSJ2LW2Z",
+                "bookshop.org": "https://bookshop.org/p/books/there-is-no-antimemetics-division-a-novel-qntm/62e1b65b6635badb?ean=9780593983751&next=t"
+            }
+        },
+        {
             "title": "Sunward",
             "subtitle": "A Novel",
             "description": "A cozy debut science fiction novel by National Book Award–winning writer William Alexander, this story of found family follows a planetary courier training adolescent androids in a solar system grappling with interplanetary conflict after a devastating explosion on Earth’s moon. Captain Tova Lir chose a life as a courier rather than get involved in her family’s illustrious business in politics. Set in humanity’s far future, hiring a planetary courier is essential for delivering private messages across the stars. Encouraged by friends, Tova begins mentoring baby bots, juvenile AI who are developmentally in their teens, and trains them how to interact within society essentially becoming their foster mom. Her latest charge, Agatha Panza von Sparkles, named herself on their first run from Luna to Phoebe station. But on their return, they encounter a derelict spaceship and a lurking assassin, igniting a thrilling chase across the solar system. Tova and Agatha’s daring actions leave Agatha’s mind vulnerable, relying on Tova’s former AI pupils for help. As Tova starts gathering her scattered family around her, she is chased through the solar system by forces who want her captured and her family erased. This debut science fiction novel by National Book Award–winning author William Alexander is a must-read for fans of Becky Chambers and Ursula K. Le Guin. Lovers of poignant science fiction, where the bonds of found family, the evolution of AI, and the building distrust of centuries of bias, come together in this visionary look at humanity’s future.",
@@ -9,12 +29,12 @@
             "series_total": 0,
             "author": "William Alexander",
             "pages": 224,
-            "rating": 0,
+            "rating": 3,
             "start_date": "2026-02-14",
             "end_date": "2026-02-14",
             "cover": "https://cdn.jasonlawton.com/books/sunward.jpg",
             "notes": "",
-            "tags": ["currently-reading","fiction","lgbtqia+","science-fiction","adventurous","emotional","hopeful","fast-paced"],
+            "tags": ["fiction","lgbtqia+","science-fiction","adventurous","emotional","hopeful","fast-paced"],
             "links": {
                 "amazon": "https://www.amazon.com/Sunward-Novel-William-Alexander-ebook/dp/B0DV6DVDR4",
                 "bookshop.org": "https://bookshop.org/p/books/sunward-a-novel-william-alexander/56ad2577d1fa24dc?ean=9781668058053&next=t"
