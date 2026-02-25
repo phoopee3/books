@@ -1,6 +1,44 @@
 {
     "books": [
         {
+            "title": "Atomic Habits",
+            "subtitle": "An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+            "description": "",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author": "James Clear",
+            "pages": 320,
+            "rating": 0,
+            "start_date": "2026-02-23",
+            "end_date": "2026-02-23",
+            "cover": "https://cdn.jasonlawton.com/books/atomic-habits.jpg",
+            "notes": "",
+            "tags": ["currently-reading","nonfiction","psychology","self-help","informative","inspiring","reflective","medium-paced"],
+            "links": {
+                "amazon": "https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299",
+                "bookshop.org": "https://bookshop.org/p/books/atomic-habits-an-easy-proven-way-to-build-good-habits-break-bad-ones-james-clear/072529306f5772fe?ean=9780735211292&next=t"
+            }
+        },{
+            "title": "The Book of Elsewhere",
+            "subtitle": "",
+            "description": "",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author": "China Miéville, Keanu Reeves",
+            "pages": 341,
+            "rating": 0,
+            "start_date": "2026-02-22",
+            "end_date": "2026-02-22",
+            "cover": "https://cdn.jasonlawton.com/books/book-of-elsewhere.jpg",
+            "notes": "",
+            "tags": ["currently-reading","fiction","fantasy","science-fiction","adventurous","dark","mysterious","medium-paced"],
+            "links": {
+                "amazon": "https://www.amazon.com/Book-Elsewhere-Novel-Keanu-Reeves-ebook/dp/B0CP7FXC4V",
+                "bookshop.org": "https://bookshop.org/p/books/the-book-of-elsewhere-a-novel-china-mi-ville/5cb764f1dda8ec9b?ean=9781420518726&next=t"
+            }
+        },{
             "title": "Royal Gambit",
             "subtitle": "",
             "description": "",
@@ -9,12 +47,12 @@
             "series_total": 4,
             "author": "Daniel O'Malley",
             "pages": 407,
-            "rating": 0,
+            "rating": 4,
             "start_date": "2026-02-17",
-            "end_date": "2026-02-17",
+            "end_date": "2026-02-22",
             "cover": "https://cdn.jasonlawton.com/books/royal-gambit.jpg",
             "notes": "",
-            "tags": ["currently-reading","fiction","fantasy","science-fiction","adventurous","funny","mysterious","medium-paced"],
+            "tags": ["fiction","fantasy","science-fiction","adventurous","funny","mysterious","medium-paced"],
             "links": {
                 "amazon": "https://www.amazon.com/Royal-Gambit-Novel-Daniel-OMalley-ebook/dp/B0CW1NJKM2",
                 "bookshop.org": "https://bookshop.org/p/books/royal-gambit-a-novel-daniel-o-malley/b8418d41403138cf?ean=9780316568135&digital=t"
