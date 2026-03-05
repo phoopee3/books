@@ -1,6 +1,25 @@
 {
     "books": [
         {
+            "title": "The Incandescent",
+            "subtitle": "",
+            "description": "",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author": "Emily Tesh",
+            "pages": 432,
+            "rating": 0,
+            "start_date": "2026-03-04",
+            "end_date": "2026-03-04",
+            "cover": "https://cdn.jasonlawton.com/books/incandescent.jpg",
+            "notes": "",
+            "tags": ["fiction","fantasy","lgbtqia+","adventurous","emotional","mysterious","medium-paced"],
+            "links": {
+                "amazon": "https://www.amazon.com/Incandescent-Emily-Tesh/dp/1250835011",
+                "bookshop.org": "https://bookshop.org/p/books/the-incandescent-emily-tesh/ea7511be7c562065?ean=9781250835017&next=t&"
+            }
+        },{
             "title": "Atomic Habits",
             "subtitle": "An Easy & Proven Way to Build Good Habits & Break Bad Ones",
             "description": "",
@@ -28,12 +47,12 @@
             "series_total": 0,
             "author": "China Miéville, Keanu Reeves",
             "pages": 341,
-            "rating": 0,
+            "rating": 3,
             "start_date": "2026-02-22",
-            "end_date": "2026-02-22",
+            "end_date": "2026-03-04",
             "cover": "https://cdn.jasonlawton.com/books/book-of-elsewhere.jpg",
             "notes": "",
-            "tags": ["currently-reading","fiction","fantasy","science-fiction","adventurous","dark","mysterious","medium-paced"],
+            "tags": ["fiction","fantasy","science-fiction","adventurous","dark","mysterious","medium-paced"],
             "links": {
                 "amazon": "https://www.amazon.com/Book-Elsewhere-Novel-Keanu-Reeves-ebook/dp/B0CP7FXC4V",
                 "bookshop.org": "https://bookshop.org/p/books/the-book-of-elsewhere-a-novel-china-mi-ville/5cb764f1dda8ec9b?ean=9781420518726&next=t"
