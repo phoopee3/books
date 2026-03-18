@@ -72,7 +72,7 @@
             "rating": 0,
             "start_date": "2099-01-01",
             "end_date": "2099-01-01",
-            "cover": "https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "cover": "https://cdn.jasonlawton.com/books/death-of-the-author.jpg",
             "notes": "",
             "tags": ["to-read","nebula-nominee"],
             "links": {
@@ -112,7 +112,7 @@
             "rating": 0,
             "start_date": "2099-01-01",
             "end_date": "2099-01-01",
-            "cover": "https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "cover": "https://cdn.jasonlawton.com/books/wearing-the-lion.jpg",
             "notes": "",
             "tags": ["to-read","nebula-nominee"],
             "links": {
@@ -1312,7 +1312,7 @@
             "cover": "https://cdn.jasonlawton.com/books/asunder.png",
             "notes": "The romance angle was unnecessary and not believable. It also went on a little long. Overall a good book.",
             "tags": [
-                "nebula-nominated","fiction","fantasy","adventurous","dark","tense","medium-paced"
+                "nebula-nominee","fiction","fantasy","adventurous","dark","tense","medium-paced"
             ],
             "links": {
                 "amazon": "https://a.co/d/2dzVUMW",
@@ -1332,7 +1332,7 @@
             "cover": "https://cdn.jasonlawton.com/books/ministry-of-time.png",
             "notes": "The chemistry between the two main characters was more unbelievable than the time travel part of this story.",
             "tags": [
-                "nebula-nominated","fiction","literary","romance","science-fiction","adventurous","emotional","mysterious","medium-paced"
+                "nebula-nominee","fiction","literary","romance","science-fiction","adventurous","emotional","mysterious","medium-paced"
             ],
             "links": {
                 "amazon": "https://a.co/d/61eeh5w",
@@ -1352,7 +1352,7 @@
             "cover": "https://cdn.jasonlawton.com/books/tainted-cup.jpg",
             "notes": "",
             "tags": [
-                "nebula-nominated","fiction","fantasy","lgbtqia+","adventurous","mysterious","mystery","medium-paced"
+                "nebula-nominee","fiction","fantasy","lgbtqia+","adventurous","mysterious","mystery","medium-paced"
             ],
             "links": {
                 "amazon": "https://a.co/d/36K1lDe",
@@ -1372,7 +1372,7 @@
             "cover": "https://cdn.jasonlawton.com/books/alien-clay.jpg",
             "notes": "A common theme in Tchaikovsky's books are about an alien landscape making people more empathetic, the first book in Children of Time is a good example. This book also explores that theme. It is a bit repetitive though.",
             "tags": [
-                "nebula-nominated","fiction","science-fiction","adventurous","mysterious","tense","medium-paced"
+                "nebula-nominee","fiction","science-fiction","adventurous","mysterious","tense","medium-paced"
             ],
             "links": {
                 "amazon": "https://a.co/d/9Px2vtz",
@@ -1392,7 +1392,7 @@
             "cover": "https://cdn.jasonlawton.com/books/rakesfall.jpg",
             "notes": "Do you want to read a story that has no story, and seems like flashbacks within flashbacks? Neither did I.",
             "tags": [
-                "nebula-nominated","dnf","fiction","fantasy","science-fiction","adventurous","dark","mysterious","medium-paced"
+                "nebula-nominee","dnf","fiction","fantasy","science-fiction","adventurous","dark","mysterious","medium-paced"
             ],
             "links": {
                 "amazon": "https://a.co/d/0kdr42v",
@@ -1412,7 +1412,7 @@
             "cover": "https://cdn.jasonlawton.com/books/someone-you-can-build-a-nest-in.jpg",
             "notes": "Interesting premise, good story, funny",
             "tags": [
-                "nebula-nominated","fiction","fantasy","horror","lgbtqia+","romance","adventurous","dark","funny","medium-paced"
+                "nebula-nominee","fiction","fantasy","horror","lgbtqia+","romance","adventurous","dark","funny","medium-paced"
             ],
             "links": {
                 "amazon": "https://a.co/d/5gvW1r4",
@@ -1432,7 +1432,7 @@
             "cover": "https://cdn.jasonlawton.com/books/sleeping-worlds-have-no-memory.jpg",
             "notes": "Too much political machinations, too all over the place. Did not enjoy it at all.",
             "tags": [
-                "nebula-nominated","fiction","fantasy","adventurous","dark","mysterious","medium-paced"
+                "nebula-nominee","fiction","fantasy","adventurous","dark","mysterious","medium-paced"
             ],
             "links": {
                 "amazon": "https://a.co/d/0KTXTar",
@@ -1452,7 +1452,7 @@
             "cover": "https://cdn.jasonlawton.com/books/sorceress-comes-to-call.jpg",
             "notes": "",
             "tags": [
-                "nebula-nominated","fiction","fantasy","adventurous","dark","mysterious","medium-paced"
+                "nebula-nominee","fiction","fantasy","adventurous","dark","mysterious","medium-paced"
             ],
             "links": {
                 "amazon": "https://a.co/d/8F6O123",
@@ -1494,7 +1494,7 @@
             "cover": "https://cdn.jasonlawton.com/books/book-of-love.jpg",
             "notes": "",
             "tags": [
-                "nebula-nominated","fiction","contemporary","fantasy","adventurous","dark","mysterious","slow-paced"
+                "nebula-nominee","fiction","contemporary","fantasy","adventurous","dark","mysterious","slow-paced"
             ],
             "links": {
                 "amazon": "https://a.co/d/8rtl6vT",
@@ -6432,7 +6432,7 @@
             "start_date":"2016-11-18",
             "end_date":"2016-12-10",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -6451,7 +6451,7 @@
             "start_date":"2016-12-10",
             "end_date":"2016-12-31",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -6470,7 +6470,7 @@
             "start_date":"2017-01-01",
             "end_date":"2017-01-23",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -6489,7 +6489,7 @@
             "start_date":"2017-01-23",
             "end_date":"2017-02-14",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -6508,7 +6508,7 @@
             "start_date":"2017-02-14",
             "end_date":"2017-03-08",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -6546,7 +6546,7 @@
             "start_date":"2017-03-30",
             "end_date":"2017-04-21",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -6565,7 +6565,7 @@
             "start_date":"2017-04-21",
             "end_date":"2017-05-13",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -6584,7 +6584,7 @@
             "start_date":"2017-05-13",
             "end_date":"2017-06-04",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -6603,7 +6603,7 @@
             "start_date":"2017-06-04",
             "end_date":"2017-06-26",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -6622,7 +6622,7 @@
             "start_date":"2017-06-26",
             "end_date":"2017-07-18",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -6641,7 +6641,7 @@
             "start_date":"2017-07-18",
             "end_date":"2017-08-09",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -6660,7 +6660,7 @@
             "start_date":"2017-08-09",
             "end_date":"2017-08-31",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -6679,7 +6679,7 @@
             "start_date":"2017-08-31",
             "end_date":"2017-09-22",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -6698,7 +6698,7 @@
             "start_date":"2017-09-22",
             "end_date":"2017-10-14",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -6717,7 +6717,7 @@
             "start_date":"2017-10-14",
             "end_date":"2017-11-05",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -6736,7 +6736,7 @@
             "start_date":"2017-11-05",
             "end_date":"2017-11-27",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -6755,7 +6755,7 @@
             "start_date":"2017-11-27",
             "end_date":"2017-12-19",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -6774,7 +6774,7 @@
             "start_date":"2017-12-19",
             "end_date":"2018-01-10",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -6793,7 +6793,7 @@
             "start_date":"2018-01-10",
             "end_date":"2018-02-01",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -6812,7 +6812,7 @@
             "start_date":"2018-02-01",
             "end_date":"2018-02-23",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -6831,7 +6831,7 @@
             "start_date":"2018-02-23",
             "end_date":"2018-03-17",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -6850,7 +6850,7 @@
             "start_date":"2018-03-17",
             "end_date":"2018-04-08",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -6869,7 +6869,7 @@
             "start_date":"2018-04-08",
             "end_date":"2018-04-30",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -6888,7 +6888,7 @@
             "start_date":"2018-04-30",
             "end_date":"2018-05-22",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -6907,7 +6907,7 @@
             "start_date":"2018-05-22",
             "end_date":"2018-06-13",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -6926,7 +6926,7 @@
             "start_date":"2018-06-13",
             "end_date":"2018-07-05",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -6945,7 +6945,7 @@
             "start_date":"2018-07-05",
             "end_date":"2018-07-27",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -6964,7 +6964,7 @@
             "start_date":"2018-07-27",
             "end_date":"2018-08-18",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -6983,7 +6983,7 @@
             "start_date":"2018-08-18",
             "end_date":"2018-09-09",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7002,7 +7002,7 @@
             "start_date":"2018-09-09",
             "end_date":"2018-10-01",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7021,7 +7021,7 @@
             "start_date":"2018-10-01",
             "end_date":"2018-10-23",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7040,7 +7040,7 @@
             "start_date":"2018-10-23",
             "end_date":"2018-11-14",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7059,7 +7059,7 @@
             "start_date":"2018-11-14",
             "end_date":"2018-12-06",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7078,7 +7078,7 @@
             "start_date":"2018-12-06",
             "end_date":"2019-01-01",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7097,7 +7097,7 @@
             "start_date":"2019-01-31",
             "end_date":"2019-01-31",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7116,7 +7116,7 @@
             "start_date":"2019-02-07",
             "end_date":"2019-02-07",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7135,7 +7135,7 @@
             "start_date":"2019-02-17",
             "end_date":"2019-02-17",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7154,7 +7154,7 @@
             "start_date":"2019-02-26",
             "end_date":"2019-02-26",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7173,7 +7173,7 @@
             "start_date":"2019-03-21",
             "end_date":"2019-03-21",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7192,7 +7192,7 @@
             "start_date":"2019-04-04",
             "end_date":"2019-04-04",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7211,7 +7211,7 @@
             "start_date":"2019-05-08",
             "end_date":"2019-05-08",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7230,7 +7230,7 @@
             "start_date":"2019-05-18",
             "end_date":"2019-05-18",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7249,7 +7249,7 @@
             "start_date":"2019-05-24",
             "end_date":"2019-05-24",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7268,7 +7268,7 @@
             "start_date":"2019-06-15",
             "end_date":"2019-06-15",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7287,7 +7287,7 @@
             "start_date":"2019-06-18",
             "end_date":"2019-06-18",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7306,7 +7306,7 @@
             "start_date":"2019-06-21",
             "end_date":"2019-06-21",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7325,7 +7325,7 @@
             "start_date":"2019-07-08",
             "end_date":"2019-07-08",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7344,7 +7344,7 @@
             "start_date":"2019-07-17",
             "end_date":"2019-07-17",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7363,7 +7363,7 @@
             "start_date":"2019-08-11",
             "end_date":"2019-08-11",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7382,7 +7382,7 @@
             "start_date":"2019-08-24",
             "end_date":"2019-08-24",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7401,7 +7401,7 @@
             "start_date":"2019-08-30",
             "end_date":"2019-08-30",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7420,7 +7420,7 @@
             "start_date":"2019-09-10",
             "end_date":"2019-09-10",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7439,7 +7439,7 @@
             "start_date":"2019-09-25",
             "end_date":"2019-09-25",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7458,7 +7458,7 @@
             "start_date":"2019-10-26",
             "end_date":"2019-10-26",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7477,7 +7477,7 @@
             "start_date":"2019-11-23",
             "end_date":"2019-11-23",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7496,7 +7496,7 @@
             "start_date":"2019-11-26",
             "end_date":"2019-11-26",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7515,7 +7515,7 @@
             "start_date":"2019-11-26",
             "end_date":"2019-11-26",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7534,7 +7534,7 @@
             "start_date":"2019-12-07",
             "end_date":"2019-12-07",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7553,7 +7553,7 @@
             "start_date":"2019-12-19",
             "end_date":"2019-12-19",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7572,7 +7572,7 @@
             "start_date":"2019-12-19",
             "end_date":"2019-12-19",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7591,7 +7591,7 @@
             "start_date":"2019-12-25",
             "end_date":"2019-12-25",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7610,7 +7610,7 @@
             "start_date":"2020-01-08",
             "end_date":"2020-01-08",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7629,7 +7629,7 @@
             "start_date":"2020-01-16",
             "end_date":"2020-01-16",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7648,7 +7648,7 @@
             "start_date":"2020-01-21",
             "end_date":"2020-01-21",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7667,7 +7667,7 @@
             "start_date":"2020-01-21",
             "end_date":"2020-01-21",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7686,7 +7686,7 @@
             "start_date":"2020-01-21",
             "end_date":"2020-01-21",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7705,7 +7705,7 @@
             "start_date":"2020-01-21",
             "end_date":"2020-01-21",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7724,7 +7724,7 @@
             "start_date":"2020-01-21",
             "end_date":"2020-01-21",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7743,7 +7743,7 @@
             "start_date":"2020-01-21",
             "end_date":"2020-01-21",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7762,7 +7762,7 @@
             "start_date":"2020-01-21",
             "end_date":"2020-01-21",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7781,7 +7781,7 @@
             "start_date":"2020-01-21",
             "end_date":"2020-01-21",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7800,7 +7800,7 @@
             "start_date":"2020-01-21",
             "end_date":"2020-01-21",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7819,7 +7819,7 @@
             "start_date":"2020-01-21",
             "end_date":"2020-01-21",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7838,7 +7838,7 @@
             "start_date":"2020-01-21",
             "end_date":"2020-01-21",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7857,7 +7857,7 @@
             "start_date":"2020-02-05",
             "end_date":"2020-02-05",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7876,7 +7876,7 @@
             "start_date":"2020-02-18",
             "end_date":"2020-02-18",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7895,7 +7895,7 @@
             "start_date":"2020-03-03",
             "end_date":"2020-03-03",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7914,7 +7914,7 @@
             "start_date":"2020-03-12",
             "end_date":"2020-03-12",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7933,7 +7933,7 @@
             "start_date":"2020-03-29",
             "end_date":"2020-03-29",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7952,7 +7952,7 @@
             "start_date":"2020-06-07",
             "end_date":"2020-06-07",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7971,7 +7971,7 @@
             "start_date":"2020-07-15",
             "end_date":"2020-07-15",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -7990,7 +7990,7 @@
             "start_date":"2020-12-11",
             "end_date":"2020-12-11",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -8009,7 +8009,7 @@
             "start_date":"2020-12-16",
             "end_date":"2020-12-16",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -8028,7 +8028,7 @@
             "start_date":"2020-12-24",
             "end_date":"2020-12-24",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -8047,7 +8047,7 @@
             "start_date":"2021-01-05",
             "end_date":"2021-01-05",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -8066,7 +8066,7 @@
             "start_date":"2021-01-15",
             "end_date":"2021-01-15",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -8085,7 +8085,7 @@
             "start_date":"2021-02-06",
             "end_date":"2021-02-06",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -8104,7 +8104,7 @@
             "start_date":"2021-02-12",
             "end_date":"2021-02-12",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -8123,7 +8123,7 @@
             "start_date":"2021-04-10",
             "end_date":"2021-04-10",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -8142,7 +8142,7 @@
             "start_date":"2021-05-04",
             "end_date":"2021-05-04",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -8161,7 +8161,7 @@
             "start_date":"2021-05-09",
             "end_date":"2021-05-09",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -8180,7 +8180,7 @@
             "start_date":"2021-05-16",
             "end_date":"2021-05-16",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -8199,7 +8199,7 @@
             "start_date":"2021-05-22",
             "end_date":"2021-05-22",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -8218,7 +8218,7 @@
             "start_date":"2021-06-17",
             "end_date":"2021-06-17",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -8237,7 +8237,7 @@
             "start_date":"2021-06-25",
             "end_date":"2021-06-25",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -8256,7 +8256,7 @@
             "start_date":"2021-06-30",
             "end_date":"2021-06-30",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -8275,7 +8275,7 @@
             "start_date":"2021-07-16",
             "end_date":"2021-07-16",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -8294,7 +8294,7 @@
             "start_date":"2021-07-20",
             "end_date":"2021-07-20",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -8313,7 +8313,7 @@
             "start_date":"2021-07-27",
             "end_date":"2021-07-27",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
@@ -8332,7 +8332,7 @@
             "start_date":"2021-08-21",
             "end_date":"2021-08-21",
             "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":[],
+            "tags":["untagged"],
             "links":{
                 "amazon":"",
                 "bookshop.org":""
