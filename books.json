@@ -1,6 +1,126 @@
 {
     "books": [
         {
+            "title":"When We Were Real",
+            "subtitle": "",
+            "description": "JP and Dulin have been the best of friends for decades. When JP finds out his cancer has aggressively returned, Dulin decides it’s the perfect time for one last adventure: a week-long bus tour of North America’s Impossibles, the physics-defying glitches and geographic miracles that started cropping up seven years earlier—right after the Announcement that revealed our world to be merely a digital simulacrum. The outing, courtesy of Canterbury Trails Tours, promises the trip of a (not completely real) lifetime in a (not completely deluxe) coach.",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author":"Daryl Gregory",
+            "pages": 458,
+            "rating": 0,
+            "start_date": "2099-01-01",
+            "end_date": "2099-01-01",
+            "cover": "https://cdn.jasonlawton.com/books/when-we-were-real.jpg",
+            "notes": "",
+            "tags": ["to-read","nebula-nominee"],
+            "links": {
+                "amazon": "https://www.amazon.com/When-We-Were-Real-Novel-ebook/dp/B0D6WPHTK3",
+                "bookshop.org": ""
+            }
+        },
+        {
+            "title":"The Buffalo Hunter Hunter",
+            "subtitle": "",
+            "description": "A diary, written in 1912 by a Lutheran pastor is discovered within a wall. What it unveils is a slow massacre, a chain of events that go back to 217 Blackfeet dead in the snow. Told in transcribed interviews by a Blackfeet named Good Stab, who shares the narrative of his peculiar life over a series of confessional visits. This is an American Indian revenge story written by one of the new masters of horror, Stephen Graham Jones. ",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author":"Stephen Graham Jones",
+            "pages": 448,
+            "rating": 0,
+            "start_date": "2099-01-01",
+            "end_date": "2099-01-01",
+            "cover": "https://cdn.jasonlawton.com/books/buffalo-hunter-hunter.jpg",
+            "notes": "",
+            "tags": ["to-read","nebula-nominee"],
+            "links": {
+                "amazon": "https://www.amazon.com/Buffalo-Hunter-Stephen-Graham-Jones-ebook/dp/B0D6WL1XJ1",
+                "bookshop.org": ""
+            }
+        },
+        {
+            "title":"Katabasis",
+            "subtitle": "",
+            "description": "Alice Law has only ever had one goal: to become one of the brightest minds in the field of Magick. She has sacrificed everything to make that a reality: her pride, her health, her love life, and most definitely her sanity. All to work with Professor Jacob Grimes at Cambridge, the greatest magician in the world.",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author":"R.F. Kuang",
+            "pages": 567,
+            "rating": 0,
+            "start_date": "2099-01-01",
+            "end_date": "2099-01-01",
+            "cover": "https://cdn.jasonlawton.com/books/katabasis.jpg",
+            "notes": "",
+            "tags": ["to-read","nebula-nominee"],
+            "links": {
+                "amazon": "https://www.amazon.com/Katabasis-Novel-R-F-Kuang-ebook/dp/B0CYLY2LG5",
+                "bookshop.org": ""
+            }
+        },
+        {
+            "title":"Death of the Author",
+            "subtitle": "",
+            "description": "Disabled, disinclined to marry, and more interested in writing than a lucrative career in medicine or law, Zelu has always felt like the outcast of her large Nigerian family. Then her life is upended when, in the middle of her sister’s lavish Caribbean wedding, she’s unceremoniously fired from her university job and, to add insult to injury, her novel is rejected by yet another publisher. With her career and dreams crushed in one fell swoop, she decides to write something just for herself. What comes out is nothing like the quiet, literary novels that have so far peppered her unremarkable career. It’s a far-future epic where androids and AI wage war in the grown-over ruins of human civilization. She calls it Rusted Robots.",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author":"Nnedi Okorafor",
+            "pages": 441,
+            "rating": 0,
+            "start_date": "2099-01-01",
+            "end_date": "2099-01-01",
+            "cover": "https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "notes": "",
+            "tags": ["to-read","nebula-nominee"],
+            "links": {
+                "amazon": "https://www.amazon.com/dp/B0D6NNWRSC/?bestFormat=true&k=death%20of%20the%20author",
+                "bookshop.org": ""
+            }
+        },
+        {
+            "title":"Sour Cherry",
+            "subtitle": "",
+            "description": "The tale begins with Agnes. After losing her baby, Agnes is called to the great manor house to nurse the local lord’s baby boy. But something is wrong with the child: his nails grow too fast, his skin smells of soil, and his eyes remind her of the dark forest. As he grows into a boy, then into man, a plague seems to follow him everywhere. Trees wither at the roots, fruits rot on their branches, and the town turns against him. The man takes a wife, who bears him a son. But tragedy strikes in cycles and his family is forced to consider their own malignancy—until wife after wife, death after death, plague after plague, every woman he touches becomes a ghost. The ghosts become a chorus, and they call urgently to our narrator as she tries to explain, in our very real world, exactly what has happened to her. The ghosts can all agree on one thing, an inescapable truth about this man, this powerful lord who has loved them and led them each to ruin: If you leave, you die. But if you die, you stay.",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author":"Natalia Theodoridou",
+            "pages": 306,
+            "rating": 0,
+            "start_date": "2099-01-01",
+            "end_date": "2099-01-01",
+            "cover": "https://cdn.jasonlawton.com/books/sour-cherry.jpg",
+            "notes": "",
+            "tags": ["to-read","nebula-nominee"],
+            "links": {
+                "amazon": "https://www.amazon.com/dp/B0CW19F8QF/?bestFormat=true&k=sour%20cherry%20book",
+                "bookshop.org": ""
+            }
+        },
+        {
+            "title":"Wearing the Lion",
+            "subtitle": "",
+            "description": "Nebula Award-winning author of Someone You Can Build a Nest In John Wiswell brings a humanizing and humorous touch to the Hercules story, forever changing the way we understand the man behind the myth—and the goddess reluctantly bound to him",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author":"John Wiswell ",
+            "pages": 386,
+            "rating": 0,
+            "start_date": "2099-01-01",
+            "end_date": "2099-01-01",
+            "cover": "https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "notes": "",
+            "tags": ["to-read","nebula-nominee"],
+            "links": {
+                "amazon": "https://www.amazon.com/Wearing-Lion-John-Wiswell-ebook/dp/B0DHBT7FV6",
+                "bookshop.org": ""
+            }
+        },
+        {
             "title": "The Incandescent",
             "subtitle": "",
             "description": "",
@@ -14,7 +134,7 @@
             "end_date": "2026-03-15",
             "cover": "https://cdn.jasonlawton.com/books/incandescent.jpg",
             "notes": "",
-            "tags": ["fiction","fantasy","lgbtqia+","adventurous","emotional","mysterious","medium-paced"],
+            "tags": ["fiction","fantasy","lgbtqia+","adventurous","emotional","mysterious","medium-paced","nebula-nominee"],
             "links": {
                 "amazon": "https://www.amazon.com/Incandescent-Emily-Tesh/dp/1250835011",
                 "bookshop.org": "https://bookshop.org/p/books/the-incandescent-emily-tesh/ea7511be7c562065?ean=9781250835017&next=t&"
@@ -6297,6 +6417,1925 @@
             "links": {
                 "amazon": "https://www.amazon.com/Regard-Silent-Things-Kingkiller-Chronicle-ebook/dp/B00J9SUF2W?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.Polgqe68vCDAQ0uFPBQfz6ng_TuS17nfRtELLYUT8m7GZRXoYOuSoqanJmL00I2wIUfqy4Lr6vQ230cE7B4xc68INyVvdNyEtxLBGpAKzRMONgIf4Qmi4ZQmg8YtFd9HTQ5WnQVY1eAkI6tNHub1OIZrwAhCS4D51q16NvfhmmTCsMQAT6InXyXEl1m3yWLS.gcAAYy8Zijn3xznr7HKg614PB18-cMSFIzSjP8mxIZc&qid=1759278453&sr=1-1",
                 "bookshop.org": "https://bookshop.org/p/books/the-slow-regard-of-silent-things-patrick-rothfuss/2c6ecfb5fd2a9c31?ean=9780756411329&next=t"
+            }
+        },
+        {
+            "title": "Dust",
+            "subtitle":"",
+            "description":"",
+            "series_name":"Silo",
+            "series_order":3,
+            "series_total":3,
+            "author":"Hugh Howey",
+            "pages":466,
+            "rating":5,
+            "start_date":"2016-11-18",
+            "end_date":"2016-12-10",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Jonathan Strange & Mr Norrell",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Susanna Clarke",
+            "pages":865,
+            "rating":3,
+            "start_date":"2016-12-10",
+            "end_date":"2016-12-31",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "The Three-Body Problem",
+            "subtitle":"",
+            "description":"",
+            "series_name":"Remembrance of Earth's Past",
+            "series_order":1,
+            "series_total":3,
+            "author":"Liu Cixin",
+            "pages":400,
+            "rating":5,
+            "start_date":"2017-01-01",
+            "end_date":"2017-01-23",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Libriomancer",
+            "subtitle":"",
+            "description":"",
+            "series_name":"Magic Ex Libris",
+            "series_order":1,
+            "series_total":4,
+            "author":"Jim C. Hines",
+            "pages":321,
+            "rating":4,
+            "start_date":"2017-01-23",
+            "end_date":"2017-02-14",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Nexus",
+            "subtitle":"",
+            "description":"",
+            "series_name":"Nexus",
+            "series_order":1,
+            "series_total":3,
+            "author":"Ramez Naam",
+            "pages":404,
+            "rating":4,
+            "start_date":"2017-02-14",
+            "end_date":"2017-03-08",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Infinite Jest",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"David Foster Wallace",
+            "pages":1079,
+            "rating":2,
+            "start_date":"2017-03-08",
+            "end_date":"2017-03-30",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":["dnf"],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Art of Atari",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Tim Lapetino",
+            "pages":352,
+            "rating":5,
+            "start_date":"2017-03-30",
+            "end_date":"2017-04-21",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Stiletto",
+            "subtitle":"",
+            "description":"",
+            "series_name":"The Checquy Files",
+            "series_order":2,
+            "series_total":4,
+            "author":"Daniel O'Malley",
+            "pages":585,
+            "rating":5,
+            "start_date":"2017-04-21",
+            "end_date":"2017-05-13",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "The Paladin Caper",
+            "subtitle":"",
+            "description":"",
+            "series_name":"Rogues of the Republic",
+            "series_order":3,
+            "series_total":3,
+            "author":"Patrick Weekes",
+            "pages":480,
+            "rating":4,
+            "start_date":"2017-05-13",
+            "end_date":"2017-06-04",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "The Prophecy Con",
+            "subtitle":"",
+            "description":"",
+            "series_name":"Rogues of the Republic",
+            "series_order":2,
+            "series_total":3,
+            "author":"Patrick Weekes",
+            "pages":512,
+            "rating":4,
+            "start_date":"2017-06-04",
+            "end_date":"2017-06-26",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Annihilation (Southern Reach, #1)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"Souther Reach",
+            "series_order":1,
+            "series_total":3,
+            "author":"Jeff VanderMeer",
+            "pages":210,
+            "rating":5,
+            "start_date":"2017-06-26",
+            "end_date":"2017-07-18",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "The Eyre Affair (Thursday Next, #1)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"Thursday Next",
+            "series_order":1,
+            "series_total":8,
+            "author":"Jasper Fforde",
+            "pages":385,
+            "rating":5,
+            "start_date":"2017-07-18",
+            "end_date":"2017-08-09",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Red Seas Under Red Skies",
+            "subtitle":"",
+            "description":"",
+            "series_name":"Gentleman Bastard",
+            "series_order":2,
+            "series_total":3,
+            "author":"Scott Lynch",
+            "pages":578,
+            "rating":4,
+            "start_date":"2017-08-09",
+            "end_date":"2017-08-31",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Barsk: The Elephants' Graveyard",
+            "subtitle":"",
+            "description":"",
+            "series_name":"Barsk",
+            "series_order":1,
+            "series_total":2,
+            "author":"Lawrence M. Schoen",
+            "pages":385,
+            "rating":5,
+            "start_date":"2017-08-31",
+            "end_date":"2017-09-22",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "The Lathe of Heaven",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Ursula K. Le Guin",
+            "pages":155,
+            "rating":4,
+            "start_date":"2017-09-22",
+            "end_date":"2017-10-14",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Death's End",
+            "subtitle":"",
+            "description":"",
+            "series_name":"Remembrance of Earth's Past",
+            "series_order":3,
+            "series_total":3,
+            "author":"Liu Cixin",
+            "pages":605,
+            "rating":4,
+            "start_date":"2017-10-14",
+            "end_date":"2017-11-05",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "The Long Way to a Small, Angry Planet",
+            "subtitle":"",
+            "description":"",
+            "series_name":"Wayfarers",
+            "series_order":1,
+            "series_total":4,
+            "author":"Becky Chambers",
+            "pages":423,
+            "rating":5,
+            "start_date":"2017-11-05",
+            "end_date":"2017-11-27",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "The Punch Escrow",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Tal M. Klein",
+            "pages":333,
+            "rating":4,
+            "start_date":"2017-11-27",
+            "end_date":"2017-12-19",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "A Closed and Common Orbit",
+            "subtitle":"",
+            "description":"",
+            "series_name":"Wayfarers",
+            "series_order":2,
+            "series_total":4,
+            "author":"Becky Chambers",
+            "pages":365,
+            "rating":5,
+            "start_date":"2017-12-19",
+            "end_date":"2018-01-10",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "All Systems Red",
+            "subtitle":"",
+            "description":"",
+            "series_name":"The Murderbot Diaries",
+            "series_order":1,
+            "series_total":7,
+            "author":"Martha Wells",
+            "pages":156,
+            "rating":4,
+            "start_date":"2018-01-10",
+            "end_date":"2018-02-01",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "The Collapsing Empire (The Interdependency, #1)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"John Scalzi",
+            "pages":336,
+            "rating":3,
+            "start_date":"2018-02-01",
+            "end_date":"2018-02-23",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Written in Fire (Brilliance Saga, #3)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Marcus Sakey",
+            "pages":348,
+            "rating":4,
+            "start_date":"2018-02-23",
+            "end_date":"2018-03-17",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "A Better World (Brilliance Saga, #2)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Marcus Sakey",
+            "pages":391,
+            "rating":4,
+            "start_date":"2018-03-17",
+            "end_date":"2018-04-08",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Spook Country (Blue Ant, #2)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"William Gibson",
+            "pages":498,
+            "rating":4,
+            "start_date":"2018-04-08",
+            "end_date":"2018-04-30",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Sufficiently Advanced Magic (Arcane Ascension, #1)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Andrew Rowe",
+            "pages":625,
+            "rating":4,
+            "start_date":"2018-04-30",
+            "end_date":"2018-05-22",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "The Left Hand of Darkness",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Ursula K. Le Guin",
+            "pages":320,
+            "rating":4,
+            "start_date":"2018-05-22",
+            "end_date":"2018-06-13",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "A Wizard of Earthsea (Earthsea Cycle, #1)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Ursula K. Le Guin",
+            "pages":210,
+            "rating":5,
+            "start_date":"2018-06-13",
+            "end_date":"2018-07-05",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "World of Trouble (The Last Policeman Book, #3)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Ben H. Winters",
+            "pages":322,
+            "rating":4,
+            "start_date":"2018-07-05",
+            "end_date":"2018-07-27",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Countdown City (Last Policeman, #2)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Ben H. Winters",
+            "pages":320,
+            "rating":4,
+            "start_date":"2018-07-27",
+            "end_date":"2018-08-18",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "The Strange Case of the Alchemist's Daughter (The Extraordinary Adventures of the Athena Club, #1)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Theodora Goss",
+            "pages":417,
+            "rating":5,
+            "start_date":"2018-08-18",
+            "end_date":"2018-09-09",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "The Long Earth (The Long Earth, #1)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Stephen Baxter",
+            "pages":336,
+            "rating":4,
+            "start_date":"2018-09-09",
+            "end_date":"2018-10-01",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "The Paper Magician (The Paper Magician #1)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Charlie N. Holmberg",
+            "pages":234,
+            "rating":4,
+            "start_date":"2018-10-01",
+            "end_date":"2018-10-23",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "I Am Number Four (Lorien Legacies, #1)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Pittacus Lore",
+            "pages":452,
+            "rating":3,
+            "start_date":"2018-10-23",
+            "end_date":"2018-11-14",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "European Travel for the Monstrous Gentlewoman (The Extraordinary Adventures of the Athena Club, #2)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Theodora Goss",
+            "pages":721,
+            "rating":5,
+            "start_date":"2018-11-14",
+            "end_date":"2018-12-06",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Off to Be the Wizard (Magic 2.0, #1)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Scott  Meyer",
+            "pages":277,
+            "rating":4,
+            "start_date":"2018-12-06",
+            "end_date":"2019-01-01",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "A Girl in Time (A Girl in Time #1)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"John Birmingham",
+            "pages":352,
+            "rating":3,
+            "start_date":"2019-01-31",
+            "end_date":"2019-01-31",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Children of Blood and Bone (Legacy of Orïsha, #1)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Tomi Adeyemi",
+            "pages":525,
+            "rating":3,
+            "start_date":"2019-02-07",
+            "end_date":"2019-02-07",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "The Fifth Season (The Broken Earth, #1)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"N.K. Jemisin",
+            "pages":355,
+            "rating":4,
+            "start_date":"2019-02-17",
+            "end_date":"2019-02-17",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Waking Gods (Themis Files, #2)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Sylvain Neuvel",
+            "pages":336,
+            "rating":3,
+            "start_date":"2019-02-26",
+            "end_date":"2019-02-26",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "A Big Ship at the Edge of the Universe (The Salvagers, #1)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Alex White",
+            "pages":477,
+            "rating":4,
+            "start_date":"2019-03-21",
+            "end_date":"2019-03-21",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Record of a Spaceborn Few (Wayfarers, #3)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Becky Chambers",
+            "pages":368,
+            "rating":5,
+            "start_date":"2019-04-04",
+            "end_date":"2019-04-04",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Hyperion (Hyperion Cantos, #1)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Dan Simmons",
+            "pages":483,
+            "rating":3,
+            "start_date":"2019-05-08",
+            "end_date":"2019-05-08",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "One Word Kill (Impossible Times, #1)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Mark  Lawrence",
+            "pages":201,
+            "rating":3,
+            "start_date":"2019-05-18",
+            "end_date":"2019-05-18",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Witchmark (The Kingston Cycle, #1)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"C.L. Polk",
+            "pages":318,
+            "rating":4,
+            "start_date":"2019-05-24",
+            "end_date":"2019-05-24",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Spinning Silver",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Naomi Novik",
+            "pages":465,
+            "rating":5,
+            "start_date":"2019-06-15",
+            "end_date":"2019-06-15",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Trail of Lightning (The Sixth World, #1)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Rebecca Roanhorse",
+            "pages":263,
+            "rating":4,
+            "start_date":"2019-06-18",
+            "end_date":"2019-06-18",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Blackfish City",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Sam J. Miller",
+            "pages":331,
+            "rating":4,
+            "start_date":"2019-06-21",
+            "end_date":"2019-06-21",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "The Poppy War (The Poppy War, #1)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"R.F. Kuang",
+            "pages":545,
+            "rating":3,
+            "start_date":"2019-07-08",
+            "end_date":"2019-07-08",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Storm Front (The Dresden Files, #1)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Jim  Butcher",
+            "pages":312,
+            "rating":4,
+            "start_date":"2019-07-17",
+            "end_date":"2019-07-17",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Lord of Light",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Roger Zelazny",
+            "pages":292,
+            "rating":2,
+            "start_date":"2019-08-11",
+            "end_date":"2019-08-11",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Uprooted",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Naomi Novik",
+            "pages":465,
+            "rating":4,
+            "start_date":"2019-08-24",
+            "end_date":"2019-08-24",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Six Wakes",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Mur Lafferty",
+            "pages":400,
+            "rating":4,
+            "start_date":"2019-08-30",
+            "end_date":"2019-08-30",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Quantum (Captain Chase, #1)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Patricia Cornwell",
+            "pages":355,
+            "rating":3,
+            "start_date":"2019-09-10",
+            "end_date":"2019-09-10",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "The Cruel Stars (The Cruel Stars, #1)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"John Birmingham",
+            "pages":449,
+            "rating":3,
+            "start_date":"2019-09-25",
+            "end_date":"2019-09-25",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Tooth and Claw",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Jo Walton",
+            "pages":321,
+            "rating":3,
+            "start_date":"2019-10-26",
+            "end_date":"2019-10-26",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "The Sinister Mystery of the Mesmerizing Girl (The Extraordinary Adventures of the Athena Club #3)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Theodora Goss",
+            "pages":445,
+            "rating":4,
+            "start_date":"2019-11-23",
+            "end_date":"2019-11-23",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "This Is How You Lose the Time War",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Amal El-Mohtar",
+            "pages":209,
+            "rating":4,
+            "start_date":"2019-11-26",
+            "end_date":"2019-11-26",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "The Test",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Sylvain Neuvel",
+            "pages":112,
+            "rating":4,
+            "start_date":"2019-11-26",
+            "end_date":"2019-11-26",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Recursion",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Blake Crouch",
+            "pages":324,
+            "rating":4,
+            "start_date":"2019-12-07",
+            "end_date":"2019-12-07",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "The Plastic Magician (The Paper Magician, #4)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Charlie N. Holmberg",
+            "pages":233,
+            "rating":4,
+            "start_date":"2019-12-19",
+            "end_date":"2019-12-19",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Every Heart a Doorway (Wayward Children, #1)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Seanan McGuire",
+            "pages":176,
+            "rating":4,
+            "start_date":"2019-12-19",
+            "end_date":"2019-12-19",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "To Be Taught, If Fortunate",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Becky Chambers",
+            "pages":160,
+            "rating":4,
+            "start_date":"2019-12-25",
+            "end_date":"2019-12-25",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Three Parts Dead (Craft Sequence, #1)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Max Gladstone",
+            "pages":334,
+            "rating":4,
+            "start_date":"2020-01-08",
+            "end_date":"2020-01-08",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Exhalation",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Ted Chiang",
+            "pages":368,
+            "rating":5,
+            "start_date":"2020-01-16",
+            "end_date":"2020-01-16",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Beneath the Sugar Sky (Wayward Children, #3)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Seanan McGuire",
+            "pages":174,
+            "rating":4,
+            "start_date":"2020-01-21",
+            "end_date":"2020-01-21",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Dark Matter",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Blake Crouch",
+            "pages":342,
+            "rating":4,
+            "start_date":"2020-01-21",
+            "end_date":"2020-01-21",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Artemis",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Andy Weir",
+            "pages":305,
+            "rating":4,
+            "start_date":"2020-01-21",
+            "end_date":"2020-01-21",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Rendezvous with Rama (Rama, #1)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Arthur C. Clarke",
+            "pages":243,
+            "rating":0,
+            "start_date":"2020-01-21",
+            "end_date":"2020-01-21",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Red Rising (Red Rising Saga, #1)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Pierce Brown",
+            "pages":382,
+            "rating":0,
+            "start_date":"2020-01-21",
+            "end_date":"2020-01-21",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Mockingjay (The Hunger Games, #3)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Suzanne Collins",
+            "pages":390,
+            "rating":0,
+            "start_date":"2020-01-21",
+            "end_date":"2020-01-21",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Catching Fire (The Hunger Games, #2)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Suzanne Collins",
+            "pages":391,
+            "rating":0,
+            "start_date":"2020-01-21",
+            "end_date":"2020-01-21",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Brave New World",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Aldous Huxley",
+            "pages":268,
+            "rating":0,
+            "start_date":"2020-01-21",
+            "end_date":"2020-01-21",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "The Hunger Games (The Hunger Games, #1)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Suzanne Collins",
+            "pages":374,
+            "rating":0,
+            "start_date":"2020-01-21",
+            "end_date":"2020-01-21",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Ready Player One (Ready Player One, #1)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Ernest Cline",
+            "pages":480,
+            "rating":0,
+            "start_date":"2020-01-21",
+            "end_date":"2020-01-21",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "The Hitchhiker’s Guide to the Galaxy (The Hitchhiker's Guide to the Galaxy, #1)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Douglas Adams",
+            "pages":193,
+            "rating":0,
+            "start_date":"2020-01-21",
+            "end_date":"2020-01-21",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "The Sparrow (The Sparrow, #1)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Mary Doria Russell",
+            "pages":518,
+            "rating":3,
+            "start_date":"2020-02-05",
+            "end_date":"2020-02-05",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Cinder (The Lunar Chronicles, #1)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Marissa Meyer",
+            "pages":345,
+            "rating":3,
+            "start_date":"2020-02-18",
+            "end_date":"2020-02-18",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Scarlet (The Lunar Chronicles, #2)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Marissa Meyer",
+            "pages":332,
+            "rating":4,
+            "start_date":"2020-03-03",
+            "end_date":"2020-03-03",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Warcross (Warcross, #1)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Marie Lu",
+            "pages":368,
+            "rating":3,
+            "start_date":"2020-03-12",
+            "end_date":"2020-03-12",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Wildcard (Warcross #2)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Marie Lu",
+            "pages":352,
+            "rating":3,
+            "start_date":"2020-03-29",
+            "end_date":"2020-03-29",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "The Master Magician (The Paper Magician, #3)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Charlie N. Holmberg",
+            "pages":226,
+            "rating":0,
+            "start_date":"2020-06-07",
+            "end_date":"2020-06-07",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Gideon the Ninth (The Locked Tomb, #1)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Tamsyn Muir",
+            "pages":479,
+            "rating":4,
+            "start_date":"2020-07-15",
+            "end_date":"2020-07-15",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "The Ten Thousand Doors of January",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Alix E. Harrow",
+            "pages":385,
+            "rating":4,
+            "start_date":"2020-12-11",
+            "end_date":"2020-12-11",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Spellbreaker (Spellbreaker Duology, #1)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Charlie N. Holmberg",
+            "pages":305,
+            "rating":4,
+            "start_date":"2020-12-16",
+            "end_date":"2020-12-16",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "An Unwelcome Quest (Magic 2.0, #3)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Scott  Meyer",
+            "pages":434,
+            "rating":3,
+            "start_date":"2020-12-24",
+            "end_date":"2020-12-24",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "A Deadly Education (The Scholomance, #1)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Naomi Novik",
+            "pages":338,
+            "rating":4,
+            "start_date":"2021-01-05",
+            "end_date":"2021-01-05",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Fool Moon (The Dresden Files, #2)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Jim  Butcher",
+            "pages":432,
+            "rating":4,
+            "start_date":"2021-01-15",
+            "end_date":"2021-01-15",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Harrow the Ninth (The Locked Tomb, #2)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Tamsyn Muir",
+            "pages":512,
+            "rating":3,
+            "start_date":"2021-02-06",
+            "end_date":"2021-02-06",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Lost in a Good Book (Thursday Next, #2)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Jasper Fforde",
+            "pages":379,
+            "rating":4,
+            "start_date":"2021-02-12",
+            "end_date":"2021-02-12",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "The Starless Sea",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Erin Morgenstern",
+            "pages":499,
+            "rating":3,
+            "start_date":"2021-04-10",
+            "end_date":"2021-04-10",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Spellmaker (Spellbreaker Duology, #2)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Charlie N. Holmberg",
+            "pages":301,
+            "rating":4,
+            "start_date":"2021-05-04",
+            "end_date":"2021-05-04",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "The Galaxy, and the Ground Within (Wayfarers, #4)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Becky Chambers",
+            "pages":333,
+            "rating":5,
+            "start_date":"2021-05-09",
+            "end_date":"2021-05-09",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "The Tombs of Atuan (Earthsea Cycle, #2)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Ursula K. Le Guin",
+            "pages":196,
+            "rating":4,
+            "start_date":"2021-05-16",
+            "end_date":"2021-05-16",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Piranesi",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Susanna Clarke",
+            "pages":246,
+            "rating":5,
+            "start_date":"2021-05-22",
+            "end_date":"2021-05-22",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "The City We Became (Great Cities, #1)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"N.K. Jemisin",
+            "pages":481,
+            "rating":3,
+            "start_date":"2021-06-17",
+            "end_date":"2021-06-17",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Black Sun (Between Earth and Sky, #1)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Rebecca Roanhorse",
+            "pages":461,
+            "rating":3,
+            "start_date":"2021-06-25",
+            "end_date":"2021-06-25",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Network Effect (The Murderbot Diaries, #5)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Martha Wells",
+            "pages":346,
+            "rating":4,
+            "start_date":"2021-06-30",
+            "end_date":"2021-06-30",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "The Midnight Bargain",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"C.L. Polk",
+            "pages":386,
+            "rating":4,
+            "start_date":"2021-07-16",
+            "end_date":"2021-07-16",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "Mexican Gothic",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Silvia Moreno-Garcia",
+            "pages":304,
+            "rating":4,
+            "start_date":"2021-07-20",
+            "end_date":"2021-07-20",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "A Psalm for the Wild-Built (Monk & Robot, #1)",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Becky Chambers",
+            "pages":151,
+            "rating":5,
+            "start_date":"2021-07-27",
+            "end_date":"2021-07-27",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
+            }
+        },
+        {
+            "title": "The Midnight Library",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Matt Haig",
+            "pages":288,
+            "rating":3,
+            "start_date":"2021-08-21",
+            "end_date":"2021-08-21",
+            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
+            "tags":[],
+            "links":{
+                "amazon":"",
+                "bookshop.org":""
             }
         }
     ]
