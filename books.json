@@ -1,6 +1,30 @@
 {
     "books": [
         {
+            "title": "Anxious People",
+            "subtitle": "",
+            "description": "From the #1 New York Times bestselling author of A Man Called Ove comes a charming, poignant novel about a crime that never took place, a would-be bank robber who disappears into thin air, and eight extremely anxious strangers who find they have more in common than they ever imagined.",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author": "Fredrik Backman",
+            "pages": 349,
+            "rating": 0,
+            "start_date": "2026-03-24",
+            "end_date": "2026-03-24",
+            "cover": "https://cdn.jasonlawton.com/books/anxious-people.jpg",
+            "notes": "",
+            "tags": [
+                "currently-reading",
+                "book-club",
+                "fiction","contemporary","literary","mystery","emotional","funny","hopeful","medium-paced"
+            ],
+            "links": {
+                "amazon": "https://www.amazon.com/Anxious-People-Novel-Fredrik-Backman-ebook/dp/B082J5KYG6",
+                "bookshop.org": "https://bookshop.org/p/books/anxious-people-fredrik-backman/688e9da1817203e3?ean=9781432889807&next=t"
+            }
+        },
+        {
             "title":"When We Were Real",
             "subtitle": "",
             "description": "JP and Dulin have been the best of friends for decades. When JP finds out his cancer has aggressively returned, Dulin decides it’s the perfect time for one last adventure: a week-long bus tour of North America’s Impossibles, the physics-defying glitches and geographic miracles that started cropping up seven years earlier—right after the Announcement that revealed our world to be merely a digital simulacrum. The outing, courtesy of Canterbury Trails Tours, promises the trip of a (not completely real) lifetime in a (not completely deluxe) coach.",
@@ -595,13 +619,12 @@
             "series_total": 3,
             "author": "William Gibson",
             "pages": 337,
-            "rating": 0,
+            "rating": 2,
             "start_date": "2026-03-15",
-            "end_date": "2026-03-15",
+            "end_date": "2026-03-24",
             "cover": "https://cdn.jasonlawton.com/books/count-zero.jpg",
-            "notes": "",
+            "notes": "None of the people are memorable or worth caring about.",
             "tags": [
-                "currently-reading",
                 "fiction",
                 "science-fiction",
                 "speculative-fiction",
