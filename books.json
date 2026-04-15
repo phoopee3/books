@@ -33,14 +33,14 @@
             "author":"Daryl Gregory",
             "pages": 458,
             "rating": 0,
-            "start_date": "2099-01-01",
-            "end_date": "2099-01-01",
+            "start_date": "2026-04-14",
+            "end_date": "2026-04-14",
             "cover": "https://cdn.jasonlawton.com/books/when-we-were-real.jpg",
             "notes": "",
-            "tags": ["to-read","nebula-nominee"],
+            "tags": ["currently-reading","nebula-nominee","fiction","science-fiction","adventurous","funny","mysterious","medium-paced"],
             "links": {
                 "amazon": "https://www.amazon.com/When-We-Were-Real-Novel-ebook/dp/B0D6WPHTK3",
-                "bookshop.org": ""
+                "bookshop.org": "https://bookshop.org/p/books/when-we-were-real-a-novel-daryl-gregory/9fc9b2baba048a6c?ean=9781668060049&next=t"
             }
         },
         {
@@ -92,15 +92,15 @@
             "series_total": 0,
             "author":"Nnedi Okorafor",
             "pages": 441,
-            "rating": 0,
+            "rating": 5,
             "start_date": "2026-04-08",
-            "end_date": "2099-04-08",
+            "end_date": "2099-04-14",
             "cover": "https://cdn.jasonlawton.com/books/death-of-the-author.jpg",
             "notes": "",
-            "tags": ["currently-reading","nebula-nominee"],
+            "tags": ["nebula-nominee","fiction","literary","science-fiction","thriller","adventurous","emotional","reflective","medium-paced"],
             "links": {
                 "amazon": "https://www.amazon.com/dp/B0D6NNWRSC/?bestFormat=true&k=death%20of%20the%20author",
-                "bookshop.org": ""
+                "bookshop.org": "https://bookshop.org/p/books/death-of-the-author-standard-edition-a-novel-nnedi-okorafor/ee49a8eb71c6af21?ean=9780063445789&next=t"
             }
         },
         {
