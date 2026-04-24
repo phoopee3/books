@@ -1,6 +1,29 @@
 {
     "books": [
         {
+            "title": "Death on the Caldera",
+            "subtitle": "",
+            "description": "The Linde siblings—Kellen, Davina, and Morel—are anxious to return to the kingdom of Halgyr before their father dies, leaving Kellen to assume the throne as king. They book tickets on a luxury express train, expecting a swift journey home—but disaster strikes when the train engine explodes, stranding the siblings atop a caldera bubbling with volcanic magic. The crash triggers Davina’s latent witch powers, but her magic disrupts her ability to remember what she was doing when the explosion took place. While a witch would be the prime suspect for the catastrophe, the only ones who knew Davina might become one are her brothers—who never warned her. And, to add insult to injury, somebody is bumping off the surviving train crew and passengers. But it can’t be Davina, can it? While the remaining passengers try to determine who sabotaged the engine and catch the killer, the fractured siblings attempt to stay one step ahead, concealing not only Davina’s powers but their own secrets. Luckily, they aren’t the only shifty characters on the train… A thrilling blend of classic murder mystery and fantasy for those who love Murder on the Orient Express and Death on the Nile every bit as much as Fourth Wing and A Court of Thorns and Roses.",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author": "Emily Paxman",
+            "pages": 448,
+            "rating": 0,
+            "start_date": "2099-01-01",
+            "end_date": "2099-01-01",
+            "cover": "https://cdn.jasonlawton.com/books/death-on-the-caldera.jpg",
+            "notes": "",
+            "tags": [
+                "to-read",
+                "fiction","crime","fantasy","mystery","adventurous","mysterious","medium-paced"
+            ],
+            "links": {
+                "amazon": "https://www.amazon.com/Death-Caldera-Emily-Paxman/dp/1835411584",
+                "bookshop.org": "https://bookshop.org/p/books/death-on-the-caldera-emily-paxman/2ad57e471c28d44a?ean=9781835411582&next=t"
+            }
+        },
+        {
             "title": "Anxious People",
             "subtitle": "",
             "description": "From the #1 New York Times bestselling author of A Man Called Ove comes a charming, poignant novel about a crime that never took place, a would-be bank robber who disappears into thin air, and eight extremely anxious strangers who find they have more in common than they ever imagined.",
