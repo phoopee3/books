@@ -1,6 +1,52 @@
 {
     "books": [
         {
+            "title": "The Everlasting",
+            "subtitle": "",
+            "description": "",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author": "Alix E. Harrow",
+            "pages": 309,
+            "rating": 0,
+            "start_date": "2099-01-01",
+            "end_date": "2099-01-01",
+            "cover": "https://cdn.jasonlawton.com/books/the-everlasting.jpg",
+            "notes": "",
+            "tags": [
+                "to-read",
+                "hug-nominee"
+            ],
+            "links": {
+                "amazon": "https://www.amazon.com/Everlasting-Alix-Harrow-ebook/dp/B0DVR1JTYZ",
+                "bookshop.org": ""
+            }
+        },
+        {
+            "title": "The Raven Scholar",
+            "subtitle": "",
+            "description": "",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author": "Antonia Hodgson",
+            "pages": 667,
+            "rating": 0,
+            "start_date": "2099-01-01",
+            "end_date": "2099-01-01",
+            "cover": "https://cdn.jasonlawton.com/books/raven-scholar.jpg",
+            "notes": "",
+            "tags": [
+                "to-read",
+                "hugo-nominee"
+            ],
+            "links": {
+                "amazon": "https://www.amazon.com/Raven-Scholar-Eternal-Path-Trilogy-ebook/dp/B0DC696XNV",
+                "bookshop.org": ""
+            }
+        },
+        {
             "title": "Death on the Caldera",
             "subtitle": "",
             "description": "The Linde siblings—Kellen, Davina, and Morel—are anxious to return to the kingdom of Halgyr before their father dies, leaving Kellen to assume the throne as king. They book tickets on a luxury express train, expecting a swift journey home—but disaster strikes when the train engine explodes, stranding the siblings atop a caldera bubbling with volcanic magic. The crash triggers Davina’s latent witch powers, but her magic disrupts her ability to remember what she was doing when the explosion took place. While a witch would be the prime suspect for the catastrophe, the only ones who knew Davina might become one are her brothers—who never warned her. And, to add insult to injury, somebody is bumping off the surviving train crew and passengers. But it can’t be Davina, can it? While the remaining passengers try to determine who sabotaged the engine and catch the killer, the fractured siblings attempt to stay one step ahead, concealing not only Davina’s powers but their own secrets. Luckily, they aren’t the only shifty characters on the train… A thrilling blend of classic murder mystery and fantasy for those who love Murder on the Orient Express and Death on the Nile every bit as much as Fourth Wing and A Court of Thorns and Roses.",
@@ -120,7 +166,8 @@
             "end_date": "2026-04-14",
             "cover": "https://cdn.jasonlawton.com/books/death-of-the-author.jpg",
             "notes": "",
-            "tags": ["nebula-nominee","fiction","literary","science-fiction","thriller","adventurous","emotional","reflective","medium-paced"],
+            "tags": ["nebula-nominee","fiction","literary","science-fiction","thriller","adventurous","emotional","reflective","medium-paced",
+                "hugo-nominee"],
             "links": {
                 "amazon": "https://www.amazon.com/dp/B0D6NNWRSC/?bestFormat=true&k=death%20of%20the%20author",
                 "bookshop.org": "https://bookshop.org/p/books/death-of-the-author-standard-edition-a-novel-nnedi-okorafor/ee49a8eb71c6af21?ean=9780063445789&next=t"
@@ -180,7 +227,8 @@
             "end_date": "2026-03-15",
             "cover": "https://cdn.jasonlawton.com/books/incandescent.jpg",
             "notes": "",
-            "tags": ["fiction","fantasy","lgbtqia+","adventurous","emotional","mysterious","medium-paced","nebula-nominee"],
+            "tags": ["fiction","fantasy","lgbtqia+","adventurous","emotional","mysterious","medium-paced","nebula-nominee",
+                "hugo-nominee"],
             "links": {
                 "amazon": "https://www.amazon.com/Incandescent-Emily-Tesh/dp/1250835011",
                 "bookshop.org": "https://bookshop.org/p/books/the-incandescent-emily-tesh/ea7511be7c562065?ean=9781250835017&next=t&"
@@ -1056,7 +1104,8 @@
                 "adventurous",
                 "mysterious",
                 "tense",
-                "medium-paced"
+                "medium-paced",
+                "hugo-nominee"
             ],
             "links": {
                 "amazon": "https://a.co/d/1ivLJ7A",
@@ -1195,7 +1244,8 @@
                 "adventurous",
                 "dark",
                 "mysterious",
-                "medium-paced"
+                "medium-paced",
+                "hugo-nominee"
             ],
             "links": {
                 "amazon": "https://www.amazon.com/Drop-Corruption-Mystery-Shadow-Leviathan-ebook/dp/B0D4HRSDSJ/ref=sr_1_1?dib=eyJ2IjoiMSJ9.n9Eqvw-O2B2IQDhv1n-1l2qRfKap8I5OgNVADNbp-uBLbsXOPlPzv8I_snN-qGfKo33-2mrSOoSYzHcJP06chJEqKOVgbst7_YHDb5XmqUk.AWJ9sgGLVJ7KLAjrBdWzsavXzm7W5NmFe9DQ3zhk3KU&dib_tag=se&keywords=A+Drop+of+Corruption+Robert+Jackson+Bennett&qid=1754449469&s=books&sr=1-1",
@@ -2220,7 +2270,7 @@
             "cover": "https://cdn.jasonlawton.com/books/cw_200_350.jpg",
             "notes": "",
             "tags": [
-                "hugo-nominated",
+                "hugo-nominee",
                 "hugo-winner",
                 "short-stories",
                 "science-fiction"
@@ -2243,7 +2293,7 @@
             "cover": "https://cdn.jasonlawton.com/books/thornhedge.jpg",
             "notes": "",
             "tags": [
-                "hugo-nominated",
+                "hugo-nominee",
                 "fiction",
                 "fantasy",
                 "adventurous",
