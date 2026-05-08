@@ -1,6 +1,52 @@
 {
     "books": [
         {
+            "title": "The Tennis Partner",
+            "subtitle": "",
+            "description": "",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author": "Abraham Verghese",
+            "pages": 345,
+            "rating": 5,
+            "start_date": "2099-01-01",
+            "end_date": "2099-01-01",
+            "cover": "https://cdn.jasonlawton.com/books/tennis-partner.jpg",
+            "notes": "",
+            "tags": [
+                "to-read",
+                "book-club",
+                "nonfiction","memoir","inspiring","sad","slow-paced"
+            ],
+            "links": {
+                "amazon": "https://www.amazon.com/Tennis-Partner-Doctors-Story-Friendship-ebook/dp/B0CKT7N5VW",
+                "bookshop.org": "https://bookshop.org/p/books/the-tennis-partner-a-doctor-s-story-of-friendship-and-loss-abraham-verghese/e1b44288b71e1e48?ean=9780062116390&next=t"
+            }
+        },
+        {
+            "title": "Never Let Me Go",
+            "subtitle": "",
+            "description": "",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author": "Kazuo Ishiguro",
+            "pages": 304,
+            "rating": 0,
+            "start_date": "2099-01-01",
+            "end_date": "2099-01-01",
+            "cover": "https://cdn.jasonlawton.com/books/never-let-me-go.jpg",
+            "notes": "",
+            "tags": [
+                "to-read",
+                "book-club","fiction","dystopian","literary","science-fiction","emotional","reflective","sad","slow-paced"
+            ],
+            "links": {
+                "amazon": "https://www.amazon.com/Never-Let-Me-Kazuo-Ishiguro/dp/1400078776",
+                "bookshop.org": "https://bookshop.org/p/books/never-let-me-go-kazuo-ishiguro/48790021311d89fc?ean=9781400078776&next=t"
+            }
+        },{
             "title": "The Everlasting",
             "subtitle": "",
             "description": "",
