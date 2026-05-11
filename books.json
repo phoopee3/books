@@ -15,7 +15,7 @@
             "cover": "https://cdn.jasonlawton.com/books/tennis-partner.jpg",
             "notes": "",
             "tags": [
-                "to-read",
+                "currently-reading",
                 "book-club",
                 "nonfiction","memoir","inspiring","sad","slow-paced"
             ],
@@ -39,7 +39,7 @@
             "cover": "https://cdn.jasonlawton.com/books/never-let-me-go.jpg",
             "notes": "",
             "tags": [
-                "to-read",
+                "currently-reading",
                 "book-club","fiction","dystopian","literary","science-fiction","emotional","reflective","sad","slow-paced"
             ],
             "links": {
@@ -78,13 +78,12 @@
             "series_total": 0,
             "author": "Antonia Hodgson",
             "pages": 667,
-            "rating": 0,
+            "rating": 5,
             "start_date": "2026-05-01",
-            "end_date": "2026-05-01",
+            "end_date": "2026-05-11",
             "cover": "https://cdn.jasonlawton.com/books/raven-scholar.jpg",
             "notes": "",
             "tags": [
-                "currently-reading",
                 "hugo-nominee","fiction","fantasy","adventurous","mysterious","tense","medium-paced"
             ],
             "links": {
