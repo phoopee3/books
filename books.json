@@ -1,6 +1,27 @@
 {
     "books": [
         {
+            "title": "Green City Wars",
+            "subtitle": "",
+            "description": "",
+            "series_name": "",
+            "series_order": 0,
+            "series_total": 0,
+            "author": "Adrian Tchaikovsky",
+            "pages": 368,
+            "rating": 0,
+            "start_date": "2026-07-01",
+            "end_date": "2026-07-01",
+            "cover": "https://cdn.jasonlawton.com/books/green-city-wars.jpg",
+            "notes": "",
+            "tags": [
+                "currently-reading","fiction","science-fiction","adventurous","mysterious","tense","medium-paced"
+            ],
+            "links": {
+                "amazon": "https://www.amazon.com/Green-City-Wars-Adrian-Tchaikovsky/dp/1250290333",
+                "bookshop.org": "https://bookshop.org/p/books/green-city-wars-adrian-tchaikovsky/077ea313dd786598?ean=9781250290335"
+            }
+        },{
             "title": "Nine Goblins",
             "subtitle": "",
             "description": "",
@@ -9,13 +30,13 @@
             "series_total": 0,
             "author": "T. Kingfisher",
             "pages": 139,
-            "rating": 0,
+            "rating": 4,
             "start_date": "2026-06-29",
-            "end_date": "2026-06-29",
+            "end_date": "2026-07-01",
             "cover": "https://cdn.jasonlawton.com/books/nine-goblins.jpg",
-            "notes": "",
+            "notes": "Cute, funny, short, a fun read.",
             "tags": [
-                "currently-reading","fiction","fantasy","adventurous","funny","lighthearted","fast-paced"
+                "fiction","fantasy","adventurous","funny","lighthearted","fast-paced"
             ],
             "links": {
                 "amazon": "https://www.amazon.com/Nine-Goblins-Tale-Fantasy-Mischief-ebook/dp/B0DZWGGMCK",
