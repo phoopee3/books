@@ -1,6 +1,27 @@
 {
     "books": [
         {
+            "title": "Wizard of Earthsea",
+            "subtitle": "",
+            "description": "",
+            "series_name": "The Earthsea Cycle",
+            "series_order": 1,
+            "series_total": 6,
+            "author": "Ursula K. LeGuin",
+            "pages": 183,
+            "rating": 0,
+            "start_date": "2026-07-08",
+            "end_date": "2026-07-08",
+            "cover": "https://cdn.jasonlawton.com/books/wizard-of-earthsea.jpg",
+            "notes": "",
+            "tags": [
+                "currently-reading","fiction","classics","fantasy","young-adult","adventurous","medium-paced"
+            ],
+            "links": {
+                "amazon": "https://www.amazon.com/Wizard-Earthsea-Cycle-Book-ebook/dp/B008T9L6AM",
+                "bookshop.org": "https://bookshop.org/p/books/a-wizard-of-earthsea-ursula-k-le-guin/049802e1be49c5ec?ean=9780547722023"
+            }
+        },{
             "title": "Green City Wars",
             "subtitle": "",
             "description": "",
@@ -9,13 +30,13 @@
             "series_total": 0,
             "author": "Adrian Tchaikovsky",
             "pages": 368,
-            "rating": 0,
+            "rating": 4,
             "start_date": "2026-07-01",
-            "end_date": "2026-07-01",
+            "end_date": "2026-07-08",
             "cover": "https://cdn.jasonlawton.com/books/green-city-wars.jpg",
             "notes": "",
             "tags": [
-                "currently-reading","fiction","science-fiction","adventurous","mysterious","tense","medium-paced"
+                "fiction","science-fiction","adventurous","mysterious","tense","medium-paced"
             ],
             "links": {
                 "amazon": "https://www.amazon.com/Green-City-Wars-Adrian-Tchaikovsky/dp/1250290333",
