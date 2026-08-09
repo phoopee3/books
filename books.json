@@ -1,6 +1,25 @@
 {
     "books": [
         {
+            "title": "Black Sun",
+            "subtitle":"",
+            "description":"",
+            "series_name":"Between Earth and Sky",
+            "series_order":1,
+            "series_total":3,
+            "author":"Rebecca Roanhorse",
+            "pages":461,
+            "rating":3,
+            "start_date":"2026-08-09",
+            "end_date":"2026-06-09",
+            "cover":"https://cdn.jasonlawton.com/books/black-sun.jpg",
+            "tags":["currently-reading","book-club","fiction","fantasy","historical","lgbtqia+","adventurous","dark","mysterious","medium-paced"],
+            "links":{
+                "amazon":"https://www.amazon.com/Black-Sun-Between-Earth-Sky/dp/1534437681",
+                "bookshop.org":"https://bookshop.org/p/books/black-sun-rebecca-roanhorse/3909e1679169b439?ean=9781534437685&bkshp-astro=t"
+            }
+        },
+        {
             "title": "The 7 1/2 Deaths of Evelyn Hardcastle",
             "subtitle": "",
             "description": "",
@@ -9,13 +28,13 @@
             "series_total": 0,
             "author": "Stuart Turton",
             "pages": 544,
-            "rating": 0,
+            "rating": 4,
             "start_date": "2026-08-01",
-            "end_date": "2026-08-01",
+            "end_date": "2026-08-07",
             "cover": "https://cdn.jasonlawton.com/books/7-1-2-deaths-of-evelyn-hardcastle.jpg",
             "notes": "",
             "tags": [
-                "currently-reading","fiction","mystery","thriller","dark","mysterious","tense","medium-paced"
+                "book-club","fiction","mystery","thriller","dark","mysterious","tense","medium-paced"
             ],
             "links": {
                 "amazon": "https://www.amazon.com/%C2%BD-Deaths-Evelyn-Hardcastle-ebook/dp/B07CP8YXH3",
@@ -8595,22 +8614,22 @@
             }
         },
         {
-            "title": "Black Sun (Between Earth and Sky, #1)",
+            "title": "Black Sun",
             "subtitle":"",
             "description":"",
-            "series_name":"",
-            "series_order":0,
-            "series_total":0,
+            "series_name":"Between Earth and Sky",
+            "series_order":1,
+            "series_total":3,
             "author":"Rebecca Roanhorse",
             "pages":461,
             "rating":3,
             "start_date":"2021-06-25",
-            "end_date":"2021-06-25",
-            "cover":"https://cdn.jasonlawton.com/books/coming-soon.jpg",
-            "tags":["untagged"],
+            "end_date":"2021-06-30",
+            "cover":"https://cdn.jasonlawton.com/books/black-sun.jpg",
+            "tags":["fiction","fantasy","historical","lgbtqia+","adventurous","dark","mysterious","medium-paced"],
             "links":{
-                "amazon":"",
-                "bookshop.org":""
+                "amazon":"https://www.amazon.com/Black-Sun-Between-Earth-Sky/dp/1534437681",
+                "bookshop.org":"https://bookshop.org/p/books/black-sun-rebecca-roanhorse/3909e1679169b439?ean=9781534437685&bkshp-astro=t"
             }
         },
         {
