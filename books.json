@@ -1,6 +1,44 @@
 {
     "books": [
         {
+            "title": "Of Monsters and Mainframes",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Barbara Truelove",
+            "pages":424,
+            "rating":0,
+            "start_date":"2099-01-01",
+            "end_date":"2099-01-01",
+            "cover":"https://cdn.jasonlawton.com/books/monsters-and-mainframes.jpg",
+            "tags":["to-read","fiction","science-fiction","fantasy","lgbtqia+","adventurous","emotional","funny","fast-paced"],
+            "notes":""
+            "links":{
+                "amazon":"https://www.amazon.com/Monsters-Mainframes-Barbara-Truelove/dp/196472113X",
+                "bookshop.org":"https://bookshop.org/p/books/of-monsters-and-mainframes-barbara-truelove/e8151d9546a82f7d?ean=9781964721132&bkshp-astro=t"
+            }
+        },{
+            "title": "The Faith of Beasts",
+            "subtitle":"",
+            "description":"",
+            "series_name":"The Captive's War",
+            "series_order":2,
+            "series_total":2,
+            "author":"James S.A. Corey",
+            "pages":448,
+            "rating":0,
+            "start_date":"2026-08-15",
+            "end_date":"2026-08-15",
+            "cover":"https://cdn.jasonlawton.com/books/faith-of-beasts.jpg",
+            "tags":["currently-reading","fiction","science-fiction","adventurous","dark","tense","medium-paced"],
+            "notes":""
+            "links":{
+                "amazon":"https://www.amazon.com/Faith-Beasts-Captives-War/dp/0316525642",
+                "bookshop.org":"https://bookshop.org/p/books/the-faith-of-beasts-james-s-a-corey/ca22652d9fcf55ca?ean=9780316525671&bkshp-astro=t"
+            }
+        },{
             "title": "Black Sun",
             "subtitle":"",
             "description":"",
