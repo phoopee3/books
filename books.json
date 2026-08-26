@@ -20,6 +20,25 @@
                 "bookshop.org":"https://bookshop.org/p/books/of-monsters-and-mainframes-barbara-truelove/e8151d9546a82f7d?ean=9781964721132&bkshp-astro=t"
             }
         },{
+            "title": "Klara and the Sun",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Kazuo Ishiguro",
+            "pages":320,
+            "rating":0,
+            "start_date":"2026-08-26",
+            "end_date":"2026-08-26",
+            "cover":"https://cdn.jasonlawton.com/books/klara-and-the-sun.jpg",
+            "tags":["currently-reading","fiction","science-fiction","dystopian","literary","emotional","reflective","medium-paced"],
+            "notes":"",
+            "links":{
+                "amazon":"https://www.amazon.com/Klara-Sun-novel-Vintage-International/dp/0593311299",
+                "bookshop.org":"https://bookshop.org/p/books/klara-and-the-sun-a-gma-book-club-pick-a-novel-kazuo-ishiguro/adcf383b3afc3382?ean=9780593311295&bkshp-astro=t"
+            }
+        },{
             "title": "The Faith of Beasts",
             "subtitle":"",
             "description":"",
@@ -28,12 +47,12 @@
             "series_total":2,
             "author":"James S.A. Corey",
             "pages":448,
-            "rating":0,
+            "rating":3,
             "start_date":"2026-08-15",
-            "end_date":"2026-08-15",
+            "end_date":"2026-08-26",
             "cover":"https://cdn.jasonlawton.com/books/faith-of-beasts.jpg",
-            "tags":["currently-reading","fiction","science-fiction","adventurous","dark","tense","medium-paced"],
-            "notes":"",
+            "tags":["fiction","science-fiction","adventurous","dark","tense","medium-paced"],
+            "notes":"Ends on multiple cliffhangers, which annoys me. I was hoping this would be a 2-3 books series, but I realized Leviathan Wakes is 9 books, so maybe I'm in for the long haul.",
             "links":{
                 "amazon":"https://www.amazon.com/Faith-Beasts-Captives-War/dp/0316525642",
                 "bookshop.org":"https://bookshop.org/p/books/the-faith-of-beasts-james-s-a-corey/ca22652d9fcf55ca?ean=9780316525671&bkshp-astro=t"
