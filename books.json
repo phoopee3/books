@@ -1,6 +1,44 @@
 {
     "books": [
         {
+            "title": "On the Calculation of Volume I",
+            "subtitle":"",
+            "description":"",
+            "series_name":"On the Calculation of Volume",
+            "series_order":1,
+            "series_total":7,
+            "author":"Solvej Balle",
+            "pages":170,
+            "rating":0,
+            "start_date":"2099-01-01",
+            "end_date":"2099-01-01",
+            "cover":"https://cdn.jasonlawton.com/books/calculation-of-volume-1.jpg",
+            "tags":["to-read","fiction","speculative-fiction","literary","mysterious","reflective","slow-paced"],
+            "notes":"",
+            "links":{
+                "amazon":"https://www.amazon.com/dp/0811237257/?bestFormat=true",
+                "bookshop.org":"https://bookshop.org/p/books/on-the-calculation-of-volume-book-i-shortlisted-for-the-2025-international-booker-prize-solvej-balle/39837e132ef254c6?ean=9780811237253&bkshp-astro=t"
+            }
+        },{
+            "title": "Star Wars: The Paradise Snare",
+            "subtitle":"",
+            "description":"",
+            "series_name":"Star Wars: The Han Solo Trilogy - Legends",
+            "series_order":1,
+            "series_total":3,
+            "author":"A. C. Crispin",
+            "pages":320,
+            "rating":0,
+            "start_date":"2026-08-30",
+            "end_date":"2026-08-30",
+            "cover":"https://cdn.jasonlawton.com/books/star-wars-paradise-snare.jpg",
+            "tags":["currently-reading","fiction","science-fiction","fantasy","dark","reflective","sad","fast-paced"],
+            "notes":"",
+            "links":{
+                "amazon":"https://www.amazon.com/Paradise-Snare-Star-Wars-Trilogy/dp/0553574159",
+                "bookshop.org":"https://bookshop.org/p/books/the-paradise-snare-star-wars-legends-the-han-solo-trilogy-a-c-crispin/ac118f2d2ad2321c?ean=9780553574159&bkshp-astro=t"
+            }
+        },{
             "title": "Of Monsters and Mainframes",
             "subtitle":"",
             "description":"",
@@ -28,12 +66,12 @@
             "series_total":0,
             "author":"Kazuo Ishiguro",
             "pages":320,
-            "rating":0,
+            "rating":4,
             "start_date":"2026-08-26",
-            "end_date":"2026-08-26",
+            "end_date":"2026-08-30",
             "cover":"https://cdn.jasonlawton.com/books/klara-and-the-sun.jpg",
             "tags":["currently-reading","fiction","science-fiction","dystopian","literary","emotional","reflective","medium-paced"],
-            "notes":"",
+            "notes":"Another slightly-off 'there's something wrong with this world' kind of book. Really good though.",
             "links":{
                 "amazon":"https://www.amazon.com/Klara-Sun-novel-Vintage-International/dp/0593311299",
                 "bookshop.org":"https://bookshop.org/p/books/klara-and-the-sun-a-gma-book-club-pick-a-novel-kazuo-ishiguro/adcf383b3afc3382?ean=9780593311295&bkshp-astro=t"
