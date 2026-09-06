@@ -1,6 +1,44 @@
 {
     "books": [
         {
+            "title": "Nightfall and Other Stories",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Isaac Asimov",
+            "pages":416,
+            "rating":0,
+            "start_date":"2026-09-06",
+            "end_date":"2026-09-06",
+            "cover":"https://cdn.jasonlawton.com/books/nightfall.jpg",
+            "tags":["currently-reading","fiction","science-fiction","short-stories","reflective","slow-paced"],
+            "notes":"",
+            "links":{
+                "amazon":"https://www.amazon.com/Nightfall-Other-Stories-Isaac-Asimov/dp/0593357469",
+                "bookshop.org":"https://bookshop.org/p/books/nightfall-and-other-stories-isaac-asimov/b6c1dfd9b4665fc1?ean=9780593357460&bkshp-astro=t"
+            }
+        },{
+            "title": "On the Calculation of Volume II",
+            "subtitle":"",
+            "description":"",
+            "series_name":"On the Calculation of Volume",
+            "series_order":2,
+            "series_total":7,
+            "author":"Solvej Balle",
+            "pages":192,
+            "rating":0,
+            "start_date":"2026-09-06",
+            "end_date":"2026-09-06",
+            "cover":"https://cdn.jasonlawton.com/books/calculation-of-volume-ii.jpg",
+            "tags":["currently-reading","fiction","literary","speculative-fiction","mysterious","reflective","medium-paced"],
+            "notes":"",
+            "links":{
+                "amazon":"https://www.amazon.com/Calculation-Book-II-Solvej-Balle/dp/0811237273",
+                "bookshop.org":"https://bookshop.org/p/books/on-the-calculation-of-volume-book-ii-solvej-balle/bc0406fa3eeba7ed?ean=9780811237277&bkshp-astro=t"
+            }
+        },{
             "title": "On the Calculation of Volume I",
             "subtitle":"",
             "description":"",
@@ -28,9 +66,9 @@
             "series_total":3,
             "author":"A. C. Crispin",
             "pages":320,
-            "rating":0,
+            "rating":2,
             "start_date":"2026-08-30",
-            "end_date":"2026-08-30",
+            "end_date":"2026-09-06",
             "cover":"https://cdn.jasonlawton.com/books/star-wars-paradise-snare.jpg",
             "tags":["currently-reading","fiction","science-fiction","fantasy","dark","reflective","sad","fast-paced"],
             "notes":"",
