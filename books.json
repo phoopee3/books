@@ -1,6 +1,44 @@
 {
     "books": [
         {
+            "title": "On the Calculation of Volume III",
+            "subtitle":"",
+            "description":"",
+            "series_name":"On the Calculation of Volume",
+            "series_order":3,
+            "series_total":7,
+            "author":"Solvej Balle",
+            "pages":176,
+            "rating":0,
+            "start_date":"2099-01-01",
+            "end_date":"2099-01-01",
+            "cover":"https://cdn.jasonlawton.com/books/on-the-calculation-of-volume-iii.jpg",
+            "tags":["to-read","fiction","literary","speculative-fiction","mysterious","reflective","medium-paced"],
+            "notes":"",
+            "links":{
+                "amazon":"https://www.amazon.com/Calculation-Book-III-Solvej-Balle/dp/0811238393",
+                "bookshop.org":"https://bookshop.org/p/books/on-the-calculation-of-volume-book-iii-solvej-balle/c439f1a4f51fcdb8?ean=9780811238397&bkshp-astro=t"
+            }
+        },{
+            "title": "Engines of Reason",
+            "subtitle":"",
+            "description":"",
+            "series_name":"Elder Race",
+            "series_order":2,
+            "series_total":2,
+            "author":"Adrian Tchaikovsky",
+            "pages":181,
+            "rating":0,
+            "start_date":"2026-09-12",
+            "end_date":"2026-09-12",
+            "cover":"https://cdn.jasonlawton.com/books/engines-of-reason.jpg",
+            "tags":["currently-reading","fiction","science-fiction","fantasy","medium-paced"],
+            "notes":"",
+            "links":{
+                "amazon":"https://www.amazon.com/Engines-Reason-Elder-Race-Book-ebook/dp/B0G76V39PB",
+                "bookshop.org":"https://bookshop.org/p/books/engines-of-reason-elder-race-book-ii-adrian-tchaikovsky/b69799af416d2980?ean=9781250388292&bkshp-astro=t"
+            }
+        },{
             "title": "Nightfall and Other Stories",
             "subtitle":"",
             "description":"",
@@ -86,10 +124,10 @@
             "author":"Barbara Truelove",
             "pages":424,
             "rating":0,
-            "start_date":"2026-09-12",
-            "end_date":"2026-09-12",
+            "start_date":"2099-01-01",
+            "end_date":"2099-01-01",
             "cover":"https://cdn.jasonlawton.com/books/monsters-and-mainframes.jpg",
-            "tags":["currently-reading","fiction","science-fiction","fantasy","lgbtqia+","adventurous","emotional","funny","fast-paced"],
+            "tags":["to-read","fiction","science-fiction","fantasy","lgbtqia+","adventurous","emotional","funny","fast-paced"],
             "notes":"",
             "links":{
                 "amazon":"https://www.amazon.com/Monsters-Mainframes-Barbara-Truelove/dp/196472113X",
@@ -4565,9 +4603,9 @@
         {
             "title": "Elder Race",
             "subtitle": "",
-            "series_name": "",
-            "series_order": 0,
-            "series_total": 0,
+            "series_name": "Elder Race",
+            "series_order": 1,
+            "series_total": 2,
             "author": "Adrian Tchaikovsky",
             "pages": 201,
             "rating": 4,
