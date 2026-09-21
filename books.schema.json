@@ -10,33 +10,37 @@
           "title": { "type": "string" },
           "subtitle": { "type": "string" },
           "series_name": { "type": "string" },
-          "series_order": { "type": "integer" },
-          "series_total": { "type": "integer" },
+          "series_order": { "type": "number" },
+          "series_total": { "type": ["number", "string"] },
           "author": { "type": "string" },
           "pages": { "type": "integer" },
           "rating": { "type": "number" },
           "start_date": { "type": "string", "format": "date" },
           "end_date": { "type": "string", "format": "date" },
           "cover": { "type": "string", "format": "uri" },
+          "description": { "type": "string" },
           "notes": { "type": "string" },
           "tags": {
             "type": "array",
             "items": { "type": "string" }
           },
           "links": {
-            "type": "object",
-            "properties": {
-              "amazon": { "type": "string", "format": "uri" },
-              "bookshop.org": { "type": "string", "format": "uri" }
-            },
-            "required": ["amazon", "bookshop.org"],
-            "additionalProperties": false
+            "anyOf": [
+              {
+                "type": "array",
+                "items": { "type": "string" }
+              },
+              {
+                "type": "object",
+                "additionalProperties": {
+                  "type": "string"
+                }
+              }
+            ]
           }
         },
         "required": [
           "title",
-          "subtitle",
-          "series_name",
           "series_order",
           "series_total",
           "author",
@@ -45,9 +49,7 @@
           "start_date",
           "end_date",
           "cover",
-          "notes",
-          "tags",
-          "links"
+          "tags"
         ],
         "additionalProperties": false
       }
