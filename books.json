@@ -1,6 +1,25 @@
 {
     "books": [
         {
+            "title": "Exit Party",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Emily St. John Mandel",
+            "pages":320,
+            "rating":0,
+            "start_date":"2026-09-21",
+            "end_date":"2026-09-21",
+            "cover":"https://cdn.jasonlawton.com/books/exit-party.jpg",
+            "tags":["fiction","crime","literary","science-fiction","emotional","mysterious","reflective","medium-paced"],
+            "notes":"",
+            "links":{
+                "amazon":"https://www.amazon.com/Exit-Party-Emily-John-Mandel/dp/0593321464",
+                "bookshop.org":"https://bookshop.org/p/books/exit-party-a-novel-emily-st-john-mandel/3ef137360aed18ae?ean=9780593321461&bkshp-astro=t"
+            }
+        },{
             "title": "On the Calculation of Volume III",
             "subtitle":"",
             "description":"",
@@ -826,7 +845,7 @@
             "series_name": "",
             "series_order": 0,
             "series_total": 0,
-            "author": "Emelity St. John Mandel",
+            "author": "Emily St. John Mandel",
             "pages": 354,
             "rating": 3,
             "start_date": "2026-02-05",
