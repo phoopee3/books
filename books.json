@@ -9,12 +9,12 @@
             "series_total":0,
             "author":"Emily St. John Mandel",
             "pages":320,
-            "rating":0,
+            "rating":4,
             "start_date":"2026-09-21",
-            "end_date":"2026-09-21",
+            "end_date":"2026-09-25",
             "cover":"https://cdn.jasonlawton.com/books/exit-party.jpg",
-            "tags":["currently-reading","fiction","crime","literary","science-fiction","emotional","mysterious","reflective","medium-paced"],
-            "notes":"",
+            "tags":["fiction","crime","literary","science-fiction","emotional","mysterious","reflective","medium-paced"],
+            "notes":"Another literary work of people in transition. This book doesnt have an ending or much of a resolution, and it is probably better off for it.",
             "links":{
                 "amazon":"https://www.amazon.com/Exit-Party-Emily-John-Mandel/dp/0593321464",
                 "bookshop.org":"https://bookshop.org/p/books/exit-party-a-novel-emily-st-john-mandel/3ef137360aed18ae?ean=9780593321461&bkshp-astro=t"
@@ -219,11 +219,11 @@
             "series_total": 0,
             "author": "Stuart Turton",
             "pages": 544,
-            "rating": 4,
+            "rating": "3.5",
             "start_date": "2026-08-01",
             "end_date": "2026-08-07",
             "cover": "https://cdn.jasonlawton.com/books/7-1-2-deaths-of-evelyn-hardcastle.jpg",
-            "notes": "",
+            "notes": "I really like this book but it falls apart at the end and thats really disappointing.",
             "tags": [
                 "book-club","fiction","mystery","thriller","dark","mysterious","tense","medium-paced"
             ],
