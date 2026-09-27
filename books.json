@@ -1,6 +1,25 @@
 {
     "books": [
         {
+            "title": "Flesh",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"David Szalay",
+            "pages":368,
+            "rating":0,
+            "start_date":"2026-09-25",
+            "end_date":"2026-09-25",
+            "cover":"https://cdn.jasonlawton.com/books/flesh.jpg",
+            "tags":["currently-reading","fiction","contemporary","literary","dark","reflective","sad","medium-paced"],
+            "notes":"",
+            "links":{
+                "amazon":"https://www.amazon.com/Flesh-Novel-Booker-Prize-Winner/dp/1982122803",
+                "bookshop.org":"https://bookshop.org/p/books/flesh-a-novel-david-szalay/a217af5986592e58?ean=9781982122799&bkshp-astro=t"
+            }
+        },{
             "title": "Exit Party",
             "subtitle":"",
             "description":"",
