@@ -1,6 +1,25 @@
 {
     "books": [
         {
+            "title": "Between Two Fires",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Christopher Buehlman",
+            "pages":448,
+            "rating":0,
+            "start_date":"2026-09-28",
+            "end_date":"2026-09-28",
+            "cover":"https://cdn.jasonlawton.com/books/between-two-fires.jpg",
+            "tags":["currently-reading","fiction","fantasy","historical","horror","adventurous","dark","tense","medium-paced"],
+            "notes":"",
+            "links":{
+                "amazon":"https://www.amazon.com/Between-Two-Fires-Christopher-Buehlman/dp/1250439205",
+                "bookshop.org":"https://bookshop.org/p/books/between-two-fires-christopher-buehlman/0f55d0b868b5b4f9?ean=9781250439208&bkshp-astro=t"
+            }
+        },{
             "title": "Flesh",
             "subtitle":"",
             "description":"",
@@ -9,12 +28,12 @@
             "series_total":0,
             "author":"David Szalay",
             "pages":368,
-            "rating":0,
-            "start_date":"2026-09-25",
-            "end_date":"2026-09-25",
+            "rating":1,
+            "start_date":"2026-09-26",
+            "end_date":"2026-09-27",
             "cover":"https://cdn.jasonlawton.com/books/flesh.jpg",
-            "tags":["currently-reading","fiction","contemporary","literary","dark","reflective","sad","medium-paced"],
-            "notes":"",
+            "tags":["fiction","contemporary","literary","dark","reflective","sad","medium-paced"],
+            "notes":"Somehow this book won an award. I think because it can be read at an intellectual level, but as a general reader, I didn't care about any of the people, and the main character wasn't even a cardboard cutout, he didn't exist.",
             "links":{
                 "amazon":"https://www.amazon.com/Flesh-Novel-Booker-Prize-Winner/dp/1982122803",
                 "bookshop.org":"https://bookshop.org/p/books/flesh-a-novel-david-szalay/a217af5986592e58?ean=9781982122799&bkshp-astro=t"
