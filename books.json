@@ -1,6 +1,44 @@
 {
     "books": [
         {
+            "title": "Motherland",
+            "subtitle":"A Feminist History of Modern Russia, from Revolution to Autocracy",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Julia Ioffe",
+            "pages":505,
+            "rating":0,
+            "start_date":"2099-01-01",
+            "end_date":"2099-01-01",
+            "cover":"https://cdn.jasonlawton.com/books/motherland.jpg",
+            "tags":["to-read","book-club","nonfiction","feminism","history","memoir","dark","informative","reflective","medium-paced"],
+            "notes":"",
+            "links":{
+                "amazon":"https://www.amazon.com/Motherland-Feminist-History-Revolution-Autocracy-ebook/dp/B0CRQHG1YV",
+                "bookshop.org":"https://bookshop.org/p/books/motherland-a-feminist-history-of-modern-russia-from-revolution-to-autocracy-julia-ioffe/44a4f5cc9482d1c9?ean=9780062879127&bkshp-astro=t"
+            }
+        },{
+            "title": "Murder by Memory",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Olivia Waite",
+            "pages":103,
+            "rating":0,
+            "start_date":"2026-09-28",
+            "end_date":"2026-09-28",
+            "cover":"https://cdn.jasonlawton.com/books/murder-by-memory.jpg",
+            "tags":["currently-reading","fiction","lgbtqia+","mystery","science-fiction","lighthearted","mysterious","fast-paced"],
+            "notes":"",
+            "links":{
+                "amazon":"https://www.amazon.com/Murder-Memory-Dorothy-Gentleman-Book-ebook/dp/B0D1PKWVDR",
+                "bookshop.org":"https://bookshop.org/p/books/murder-by-memory-olivia-waite/8e9348a46c0704d8?ean=9781250342249&bkshp-astro=t"
+            }
+        },{
             "title": "Between Two Fires",
             "subtitle":"",
             "description":"",
@@ -13,7 +51,7 @@
             "start_date":"2026-09-28",
             "end_date":"2026-09-28",
             "cover":"https://cdn.jasonlawton.com/books/between-two-fires.jpg",
-            "tags":["currently-reading","fiction","fantasy","historical","horror","adventurous","dark","tense","medium-paced"],
+            "tags":["to-read","book-club","fiction","fantasy","historical","horror","adventurous","dark","tense","medium-paced"],
             "notes":"",
             "links":{
                 "amazon":"https://www.amazon.com/Between-Two-Fires-Christopher-Buehlman/dp/1250439205",
