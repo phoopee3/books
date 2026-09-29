@@ -28,11 +28,11 @@
             "series_total":0,
             "author":"Olivia Waite",
             "pages":103,
-            "rating":0,
+            "rating":3,
             "start_date":"2026-09-28",
-            "end_date":"2026-09-28",
+            "end_date":"2026-09-29",
             "cover":"https://cdn.jasonlawton.com/books/murder-by-memory.jpg",
-            "tags":["currently-reading","fiction","lgbtqia+","mystery","science-fiction","lighthearted","mysterious","fast-paced"],
+            "tags":["fiction","lgbtqia+","mystery","science-fiction","lighthearted","mysterious","fast-paced"],
             "notes":"",
             "links":{
                 "amazon":"https://www.amazon.com/Murder-Memory-Dorothy-Gentleman-Book-ebook/dp/B0D1PKWVDR",
@@ -51,7 +51,7 @@
             "start_date":"2026-09-28",
             "end_date":"2026-09-28",
             "cover":"https://cdn.jasonlawton.com/books/between-two-fires.jpg",
-            "tags":["to-read","book-club","fiction","fantasy","historical","horror","adventurous","dark","tense","medium-paced"],
+            "tags":["currently-reading","book-club","fiction","fantasy","historical","horror","adventurous","dark","tense","medium-paced"],
             "notes":"",
             "links":{
                 "amazon":"https://www.amazon.com/Between-Two-Fires-Christopher-Buehlman/dp/1250439205",
