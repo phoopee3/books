@@ -1,6 +1,25 @@
 {
     "books": [
         {
+            "title": "We Have Always Lived in the Castle",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":" Shirley Jackson",
+            "pages":160,
+            "rating":2,
+            "start_date":"2026-10-04",
+            "end_date":"2026-10-06",
+            "cover":"https://cdn.jasonlawton.com/books/we-have-always-lived-in-the-castle.jpg",
+            "tags":["book-club","fiction","classics","horror","literary","mystery","dark","mysterious","medium-paced"],
+            "notes":"",
+            "links":{
+                "amazon":"https://www.amazon.com/Always-Castle-Penguin-Classics-Deluxe/dp/0143039970",
+                "bookshop.org":"https://bookshop.org/p/books/we-have-always-lived-in-the-castle-shirley-jackson/b29a0c451182026d?ean=9780143039976"
+            }
+        },{
             "title": "Motherland",
             "subtitle":"A Feminist History of Modern Russia, from Revolution to Autocracy",
             "description":"",
