@@ -1,13 +1,32 @@
 {
     "books": [
         {
+            "title": "Days at the Morisaki Bookshop",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Satoshi Yagisawa",
+            "pages":160,
+            "rating":0,
+            "start_date":"2026-10-11",
+            "end_date":"2026-10-11",
+            "cover":"https://cdn.jasonlawton.com/books/days-at-the-morisaki-bookshop.jpg",
+            "tags":["currently-reading","book-club","fiction","contemporary","hopeful","lighthearted","reflective","fast-paced"],
+            "notes":"",
+            "links":{
+                "amazon":"https://www.amazon.com/Days-at-Morisaki-Bookshop-Novel/dp/0063278677",
+                "bookshop.org":"https://bookshop.org/p/books/days-at-the-morisaki-bookshop-a-novel-satoshi-yagisawa/009caab776d01e5e?ean=9780063278677"
+            }
+        },{
             "title": "We Have Always Lived in the Castle",
             "subtitle":"",
             "description":"",
             "series_name":"",
             "series_order":0,
             "series_total":0,
-            "author":" Shirley Jackson",
+            "author":"Shirley Jackson",
             "pages":160,
             "rating":2,
             "start_date":"2026-10-04",
@@ -66,12 +85,12 @@
             "series_total":0,
             "author":"Christopher Buehlman",
             "pages":448,
-            "rating":0,
+            "rating":"2.5",
             "start_date":"2026-09-28",
-            "end_date":"2026-09-28",
+            "end_date":"2026-10-11",
             "cover":"https://cdn.jasonlawton.com/books/between-two-fires.jpg",
-            "tags":["currently-reading","book-club","fiction","fantasy","historical","horror","adventurous","dark","tense","medium-paced"],
-            "notes":"",
+            "tags":["book-club","fiction","fantasy","historical","horror","adventurous","dark","tense","medium-paced"],
+            "notes":"The same thing kept happening over and over again, they travel, they run into demons. We get it.",
             "links":{
                 "amazon":"https://www.amazon.com/Between-Two-Fires-Christopher-Buehlman/dp/1250439205",
                 "bookshop.org":"https://bookshop.org/p/books/between-two-fires-christopher-buehlman/0f55d0b868b5b4f9?ean=9781250439208&bkshp-astro=t"
