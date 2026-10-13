@@ -9,12 +9,12 @@
             "series_total":0,
             "author":"Satoshi Yagisawa",
             "pages":160,
-            "rating":0,
+            "rating":4,
             "start_date":"2026-10-11",
-            "end_date":"2026-10-11",
+            "end_date":"2026-10-12",
             "cover":"https://cdn.jasonlawton.com/books/days-at-the-morisaki-bookshop.jpg",
-            "tags":["currently-reading","book-club","fiction","contemporary","hopeful","lighthearted","reflective","fast-paced"],
-            "notes":"",
+            "tags":["book-club","fiction","contemporary","hopeful","lighthearted","reflective","fast-paced"],
+            "notes":"This was a cute quick read. I really needed this after reading Between Two Fires.",
             "links":{
                 "amazon":"https://www.amazon.com/Days-at-Morisaki-Bookshop-Novel/dp/0063278677",
                 "bookshop.org":"https://bookshop.org/p/books/days-at-the-morisaki-bookshop-a-novel-satoshi-yagisawa/009caab776d01e5e?ean=9780063278677"
@@ -51,7 +51,7 @@
             "start_date":"2099-01-01",
             "end_date":"2099-01-01",
             "cover":"https://cdn.jasonlawton.com/books/motherland.jpg",
-            "tags":["to-read","book-club","nonfiction","feminism","history","memoir","dark","informative","reflective","medium-paced"],
+            "tags":["currently-reading","book-club","nonfiction","feminism","history","memoir","dark","informative","reflective","medium-paced"],
             "notes":"",
             "links":{
                 "amazon":"https://www.amazon.com/Motherland-Feminist-History-Revolution-Autocracy-ebook/dp/B0CRQHG1YV",
@@ -146,7 +146,7 @@
             "start_date":"2099-01-01",
             "end_date":"2099-01-01",
             "cover":"https://cdn.jasonlawton.com/books/on-the-calculation-of-volume-iii.jpg",
-            "tags":["to-read","fiction","literary","speculative-fiction","mysterious","reflective","medium-paced"],
+            "tags":["currently-reading","fiction","literary","speculative-fiction","mysterious","reflective","medium-paced"],
             "notes":"",
             "links":{
                 "amazon":"https://www.amazon.com/Calculation-Book-III-Solvej-Balle/dp/0811238393",
