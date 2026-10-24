@@ -1,6 +1,25 @@
 {
     "books": [
         {
+            "title": "Trees",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Percival Everett",
+            "pages":288,
+            "rating":4,
+            "start_date":"2026-10-21",
+            "end_date":"2026-10-24",
+            "cover":"https://cdn.jasonlawton.com/books/trees.jpg",
+            "tags":["fiction","literary","mystery","thriller","dark","funny","mysterious","fast-paced"],
+            "notes":"This books was great. Very funny, very dark.",
+            "links":{
+                "amazon":"https://www.amazon.com/Trees-Novel-Percival-Everett/dp/164445064X/ref=sr_1_1",
+                "bookshop.org":"https://bookshop.org/p/books/trees/0cb91c9e8f6c3d7f?ean=9781644450642"
+            }
+        },{
             "title": "Days at the Morisaki Bookshop",
             "subtitle":"",
             "description":"",
@@ -144,7 +163,7 @@
             "pages":176,
             "rating":0,
             "start_date":"2026-10-12",
-            "end_date":"2026-10-12",
+            "end_date":"2026-10-20",
             "cover":"https://cdn.jasonlawton.com/books/on-the-calculation-of-volume-iii.jpg",
             "tags":["currently-reading","fiction","literary","speculative-fiction","mysterious","reflective","medium-paced"],
             "notes":"",
@@ -257,10 +276,10 @@
             "author":"Barbara Truelove",
             "pages":424,
             "rating":0,
-            "start_date":"2099-01-01",
-            "end_date":"2099-01-01",
+            "start_date":"2026-10-24",
+            "end_date":"2026-10-24",
             "cover":"https://cdn.jasonlawton.com/books/monsters-and-mainframes.jpg",
-            "tags":["to-read","fiction","science-fiction","fantasy","lgbtqia+","adventurous","emotional","funny","fast-paced"],
+            "tags":["currently-reading","fiction","science-fiction","fantasy","lgbtqia+","adventurous","emotional","funny","fast-paced"],
             "notes":"",
             "links":{
                 "amazon":"https://www.amazon.com/Monsters-Mainframes-Barbara-Truelove/dp/196472113X",
