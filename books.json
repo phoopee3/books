@@ -1,6 +1,25 @@
 {
     "books": [
         {
+            "title": "Wolf Worm",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"T. Kingfisher",
+            "pages":288,
+            "rating":0,
+            "start_date":"2026-10-29",
+            "end_date":"2026-10-29",
+            "cover":"https://cdn.jasonlawton.com/books/wolf-worm.jpg",
+            "tags":["currently-reading","fiction","fantasy","historical","horror","dark","mysterious","tense","medium-paced"],
+            "notes":"",
+            "links":{
+                "amazon":"https://www.amazon.com/Wolf-Worm-T-Kingfisher/dp/1250829828",
+                "bookshop.org":"https://bookshop.org/p/books/wolf-worm-t-kingfisher/02d097c3b2df2d65?ean=9781250829825"
+            }
+        },{
             "title": "Trees",
             "subtitle":"",
             "description":"",
@@ -275,11 +294,11 @@
             "series_total":0,
             "author":"Barbara Truelove",
             "pages":424,
-            "rating":0,
+            "rating":4,
             "start_date":"2026-10-24",
-            "end_date":"2026-10-24",
+            "end_date":"2026-10-28",
             "cover":"https://cdn.jasonlawton.com/books/monsters-and-mainframes.jpg",
-            "tags":["currently-reading","fiction","science-fiction","fantasy","lgbtqia+","adventurous","emotional","funny","fast-paced"],
+            "tags":["fiction","science-fiction","fantasy","lgbtqia+","adventurous","emotional","funny","fast-paced"],
             "notes":"",
             "links":{
                 "amazon":"https://www.amazon.com/Monsters-Mainframes-Barbara-Truelove/dp/196472113X",
