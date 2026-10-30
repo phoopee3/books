@@ -1,6 +1,25 @@
 {
     "books": [
         {
+            "title": "The Hobbit",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"J.R.R. Tolkein",
+            "pages":320,
+            "rating":0,
+            "start_date":"2026-10-29",
+            "end_date":"2026-10-29",
+            "cover":"https://cdn.jasonlawton.com/books/hobbit.jpg",
+            "tags":["currently-reading","fiction","classics","fantasy","adventurous","lighthearted","medium-paced"],
+            "notes":"",
+            "links":{
+                "amazon":"https://www.amazon.com/Hobbit-Classic-Fantasy-Tale-Middle-earth/dp/0618260307",
+                "bookshop.org":"https://bookshop.org/p/books/the-hobbit-the-enchanting-prelude-to-the-lord-of-the-rings-j-r-r-tolkien/dde74cfb87ceed19?ean=9780345339683"
+            }
+        },{
             "title": "Wolf Worm",
             "subtitle":"",
             "description":"",
@@ -13,8 +32,8 @@
             "start_date":"2026-10-29",
             "end_date":"2026-10-29",
             "cover":"https://cdn.jasonlawton.com/books/wolf-worm.jpg",
-            "tags":["currently-reading","fiction","fantasy","historical","horror","dark","mysterious","tense","medium-paced"],
-            "notes":"",
+            "tags":["dnf","fiction","fantasy","historical","horror","dark","mysterious","tense","medium-paced"],
+            "notes":"Too icky to read",
             "links":{
                 "amazon":"https://www.amazon.com/Wolf-Worm-T-Kingfisher/dp/1250829828",
                 "bookshop.org":"https://bookshop.org/p/books/wolf-worm-t-kingfisher/02d097c3b2df2d65?ean=9781250829825"
