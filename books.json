@@ -1,6 +1,25 @@
 {
     "books": [
         {
+            "title": "The Bishop of Durham Attempts to Surrender the City",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Susanna Clarke",
+            "pages":96,
+            "rating":3,
+            "start_date":"2026-10-31",
+            "end_date":"2026-10-31",
+            "cover":"https://cdn.jasonlawton.com/books/bishop-of-durham-attempts-to-surrender-the-city.jpg",
+            "tags":["fiction","fantasy","short-stories","mysterious","fast-paced"],
+            "notes":"Very, very short, but a nice read.",
+            "links":{
+                "amazon":"https://www.amazon.com/Bishop-Durham-Attempts-Surrender-City/dp/1639739815",
+                "bookshop.org":"https://bookshop.org/p/books/the-bishop-of-durham-attempts-to-surrender-the-city-susanna-clarke/b4069b5219fbf22e?ean=9781639739813"
+            }
+        },{
             "title": "The Hobbit",
             "subtitle":"",
             "description":"",
@@ -10,8 +29,8 @@
             "author":"J.R.R. Tolkein",
             "pages":320,
             "rating":0,
-            "start_date":"2026-10-29",
-            "end_date":"2026-10-29",
+            "start_date":"2026-11-01",
+            "end_date":"2026-11-01",
             "cover":"https://cdn.jasonlawton.com/books/hobbit.jpg",
             "tags":["currently-reading","fiction","classics","fantasy","adventurous","lighthearted","medium-paced"],
             "notes":"",
@@ -29,7 +48,7 @@
             "author":"T. Kingfisher",
             "pages":288,
             "rating":0,
-            "start_date":"2026-10-29",
+            "start_date":"2026-10-24",
             "end_date":"2026-10-29",
             "cover":"https://cdn.jasonlawton.com/books/wolf-worm.jpg",
             "tags":["dnf","fiction","fantasy","historical","horror","dark","mysterious","tense","medium-paced"],
