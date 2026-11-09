@@ -89,7 +89,7 @@
             "start_date":"2026-10-11",
             "end_date":"2026-10-12",
             "cover":"https://cdn.jasonlawton.com/books/days-at-the-morisaki-bookshop.jpg",
-            "tags":["library-book-club","fiction","contemporary","hopeful","lighthearted","reflective","fast-paced"],
+            "tags":["bookclub-(library)","fiction","contemporary","hopeful","lighthearted","reflective","fast-paced"],
             "notes":"This was a cute quick read. I really needed this after reading Between Two Fires.",
             "links":{
                 "amazon":"https://www.amazon.com/Days-at-Morisaki-Bookshop-Novel/dp/0063278677",
@@ -108,7 +108,7 @@
             "start_date":"2026-10-04",
             "end_date":"2026-10-06",
             "cover":"https://cdn.jasonlawton.com/books/we-have-always-lived-in-the-castle.jpg",
-            "tags":["library-book-club","fiction","classics","horror","literary","mystery","dark","mysterious","medium-paced"],
+            "tags":["bookclub-(library)","fiction","classics","horror","literary","mystery","dark","mysterious","medium-paced"],
             "notes":"",
             "links":{
                 "amazon":"https://www.amazon.com/Always-Castle-Penguin-Classics-Deluxe/dp/0143039970",
@@ -127,7 +127,7 @@
             "start_date":"2026-10-14",
             "end_date":"2026-10-20",
             "cover":"https://cdn.jasonlawton.com/books/motherland.jpg",
-            "tags":["currently-reading","tvs-book-club","nonfiction","feminism","history","memoir","dark","informative","reflective","medium-paced"],
+            "tags":["currently-reading","bookclub-(tvs)","nonfiction","feminism","history","memoir","dark","informative","reflective","medium-paced"],
             "notes":"I do not like this book at all.",
             "links":{
                 "amazon":"https://www.amazon.com/Motherland-Feminist-History-Revolution-Autocracy-ebook/dp/B0CRQHG1YV",
@@ -165,7 +165,7 @@
             "start_date":"2026-09-28",
             "end_date":"2026-10-11",
             "cover":"https://cdn.jasonlawton.com/books/between-two-fires.jpg",
-            "tags":["library-book-club","fiction","fantasy","historical","horror","adventurous","dark","tense","medium-paced"],
+            "tags":["bookclub-(library)","fiction","fantasy","historical","horror","adventurous","dark","tense","medium-paced"],
             "notes":"The same thing kept happening over and over again, they travel, they run into demons. We get it.",
             "links":{
                 "amazon":"https://www.amazon.com/Between-Two-Fires-Christopher-Buehlman/dp/1250439205",
@@ -260,7 +260,7 @@
             "start_date":"2026-09-11",
             "end_date":"2026-09-11",
             "cover":"https://cdn.jasonlawton.com/books/nightfall.jpg",
-            "tags":["library-book-club","fiction","science-fiction","short-stories","reflective","slow-paced"],
+            "tags":["bookclub-(library)","fiction","science-fiction","short-stories","reflective","slow-paced"],
             "notes":"",
             "links":{
                 "amazon":"https://www.amazon.com/Nightfall-Other-Stories-Isaac-Asimov/dp/0593357469",
@@ -393,7 +393,7 @@
             "start_date":"2026-08-09",
             "end_date":"2026-08-15",
             "cover":"https://cdn.jasonlawton.com/books/black-sun.jpg",
-            "tags":["book-club","fiction","fantasy","historical","lgbtqia+","adventurous","dark","mysterious","medium-paced"],
+            "tags":["bookclub-(library)","fiction","fantasy","historical","lgbtqia+","adventurous","dark","mysterious","medium-paced"],
             "notes":"I hate how this book ends.",
             "links":{
                 "amazon":"https://www.amazon.com/Black-Sun-Between-Earth-Sky/dp/1534437681",
@@ -415,7 +415,7 @@
             "cover": "https://cdn.jasonlawton.com/books/7-1-2-deaths-of-evelyn-hardcastle.jpg",
             "notes": "I really like this book but it falls apart at the end and thats really disappointing.",
             "tags": [
-                "tvs-book-club","fiction","mystery","thriller","dark","mysterious","tense","medium-paced"
+                "bookclub-(tvs)","fiction","mystery","thriller","dark","mysterious","tense","medium-paced"
             ],
             "links": {
                 "amazon": "https://www.amazon.com/%C2%BD-Deaths-Evelyn-Hardcastle-ebook/dp/B07CP8YXH3",
@@ -520,7 +520,7 @@
             "cover": "https://cdn.jasonlawton.com/books/wizard-of-earthsea-graphic-novel.jpg",
             "notes": "",
             "tags": [
-                "library-book-club","graphic-novel","fiction","fantasy","young-adult","adventurous","medium-paced"
+                "bookclub-(library)","graphic-novel","fiction","fantasy","young-adult","adventurous","medium-paced"
             ],
             "links": {
                 "amazon": "https://www.amazon.com/Wizard-Earthsea-Graphic-Novel/dp/0063285762",
@@ -541,7 +541,7 @@
             "cover": "https://cdn.jasonlawton.com/books/wizard-of-earthsea.jpg",
             "notes": "",
             "tags": [
-                "library-book-club","fiction","classics","fantasy","young-adult","adventurous","medium-paced"
+                "bookclub-(library)","fiction","classics","fantasy","young-adult","adventurous","medium-paced"
             ],
             "links": {
                 "amazon": "https://www.amazon.com/Wizard-Earthsea-Cycle-Book-ebook/dp/B008T9L6AM",
@@ -646,7 +646,7 @@
             "cover": "https://cdn.jasonlawton.com/books/all-our-wrong-todays.jpg",
             "notes": "An interesting book but the way the character takes advantage of his partner is a bit gross and not handled very well.",
             "tags": [
-                "tvs-book-club",
+                "bookclub-(tvs)",
                 "fiction","literary","romance","science-fiction","adventurous","medium-paced"
             ],
             "links": {
@@ -669,7 +669,7 @@
             "cover": "https://cdn.jasonlawton.com/books/tennis-partner.jpg",
             "notes": "Lack of female characters, Abraham doesn't seem to have anything going on in his life aside from tennis with one person. Women are mostly presented as problems. Abraham should have been in therapy, or another tennis group.",
             "tags": [
-                "tvs-book-club",
+                "bookclub-(tvs)",
                 "nonfiction","memoir","inspiring","sad","slow-paced"
             ],
             "links": {
@@ -692,7 +692,7 @@
             "cover": "https://cdn.jasonlawton.com/books/never-let-me-go.jpg",
             "notes": "Started like Piranesi, in the way that you were like 'something is off here, what is going on'. Ended up being about people interacting with each other and the thoughts and feelings they have.",
             "tags": [
-                "library-book-club","fiction","dystopian","literary","science-fiction","emotional","reflective","sad","slow-paced"
+                "bookclub-(library)","fiction","dystopian","literary","science-fiction","emotional","reflective","sad","slow-paced"
             ],
             "links": {
                 "amazon": "https://www.amazon.com/Never-Let-Me-Kazuo-Ishiguro/dp/1400078776",
@@ -781,7 +781,7 @@
             "cover": "https://cdn.jasonlawton.com/books/anxious-people.jpg",
             "notes": "",
             "tags": [
-                "tvs-book-club",
+                "bookclub-(tvs)",
                 "fiction","contemporary","literary","mystery","emotional","funny","hopeful","medium-paced"
             ],
             "links": {
@@ -1042,7 +1042,7 @@
             "end_date": "2026-02-11",
             "cover": "https://cdn.jasonlawton.com/books/station-eleven.jpg",
             "notes": "Well written, but not the most pleasant of topics in a post-covid world.",
-            "tags": ["tvs-book-club","fiction","dystopian","literary","adventurous","dark","reflective","medium-paced"],
+            "tags": ["bookclub-(tvs)","fiction","dystopian","literary","adventurous","dark","reflective","medium-paced"],
             "links": {
                 "amazon": "https://a.co/d/00MlmYPl",
                 "bookshop.org": "https://bookshop.org/p/books/station-eleven-a-novel-national-book-award-finalist-emily-st-john-mandel/0e96a86b5246b32c?ean=9780804172448&next=t"
@@ -1081,7 +1081,7 @@
             "end_date": "2026-01-18",
             "cover": "https://cdn.jasonlawton.com/books/reader-come-home.jpg",
             "notes": "",
-            "tags": ["tvs-book-club","nonfiction","education","psychology","science","challenging","informative","reflective","slow-paced"],
+            "tags": ["bookclub-(tvs)","nonfiction","education","psychology","science","challenging","informative","reflective","slow-paced"],
             "links": {
                 "amazon": "https://www.amazon.com/Reader-Come-Home-Reading-Digital-ebook/dp/B074DTJ2CT",
                 "bookshop.org": "https://bookshop.org/p/books/reader-come-home-the-reading-brain-in-a-digital-world-maryanne-wolf/d5abab3b519a99ae?ean=9780062388773&next=t"
@@ -1103,7 +1103,7 @@
             "notes": "I forgot how quickly this book moved. Still amazing.",
             "tags": [
                 "re-read",
-                "library-book-club","fiction","fantasy","literary","speculative","fiction","adventurous","mysterious","reflective","medium-paced"
+                "bookclub-(library)","fiction","fantasy","literary","speculative","fiction","adventurous","mysterious","reflective","medium-paced"
             ],
             "links": {
                 "amazon": "https://www.amazon.com/Piranesi-Spectacular-Times-Susanna-Clarke-ebook/dp/B0865TSTWM",
