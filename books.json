@@ -28,12 +28,12 @@
             "series_total":0,
             "author":"J.R.R. Tolkein",
             "pages":320,
-            "rating":0,
+            "rating":3,
             "start_date":"2026-11-01",
-            "end_date":"2026-11-01",
+            "end_date":"2026-11-14",
             "cover":"https://cdn.jasonlawton.com/books/hobbit.jpg",
-            "tags":["currently-reading","fiction","classics","fantasy","adventurous","lighthearted","medium-paced"],
-            "notes":"",
+            "tags":["bookclub-(library)","fiction","classics","fantasy","adventurous","lighthearted","medium-paced"],
+            "notes":"A cute story where a lot of the big action happens off the page. There are also zero women in it. Obviously it was hugely influential, but in 2026 it falls a bit... short.",
             "links":{
                 "amazon":"https://www.amazon.com/Hobbit-Classic-Fantasy-Tale-Middle-earth/dp/0618260307",
                 "bookshop.org":"https://bookshop.org/p/books/the-hobbit-the-enchanting-prelude-to-the-lord-of-the-rings-j-r-r-tolkien/dde74cfb87ceed19?ean=9780345339683"
@@ -125,10 +125,10 @@
             "pages":505,
             "rating":0,
             "start_date":"2026-10-14",
-            "end_date":"2026-10-20",
+            "end_date":"2026-11-10",
             "cover":"https://cdn.jasonlawton.com/books/motherland.jpg",
-            "tags":["currently-reading","bookclub-(tvs)","nonfiction","feminism","history","memoir","dark","informative","reflective","medium-paced"],
-            "notes":"I do not like this book at all.",
+            "tags":["dnf","bookclub-(tvs)","nonfiction","feminism","history","memoir","dark","informative","reflective","medium-paced"],
+            "notes":"I do not like this book at all. I stopped and then tried skimming though it, but every time I stopped to read a paragraph or two it was depressing.",
             "links":{
                 "amazon":"https://www.amazon.com/Motherland-Feminist-History-Revolution-Autocracy-ebook/dp/B0CRQHG1YV",
                 "bookshop.org":"https://bookshop.org/p/books/motherland-a-feminist-history-of-modern-russia-from-revolution-to-autocracy-julia-ioffe/44a4f5cc9482d1c9?ean=9780062879127&bkshp-astro=t"
