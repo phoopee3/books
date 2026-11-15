@@ -1,6 +1,25 @@
 {
     "books": [
         {
+            "title": "Small Things Like These",
+            "subtitle":"",
+            "description":"",
+            "series_name":"",
+            "series_order":0,
+            "series_total":0,
+            "author":"Claire Keegan",
+            "pages":128,
+            "rating":0,
+            "start_date":"2026-11-14",
+            "end_date":"2026-11-14",
+            "cover":"https://cdn.jasonlawton.com/books/small-things-like-these.jpg",
+            "tags":["currently-reading","fiction","historical","literary","emotional","reflective","sad","medium-paced"],
+            "notes":"",
+            "links":{
+                "amazon":"https://www.amazon.com/Small-Things-These-Claire-Keegan/dp/0802158749",
+                "bookshop.org":"https://bookshop.org/p/books/small-things-like-these-oprah-s-book-club-claire-keegan/fda33bd4dc7ce1d9?ean=9780802158741"
+            }
+        },{
             "title": "The Bishop of Durham Attempts to Surrender the City",
             "subtitle":"",
             "description":"",
