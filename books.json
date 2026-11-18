@@ -1,6 +1,177 @@
 {
   "books": [
     {
+      "title": "Time Travel for Beginners",
+      "subtitle": "",
+      "series_name": "",
+      "series_order": 0,
+      "series_total": 0,
+      "author": "Jaclyn Moriarty",
+      "pages": 532,
+      "rating": 0,
+      "start_date": "2099-01-01",
+      "end_date": "2099-01-01",
+      "cover": "https://cdn.jasonlawton.com/books/time-travel-for-beginners.jpg",
+      "description": "",
+      "notes": "",
+      "tags": [
+        "to-read",
+        "fiction",
+        "science-fiction",
+        "emotional",
+        "hopeful",
+        "reflective",
+        "medium-paced"
+      ],
+      "links": {
+        "amazon": "https://www.amazon.com/Time-Travel-Beginners-Jaclyn-Moriarty/dp/0593820339",
+        "bookshop.org": "https://bookshop.org/p/books/time-travel-for-beginners-jaclyn-moriarty/d62b24c465bc7f43?ean=9780593820339"
+      }
+    },
+    {
+      "title": "Slow Gods",
+      "subtitle": "",
+      "series_name": "",
+      "series_order": 0,
+      "series_total": 0,
+      "author": "Claire North",
+      "pages": 438,
+      "rating": 0,
+      "start_date": "2099-01-01",
+      "end_date": "2099-01-01",
+      "cover": "https://cdn.jasonlawton.com/books/slow-gods.jpg",
+      "description": "",
+      "notes": "",
+      "tags": [
+        "to-read",
+        "fiction",
+        "science-fiction",
+        "dark",
+        "mysterious",
+        "reflective",
+        "slow-paced"
+      ],
+      "links": {
+        "amazon": "https://www.amazon.com/Slow-Gods-Claire-North/dp/0316586307",
+        "bookshop.org": "https://bookshop.org/p/books/slow-gods-claire-north/b9a8feb38e20f8bc?ean=9780316586306"
+      }
+    },
+    {
+      "title": "Scion",
+      "subtitle": "",
+      "series_name": "",
+      "series_order": 0,
+      "series_total": 0,
+      "author": "James Islington",
+      "pages": 240,
+      "rating": 0,
+      "start_date": "2099-01-01",
+      "end_date": "2099-01-01",
+      "cover": "https://cdn.jasonlawton.com/books/scion.jpg",
+      "description": "",
+      "notes": "",
+      "tags": [
+        "to-read",
+        "fiction",
+        "science-fiction",
+        "thriller",
+        "adventurous",
+        "funny",
+        "tense",
+        "fast-paced"
+      ],
+      "links": {
+        "amazon": "https://www.amazon.com/Scion-James-Islington/dp/1668239248",
+        "bookshop.org": "https://bookshop.org/p/books/scion/b80050bd62e2b997?ean=9781668239247"
+      }
+    },
+    {
+      "title": "The Last Contract of Isako",
+      "subtitle": "",
+      "series_name": "",
+      "series_order": 0,
+      "series_total": 0,
+      "author": "Fonda Lee",
+      "pages": 528,
+      "rating": 0,
+      "start_date": "2099-01-01",
+      "end_date": "2099-01-01",
+      "cover": "https://cdn.jasonlawton.com/books/last-contract-of-isako.jpg",
+      "description": "",
+      "notes": "",
+      "tags": [
+        "to-read",
+        "fiction",
+        "science-fiction",
+        "adventurous",
+        "mysterious",
+        "tense",
+        "medium-paced"
+      ],
+      "links": {
+        "amazon": "https://www.amazon.com/Last-Contract-Isako-Fonda-Lee/dp/0316568651",
+        "bookshop.org": "https://bookshop.org/p/books/the-last-contract-of-isako-fonda-lee/6404676f996446a7?ean=9780316568654"
+      }
+    },
+    {
+      "title": "Bodies of Magic",
+      "subtitle": "",
+      "series_name": "",
+      "series_order": 0,
+      "series_total": 0,
+      "author": "Freya Marske",
+      "pages": 464,
+      "rating": 0,
+      "start_date": "2099-01-01",
+      "end_date": "2099-01-01",
+      "cover": "https://cdn.jasonlawton.com/books/bodies-of-magic.jpg",
+      "description": "",
+      "notes": "",
+      "tags": [
+        "to-read",
+        "fiction",
+        "fantasy",
+        "lgbtqia+",
+        "mystery",
+        "emotional",
+        "mysterious",
+        "medium-paced"
+      ],
+      "links": {
+        "amazon": "https://www.amazon.com/Bodies-Magic-Freya-Marske/dp/1250341655",
+        "bookshop.org": "https://bookshop.org/p/books/bodies-of-magic-freya-marske/271e7dc4c303b1cd?ean=9781250341655"
+      }
+    },
+    {
+      "title": "The Astral Library",
+      "subtitle": "",
+      "series_name": "",
+      "series_order": 0,
+      "series_total": 0,
+      "author": "Kate Quinn",
+      "pages": 304,
+      "rating": 0,
+      "start_date": "2099-01-01",
+      "end_date": "2099-01-01",
+      "cover": "https://cdn.jasonlawton.com/books/astral-library.jpg",
+      "description": "",
+      "notes": "",
+      "tags": [
+        "to-read",
+        "fiction",
+        "fantasy",
+        "literary",
+        "speculative-fiction",
+        "adventurous",
+        "hopeful",
+        "medium-paced"
+      ],
+      "links": {
+        "amazon": "https://www.amazon.com/Astral-Library-Standard-Novel/dp/0063479753",
+        "bookshop.org": "https://bookshop.org/p/books/the-astral-library-a-novel-kate-quinn/aa90123adc89b23b?ean=9780063244788"
+      }
+    },
+    {
       "title": "Trade of Blood",
       "subtitle": "",
       "series_name": "Shadow of the Leviathan",
@@ -15,7 +186,7 @@
       "description": "",
       "notes": "",
       "tags": [
-        "to-read",
+        "to read",
         "fiction",
         "fantasy",
         "mystery",
@@ -44,10 +215,10 @@
       "description": "",
       "notes": "",
       "tags": [
-        "to-read",
+        "to read",
         "fiction",
         "lgbtqia+",
-        "science-fiction",
+        "science fiction",
         "adventurous",
         "emotional",
         "reflective",
@@ -73,10 +244,10 @@
       "description": "",
       "notes": "",
       "tags": [
-        "currently-reading",
+        "currently reading",
         "fiction",
         "literary",
-        "speculative-fiction",
+        "speculative fiction",
         "mysterious",
         "reflective",
         "slow-paced"
