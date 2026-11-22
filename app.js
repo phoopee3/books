@@ -413,12 +413,12 @@ function updateStatusTags() {
   const tags = tagsTextarea.value.split('\n').map(tag => tag.trim()).filter(Boolean);
   
   // Remove any existing status tags
-  const otherTags = tags.filter(tag => tag !== 'to read' && tag !== 'currently reading');
+  const otherTags = tags.filter(tag => tag !== 'to-read' && tag !== 'currently-reading');
   
   // Build the new tag list with status tags in the correct order
   const newTags = [];
-  if (currentlyReadingCheckbox.checked) newTags.push('currently reading');
-  if (toReadCheckbox.checked) newTags.push('to read');
+  if (currentlyReadingCheckbox.checked) newTags.push('currently-reading');
+  if (toReadCheckbox.checked) newTags.push('to-read');
   newTags.push(...otherTags);
   
   tagsTextarea.value = newTags.join('\n');
@@ -436,7 +436,7 @@ currentlyReadingCheckbox.addEventListener('change', updateStatusTags);
 function updateStatusCheckboxes() {
   const tagsValue = form.elements.tags.value;
   const tags = tagsValue.split('\n').map(tag => tag.trim()).filter(Boolean);
-  toReadCheckbox.checked = tags.includes('to read');
-  currentlyReadingCheckbox.checked = tags.includes('currently reading');
+  toReadCheckbox.checked = tags.includes('to-read');
+  currentlyReadingCheckbox.checked = tags.includes('currently-reading');
 }
 loadBooks();
